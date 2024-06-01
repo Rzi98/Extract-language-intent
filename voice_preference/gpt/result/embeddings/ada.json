@@ -1,0 +1,1382 @@
+{
+    "1": {
+        "Get close to bottle": {
+            "closest_pattern": "Stay close to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.95649
+        },
+        "turn right": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.91407
+        },
+        "move closer to apple": {
+            "closest_pattern": "Move closer to apple",
+            "predicted_feature": "apple distance decrease",
+            "confidence_score": 0.98758
+        },
+        "stay away from book": {
+            "closest_pattern": "Stay away from book",
+            "predicted_feature": "book distance increase",
+            "confidence_score": 0.98614
+        },
+        "elapsed_time": 7.24988,
+        "correction": {}
+    },
+    "2": {
+        "Approach the vase": {
+            "closest_pattern": "Move closer to vase",
+            "predicted_feature": "vase distance decrease",
+            "confidence_score": 0.917
+        },
+        "move left": {
+            "closest_pattern": "Move left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.97668
+        },
+        "get nearer to the orange": {
+            "closest_pattern": "Move closer to orange",
+            "predicted_feature": "orange distance decrease",
+            "confidence_score": 0.94729
+        },
+        "stay down": {
+            "closest_pattern": "Stay down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97344
+        },
+        "elapsed_time": 6.5131,
+        "correction": {}
+    },
+    "3": {
+        "Reduce the distance to the box": {
+            "closest_pattern": "Decrease distance to box",
+            "predicted_feature": "box distance decrease",
+            "confidence_score": 0.96696
+        },
+        "turn left": {
+            "closest_pattern": "Go to the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.92288
+        },
+        "get a bit closer to the banana": {
+            "closest_pattern": "Move closer to banana",
+            "predicted_feature": "banana distance decrease",
+            "confidence_score": 0.93717
+        },
+        "avoid the pen": {
+            "closest_pattern": "Stay away from pen",
+            "predicted_feature": "pen distance increase",
+            "confidence_score": 0.94436
+        },
+        "elapsed_time": 7.22624,
+        "correction": {}
+    },
+    "4": {
+        "Move closer to the cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.99293
+        },
+        "go right": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.91925
+        },
+        "keep close to the pear": {
+            "closest_pattern": "Stay close to pear",
+            "predicted_feature": "pear distance decrease",
+            "confidence_score": 0.97278
+        },
+        "step back from the notebook": {
+            "closest_pattern": "Move further away from notebook",
+            "predicted_feature": "notebook distance increase",
+            "confidence_score": 0.91764
+        },
+        "elapsed_time": 6.70293,
+        "correction": {}
+    },
+    "5": {
+        "Stay close to the jar": {
+            "closest_pattern": "Stay close to jar",
+            "predicted_feature": "jar distance decrease",
+            "confidence_score": 0.98351
+        },
+        "move leftward": {
+            "closest_pattern": "Move left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.91491
+        },
+        "decrease the distance to the watermelon": {
+            "closest_pattern": "Decrease distance to watermelon",
+            "predicted_feature": "watermelon distance decrease",
+            "confidence_score": 0.98107
+        },
+        "avoid the magazine": {
+            "closest_pattern": "Stay away from magazine",
+            "predicted_feature": "magazine distance increase",
+            "confidence_score": 0.9618
+        },
+        "elapsed_time": 13.66109,
+        "correction": {}
+    },
+    "6": {
+        "Get nearer to the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.95869
+        },
+        "approach the monitor": {
+            "closest_pattern": "Stay close to monitor",
+            "predicted_feature": "monitor distance decrease",
+            "confidence_score": 0.90662
+        },
+        "get a little bit lower": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.87411
+        },
+        "stay down": {
+            "closest_pattern": "Stay down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97344
+        },
+        "elapsed_time": 7.23986,
+        "correction": {}
+    },
+    "7": {
+        "Retreat from the table": {
+            "closest_pattern": "Move further away from table",
+            "predicted_feature": "table distance increase",
+            "confidence_score": 0.90346
+        },
+        "move rightwards": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90575
+        },
+        "move down": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97715
+        },
+        "keep your distance from the textbook": {
+            "closest_pattern": "Keep a bigger distance from textbook",
+            "predicted_feature": "textbook distance increase",
+            "confidence_score": 0.95832
+        },
+        "elapsed_time": 10.98486,
+        "correction": {}
+    },
+    "8": {
+        "Get closer to the plate": {
+            "closest_pattern": "Stay close to plate",
+            "predicted_feature": "plate distance decrease",
+            "confidence_score": 0.93246
+        },
+        "go forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 0.95344
+        },
+        "move closer to the peach": {
+            "closest_pattern": "Move closer to peach",
+            "predicted_feature": "peach distance decrease",
+            "confidence_score": 0.981
+        },
+        "steer clear of the journal": {
+            "closest_pattern": "Stay away from journal",
+            "predicted_feature": "journal distance increase",
+            "confidence_score": 0.94795
+        },
+        "elapsed_time": 6.22713,
+        "correction": {}
+    },
+    "9": {
+        "Retreat from the glass": {
+            "closest_pattern": "Move further away from glass",
+            "predicted_feature": "glass distance increase",
+            "confidence_score": 0.91856
+        },
+        "stay left": {
+            "closest_pattern": "Stay on the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.91324
+        },
+        "increase the distance from the mango": {
+            "closest_pattern": "Increase distance to mango",
+            "predicted_feature": "mango distance increase",
+            "confidence_score": 0.9711
+        },
+        "move a bit further away from the diary": {
+            "closest_pattern": "Move further away from diary",
+            "predicted_feature": "diary distance increase",
+            "confidence_score": 0.9668
+        },
+        "elapsed_time": 9.28506,
+        "correction": {}
+    },
+    "10": {
+        "Keep a greater distance from the bowl": {
+            "closest_pattern": "Keep a bigger distance from bowl",
+            "predicted_feature": "bowl distance increase",
+            "confidence_score": 0.98752
+        },
+        "move right": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.97931
+        },
+        "move up": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.97794
+        },
+        "avoid the notebook": {
+            "closest_pattern": "Stay away from notebook",
+            "predicted_feature": "notebook distance increase",
+            "confidence_score": 0.94649
+        },
+        "elapsed_time": 5.70977,
+        "correction": {}
+    },
+    "11": {
+        "Traverse right": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90298
+        },
+        "get closer to the desktop": {
+            "closest_pattern": "Stay close to desktop",
+            "predicted_feature": "desktop distance decrease",
+            "confidence_score": 0.95399
+        },
+        "stay elevated": {
+            "closest_pattern": "Stay on the upper part",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.87346
+        },
+        "go backwards": {
+            "closest_pattern": "Move backward",
+            "predicted_feature": "Y-cartesian decrease",
+            "confidence_score": 0.93837
+        },
+        "elapsed_time": 5.76975,
+        "correction": {}
+    },
+    "12": {
+        "Move nearer to the book": {
+            "closest_pattern": "Move closer to book",
+            "predicted_feature": "book distance decrease",
+            "confidence_score": 0.98184
+        },
+        "go rightward": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.89232
+        },
+        "go down": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.9175
+        },
+        "stay close to the book": {
+            "closest_pattern": "Stay close to book",
+            "predicted_feature": "book distance decrease",
+            "confidence_score": 0.97429
+        },
+        "elapsed_time": 5.25837,
+        "correction": {}
+    },
+    "13": {
+        "Get a bit closer to the can": {
+            "closest_pattern": "Move closer to can",
+            "predicted_feature": "can distance decrease",
+            "confidence_score": 0.91939
+        },
+        "move leftward": {
+            "closest_pattern": "Move left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.915
+        },
+        "descend downward": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.87605
+        },
+        "avoid the magazine": {
+            "closest_pattern": "Stay away from magazine",
+            "predicted_feature": "magazine distance increase",
+            "confidence_score": 0.96177
+        },
+        "elapsed_time": 5.79856,
+        "correction": {}
+    },
+    "14": {
+        "Stay near the cup": {
+            "closest_pattern": "Stay close to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.97861
+        },
+        "move rightwards": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90575
+        },
+        "move lower": {
+            "closest_pattern": "Move lower",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97057
+        },
+        "increase the distance from the notebook": {
+            "closest_pattern": "Increase distance to notebook",
+            "predicted_feature": "notebook distance increase",
+            "confidence_score": 0.9718
+        },
+        "elapsed_time": 4.92605,
+        "correction": {}
+    },
+    "15": {
+        "Get closer to the plate": {
+            "closest_pattern": "Stay close to plate",
+            "predicted_feature": "plate distance decrease",
+            "confidence_score": 0.93246
+        },
+        "approach the laptop": {
+            "closest_pattern": "Stay close to laptop",
+            "predicted_feature": "laptop distance decrease",
+            "confidence_score": 0.90591
+        },
+        "remain at a lower position": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.84248
+        },
+        "keep your distance from the journal": {
+            "closest_pattern": "Keep a bigger distance from journal",
+            "predicted_feature": "journal distance increase",
+            "confidence_score": 0.95648
+        },
+        "elapsed_time": 4.85754,
+        "correction": {}
+    },
+    "16": {
+        "Move away from the glass": {
+            "closest_pattern": "Move further away from glass",
+            "predicted_feature": "glass distance increase",
+            "confidence_score": 0.97292
+        },
+        "stay left": {
+            "closest_pattern": "Stay on the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.91324
+        },
+        "go up": {
+            "closest_pattern": "Up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.89587
+        },
+        "move a bit further away from the diary": {
+            "closest_pattern": "Move further away from diary",
+            "predicted_feature": "diary distance increase",
+            "confidence_score": 0.9668
+        },
+        "elapsed_time": 5.28157,
+        "correction": {}
+    },
+    "17": {
+        "Keep a greater distance from the bowl": {
+            "closest_pattern": "Keep a bigger distance from bowl",
+            "predicted_feature": "bowl distance increase",
+            "confidence_score": 0.98754
+        },
+        "move rightwards": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90575
+        },
+        "ascend upwards": {
+            "closest_pattern": "Move higher",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.85428
+        },
+        "avoid the notebook": {
+            "closest_pattern": "Stay away from notebook",
+            "predicted_feature": "notebook distance increase",
+            "confidence_score": 0.94649
+        },
+        "elapsed_time": 5.7496,
+        "correction": {}
+    },
+    "18": {
+        "Move nearer to the jar": {
+            "closest_pattern": "Move closer to jar",
+            "predicted_feature": "jar distance decrease",
+            "confidence_score": 0.98425
+        },
+        "go rightward": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.89231
+        },
+        "stay elevated": {
+            "closest_pattern": "Stay on the upper part",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.87346
+        },
+        "avoid the textbook": {
+            "closest_pattern": "Stay away from textbook",
+            "predicted_feature": "textbook distance increase",
+            "confidence_score": 0.9562
+        },
+        "elapsed_time": 7.66549,
+        "correction": {}
+    },
+    "19": {
+        "Move closer to the plate": {
+            "closest_pattern": "Move closer to plate",
+            "predicted_feature": "plate distance decrease",
+            "confidence_score": 0.97847
+        },
+        "get close to the desktop": {
+            "closest_pattern": "Stay close to desktop",
+            "predicted_feature": "desktop distance decrease",
+            "confidence_score": 0.95888
+        },
+        "move lower": {
+            "closest_pattern": "Move lower",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97057
+        },
+        "steer clear of the magazine": {
+            "closest_pattern": "Stay away from magazine",
+            "predicted_feature": "magazine distance increase",
+            "confidence_score": 0.94543
+        },
+        "elapsed_time": 6.64616,
+        "correction": {}
+    },
+    "20": {
+        "Move forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 1.0
+        },
+        "move rightwards": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90575
+        },
+        "decrease the distance to the notebook": {
+            "closest_pattern": "Decrease distance to notebook",
+            "predicted_feature": "notebook distance decrease",
+            "confidence_score": 0.98199
+        },
+        "move a bit further away from the diary": {
+            "closest_pattern": "Move further away from diary",
+            "predicted_feature": "diary distance increase",
+            "confidence_score": 0.9668
+        },
+        "elapsed_time": 6.87752,
+        "correction": {}
+    },
+    "21": {
+        "move more left": {
+            "closest_pattern": "Move more towards the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.94437
+        },
+        "stay closer to the bottle": {
+            "closest_pattern": "Stay close to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.96843
+        },
+        "elapsed_time": 4.39685,
+        "correction": {}
+    },
+    "22": {
+        "stay closer to the laptop": {
+            "closest_pattern": "Stay close to laptop",
+            "predicted_feature": "laptop distance decrease",
+            "confidence_score": 0.9701
+        },
+        "stay closer to the cup": {
+            "closest_pattern": "Stay close to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.97365
+        },
+        "move up a little bit": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.92768
+        },
+        "elapsed_time": 5.76395,
+        "correction": {}
+    },
+    "23": {
+        "move down": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97715
+        },
+        "closer to the plate": {
+            "closest_pattern": "Stay close to plate",
+            "predicted_feature": "plate distance decrease",
+            "confidence_score": 0.9175
+        },
+        "microwave": {
+            "closest_pattern": "Avoid microwave",
+            "predicted_feature": "microwave distance increase",
+            "confidence_score": 0.91456
+        },
+        "elapsed_time": 4.75016,
+        "correction": {
+            "predicted": [
+                "microwave distance increase",
+                "plate distance decrease",
+                "z-cartesian decrease"
+            ],
+            "truth": [
+                "microwave distance decrease",
+                "plate distance decrease",
+                "z-cartesian decrease"
+            ]
+        }
+    },
+    "24": {
+        "avoid the cake": {
+            "closest_pattern": "Stay away from cake",
+            "predicted_feature": "cake distance increase",
+            "confidence_score": 0.95517
+        },
+        "avoid the fridge": {
+            "closest_pattern": "Stay away from fridge",
+            "predicted_feature": "fridge distance increase",
+            "confidence_score": 0.95888
+        },
+        "elapsed_time": 4.15173,
+        "correction": {}
+    },
+    "25": {
+        "move away from bottle": {
+            "closest_pattern": "Move further away from bottle",
+            "predicted_feature": "bottle distance increase",
+            "confidence_score": 0.96696
+        },
+        "move away from book": {
+            "closest_pattern": "Move further away from book",
+            "predicted_feature": "book distance increase",
+            "confidence_score": 0.96327
+        },
+        "move closer to cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.98759
+        },
+        "elapsed_time": 5.89907,
+        "correction": {}
+    },
+    "26": {
+        "move away from bottle": {
+            "closest_pattern": "Move further away from bottle",
+            "predicted_feature": "bottle distance increase",
+            "confidence_score": 0.96696
+        },
+        "move closer to cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.9876
+        },
+        "elapsed_time": 5.19008,
+        "correction": {}
+    },
+    "27": {
+        "move closer to egg": {
+            "closest_pattern": "Move closer to egg",
+            "predicted_feature": "egg distance decrease",
+            "confidence_score": 0.98766
+        },
+        "move closer to cake": {
+            "closest_pattern": "Move closer to cake",
+            "predicted_feature": "cake distance decrease",
+            "confidence_score": 0.98927
+        },
+        "elapsed_time": 5.19939,
+        "correction": {}
+    },
+    "28": {
+        "move closer to the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.98125
+        },
+        "move further from the laptop": {
+            "closest_pattern": "Move further away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.97209
+        },
+        "elapsed_time": 5.22422,
+        "correction": {}
+    },
+    "29": {
+        "move up": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.97794
+        },
+        "elapsed_time": 0.61717,
+        "correction": {}
+    },
+    "30": {
+        "move right": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.97931
+        },
+        "elapsed_time": 0.7001,
+        "correction": {}
+    },
+    "31": {
+        "keep close to pineapple": {
+            "closest_pattern": "Stay close to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.98255
+        },
+        "elapsed_time": 4.60307,
+        "correction": {}
+    },
+    "32": {
+        "move near the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.96692
+        },
+        "elapsed_time": 4.06594,
+        "correction": {}
+    },
+    "33": {
+        "move near the pineapple": {
+            "closest_pattern": "Move closer to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.96987
+        },
+        "elapsed_time": 3.3949,
+        "correction": {}
+    },
+    "34": {
+        "move further from the cake": {
+            "closest_pattern": "Move further away from cake",
+            "predicted_feature": "cake distance increase",
+            "confidence_score": 0.96276
+        },
+        "elapsed_time": 3.53855,
+        "correction": {}
+    },
+    "35": {
+        "move closer to the fridge": {
+            "closest_pattern": "Move closer to fridge",
+            "predicted_feature": "fridge distance decrease",
+            "confidence_score": 0.98393
+        },
+        "elapsed_time": 3.78116,
+        "correction": {}
+    },
+    "36": {
+        "keep right": {
+            "closest_pattern": "Stay on the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.92214
+        },
+        "stay closer to the bottle": {
+            "closest_pattern": "Stay close to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.96689
+        },
+        "elapsed_time": 3.87546,
+        "correction": {}
+    },
+    "37": {
+        "stay closer to the vase": {
+            "closest_pattern": "Stay close to vase",
+            "predicted_feature": "vase distance decrease",
+            "confidence_score": 0.9713
+        },
+        "stay closer to the cup": {
+            "closest_pattern": "Stay close to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.97366
+        },
+        "move up a little bit": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.92768
+        },
+        "elapsed_time": 4.37441,
+        "correction": {}
+    },
+    "38": {
+        "move lower": {
+            "closest_pattern": "Move lower",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97057
+        },
+        "move closer to the banana": {
+            "closest_pattern": "Move closer to banana",
+            "predicted_feature": "banana distance decrease",
+            "confidence_score": 0.98315
+        },
+        "move closer to the apple": {
+            "closest_pattern": "Move closer to apple",
+            "predicted_feature": "apple distance decrease",
+            "confidence_score": 0.97248
+        },
+        "elapsed_time": 4.48417,
+        "correction": {}
+    },
+    "39": {
+        "stay extremely far away from the bottle": {
+            "closest_pattern": "Stay away from bottle",
+            "predicted_feature": "bottle distance increase",
+            "confidence_score": 0.94165
+        },
+        "stay extremely far away from the cup": {
+            "closest_pattern": "Stay away from cup",
+            "predicted_feature": "cup distance increase",
+            "confidence_score": 0.9394
+        },
+        "elapsed_time": 3.97646,
+        "correction": {}
+    },
+    "40": {
+        "stay away from laptop": {
+            "closest_pattern": "Stay away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.98718
+        },
+        "elapsed_time": 3.33442,
+        "correction": {}
+    },
+    "41": {
+        "stay further away from the pineapple": {
+            "closest_pattern": "Keep a bigger distance from pineapple",
+            "predicted_feature": "pineapple distance increase",
+            "confidence_score": 0.96447
+        },
+        "elapsed_time": 3.27498,
+        "correction": {}
+    },
+    "42": {
+        "stay closer to spoon": {
+            "closest_pattern": "Stay close to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.97155
+        },
+        "elapsed_time": 3.71934,
+        "correction": {}
+    },
+    "43": {
+        "move upwards": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.94009
+        },
+        "elapsed_time": 0.51405,
+        "correction": {}
+    },
+    "44": {
+        "move further from laptop": {
+            "closest_pattern": "Move further away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.97494
+        },
+        "elapsed_time": 3.72789,
+        "correction": {}
+    },
+    "45": {
+        "move closer to pineapple": {
+            "closest_pattern": "Move closer to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.98913
+        },
+        "elapsed_time": 3.54844,
+        "correction": {}
+    },
+    "46": {
+        "move nearer to spoon": {
+            "closest_pattern": "Move closer to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.97852
+        },
+        "elapsed_time": 4.36119,
+        "correction": {}
+    },
+    "47": {
+        "move lower": {
+            "closest_pattern": "Move lower",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97057
+        },
+        "elapsed_time": 0.55116,
+        "correction": {}
+    },
+    "48": {
+        "avoid cake": {
+            "closest_pattern": "Avoid cake",
+            "predicted_feature": "cake distance increase",
+            "confidence_score": 0.97813
+        },
+        "elapsed_time": 3.18705,
+        "correction": {}
+    },
+    "49": {
+        "move away from bottle": {
+            "closest_pattern": "Move further away from bottle",
+            "predicted_feature": "bottle distance increase",
+            "confidence_score": 0.96696
+        },
+        "closer to cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.94547
+        },
+        "elapsed_time": 4.3829,
+        "correction": {}
+    },
+    "50": {
+        "move closer to spoon": {
+            "closest_pattern": "Move closer to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.98838
+        },
+        "elapsed_time": 3.45082,
+        "correction": {}
+    },
+    "51": {
+        "move closer to microwave": {
+            "closest_pattern": "Move closer to microwave",
+            "predicted_feature": "microwave distance decrease",
+            "confidence_score": 0.98808
+        },
+        "elapsed_time": 3.50435,
+        "correction": {}
+    },
+    "52": {
+        "retreat from the bottle": {
+            "closest_pattern": "Move further away from bottle",
+            "predicted_feature": "bottle distance increase",
+            "confidence_score": 0.89959
+        },
+        "elapsed_time": 3.87889,
+        "correction": {}
+    },
+    "53": {
+        "move towards bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.95542
+        },
+        "elapsed_time": 3.58195,
+        "correction": {}
+    },
+    "54": {
+        "move away from laptop": {
+            "closest_pattern": "Move further away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.96686
+        },
+        "elapsed_time": 3.30446,
+        "correction": {}
+    },
+    "55": {
+        "move away from pineapple": {
+            "closest_pattern": "Move further away from pineapple",
+            "predicted_feature": "pineapple distance increase",
+            "confidence_score": 0.96833
+        },
+        "elapsed_time": 3.19723,
+        "correction": {}
+    },
+    "56": {
+        "move towards spoon": {
+            "closest_pattern": "Move closer to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.96072
+        },
+        "elapsed_time": 3.43057,
+        "correction": {}
+    },
+    "57": {
+        "move towards cake": {
+            "closest_pattern": "Move closer to cake",
+            "predicted_feature": "cake distance decrease",
+            "confidence_score": 0.95516
+        },
+        "elapsed_time": 3.58747,
+        "correction": {}
+    },
+    "58": {
+        "move towards egg": {
+            "closest_pattern": "Move closer to egg",
+            "predicted_feature": "egg distance decrease",
+            "confidence_score": 0.95711
+        },
+        "elapsed_time": 3.59871,
+        "correction": {}
+    },
+    "59": {
+        "go close to cup": {
+            "closest_pattern": "Stay close to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.96174
+        },
+        "elapsed_time": 3.88353,
+        "correction": {}
+    },
+    "60": {
+        "move down": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97715
+        },
+        "elapsed_time": 0.49258,
+        "correction": {}
+    },
+    "61": {
+        "move to pineapple": {
+            "closest_pattern": "Move closer to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.95508
+        },
+        "elapsed_time": 3.62017,
+        "correction": {}
+    },
+    "62": {
+        "move to pineapple": {
+            "closest_pattern": "Move closer to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.95508
+        },
+        "move down": {
+            "closest_pattern": "Move down",
+            "predicted_feature": "Z-cartesian decrease",
+            "confidence_score": 0.97713
+        },
+        "elapsed_time": 4.28584,
+        "correction": {}
+    },
+    "63": {
+        "avoid the fridge": {
+            "closest_pattern": "Stay away from fridge",
+            "predicted_feature": "fridge distance increase",
+            "confidence_score": 0.95888
+        },
+        "elapsed_time": 4.00785,
+        "correction": {}
+    },
+    "64": {
+        "closer to cake": {
+            "closest_pattern": "Stay close to cake",
+            "predicted_feature": "cake distance decrease",
+            "confidence_score": 0.93137
+        },
+        "elapsed_time": 3.22346,
+        "correction": {}
+    },
+    "65": {
+        "move closer to bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.98825
+        },
+        "elapsed_time": 3.15535,
+        "correction": {}
+    },
+    "66": {
+        "avoid the cake": {
+            "closest_pattern": "Stay away from cake",
+            "predicted_feature": "cake distance increase",
+            "confidence_score": 0.95517
+        },
+        "elapsed_time": 3.37377,
+        "correction": {}
+    },
+    "67": {
+        "move closer to egg": {
+            "closest_pattern": "Move closer to egg",
+            "predicted_feature": "egg distance decrease",
+            "confidence_score": 0.98766
+        },
+        "elapsed_time": 3.3096,
+        "correction": {}
+    },
+    "68": {
+        "move towards the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.95168
+        },
+        "elapsed_time": 3.50599,
+        "correction": {}
+    },
+    "69": {
+        "move closer to the spoon": {
+            "closest_pattern": "Move closer to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.97516
+        },
+        "elapsed_time": 3.41464,
+        "correction": {}
+    },
+    "70": {
+        "move away from the microwave": {
+            "closest_pattern": "Move further away from microwave",
+            "predicted_feature": "microwave distance increase",
+            "confidence_score": 0.97281
+        },
+        "elapsed_time": 3.39337,
+        "correction": {}
+    },
+    "71": {
+        "move towards the egg": {
+            "closest_pattern": "Move closer to egg",
+            "predicted_feature": "egg distance decrease",
+            "confidence_score": 0.94469
+        },
+        "elapsed_time": 3.44417,
+        "correction": {}
+    },
+    "72": {
+        "left": {
+            "closest_pattern": "Left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.9618
+        },
+        "elapsed_time": 0.55744,
+        "correction": {}
+    },
+    "73": {
+        "up": {
+            "closest_pattern": "Up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.9481
+        },
+        "elapsed_time": 0.53893,
+        "correction": {}
+    },
+    "74": {
+        "move to the cake": {
+            "closest_pattern": "Move closer to cake",
+            "predicted_feature": "cake distance decrease",
+            "confidence_score": 0.94669
+        },
+        "elapsed_time": 3.84432,
+        "correction": {}
+    },
+    "75": {
+        "avoid the egg": {
+            "closest_pattern": "Stay away from egg",
+            "predicted_feature": "egg distance increase",
+            "confidence_score": 0.95099
+        },
+        "elapsed_time": 3.26183,
+        "correction": {}
+    },
+    "76": {
+        "move closer to the cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.98347
+        },
+        "elapsed_time": 3.38031,
+        "correction": {}
+    },
+    "77": {
+        "move closer to the pineapple": {
+            "closest_pattern": "Move closer to pineapple",
+            "predicted_feature": "pineapple distance decrease",
+            "confidence_score": 0.98269
+        },
+        "elapsed_time": 3.22374,
+        "correction": {}
+    },
+    "78": {
+        "move closer to the egg": {
+            "closest_pattern": "Move closer to egg",
+            "predicted_feature": "egg distance decrease",
+            "confidence_score": 0.9767
+        },
+        "elapsed_time": 3.20026,
+        "correction": {}
+    },
+    "79": {
+        "move higher": {
+            "closest_pattern": "Move higher",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.95105
+        },
+        "elapsed_time": 0.54971,
+        "correction": {}
+    },
+    "80": {
+        "move closer to the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.98126
+        },
+        "elapsed_time": 3.49799,
+        "correction": {}
+    },
+    "81": {
+        "move away from the pineapple": {
+            "closest_pattern": "Move further away from pineapple",
+            "predicted_feature": "pineapple distance increase",
+            "confidence_score": 0.96227
+        },
+        "elapsed_time": 3.57223,
+        "correction": {}
+    },
+    "82": {
+        "move away from the cake": {
+            "closest_pattern": "Move further away from cake",
+            "predicted_feature": "cake distance increase",
+            "confidence_score": 0.95627
+        },
+        "elapsed_time": 3.2565,
+        "correction": {}
+    },
+    "83": {
+        "closer to the bottle": {
+            "closest_pattern": "Move closer to bottle",
+            "predicted_feature": "bottle distance decrease",
+            "confidence_score": 0.938
+        },
+        "further from the laptop": {
+            "closest_pattern": "Move further away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.93117
+        },
+        "elapsed_time": 5.29016,
+        "correction": {}
+    },
+    "84": {
+        "keep close to the table": {
+            "closest_pattern": "Stay close to table",
+            "predicted_feature": "table distance decrease",
+            "confidence_score": 0.97003
+        },
+        "stay clear from cup": {
+            "closest_pattern": "Stay away from cup",
+            "predicted_feature": "cup distance increase",
+            "confidence_score": 0.9797
+        },
+        "elapsed_time": 6.13074,
+        "correction": {}
+    },
+    "85": {
+        "closer to the cake": {
+            "closest_pattern": "Stay close to cake",
+            "predicted_feature": "cake distance decrease",
+            "confidence_score": 0.92894
+        },
+        "elapsed_time": 3.69476,
+        "correction": {}
+    },
+    "86": {
+        "move away from the laptop": {
+            "closest_pattern": "Move further away from laptop",
+            "predicted_feature": "laptop distance increase",
+            "confidence_score": 0.96435
+        },
+        "move closer to the cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.98347
+        },
+        "elapsed_time": 4.28682,
+        "correction": {}
+    },
+    "87": {
+        "move to the right": {
+            "closest_pattern": "Move more towards the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.94776
+        },
+        "elapsed_time": 0.5483,
+        "correction": {}
+    },
+    "88": {
+        "move towards the spoon": {
+            "closest_pattern": "Move closer to spoon",
+            "predicted_feature": "spoon distance decrease",
+            "confidence_score": 0.94808
+        },
+        "elapsed_time": 3.55115,
+        "correction": {}
+    },
+    "89": {
+        "Get closer to the can": {
+            "closest_pattern": "Move closer to can",
+            "predicted_feature": "can distance decrease",
+            "confidence_score": 0.92624
+        },
+        "elapsed_time": 3.35979,
+        "correction": {}
+    },
+    "90": {
+        "Traverse right": {
+            "closest_pattern": "Go to the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.90298
+        },
+        "elapsed_time": 0.5511,
+        "correction": {}
+    },
+    "91": {
+        "Move forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 1.0
+        },
+        "move right": {
+            "closest_pattern": "Move right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.97931
+        },
+        "elapsed_time": 0.97214,
+        "correction": {}
+    },
+    "92": {
+        "Move backward": {
+            "closest_pattern": "Move backward",
+            "predicted_feature": "Y-cartesian decrease",
+            "confidence_score": 1.0
+        },
+        "move up": {
+            "closest_pattern": "Move up",
+            "predicted_feature": "Z-cartesian increase",
+            "confidence_score": 0.97794
+        },
+        "elapsed_time": 1.05624,
+        "correction": {}
+    },
+    "93": {
+        "Approach the cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.9189
+        },
+        "avoid the scissors": {
+            "closest_pattern": "Avoid scissors",
+            "predicted_feature": "scissors distance increase",
+            "confidence_score": 0.95291
+        },
+        "keep left": {
+            "closest_pattern": "Stay on the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.93753
+        },
+        "elapsed_time": 6.10009,
+        "correction": {}
+    },
+    "94": {
+        "Go close to the banana": {
+            "closest_pattern": "Stay close to banana",
+            "predicted_feature": "banana distance decrease",
+            "confidence_score": 0.9684
+        },
+        "keep a distance from apple": {
+            "closest_pattern": "Keep a bigger distance from apple",
+            "predicted_feature": "apple distance increase",
+            "confidence_score": 0.95759
+        },
+        "elapsed_time": 9.0491,
+        "correction": {}
+    },
+    "95": {
+        "Move towards the cup": {
+            "closest_pattern": "Move closer to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.96366
+        },
+        "keep left": {
+            "closest_pattern": "Stay on the left",
+            "predicted_feature": "X-cartesian decrease",
+            "confidence_score": 0.93749
+        },
+        "elapsed_time": 4.01935,
+        "correction": {}
+    },
+    "96": {
+        "Move a little bit forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 0.92232
+        },
+        "elapsed_time": 0.50224,
+        "correction": {}
+    },
+    "97": {
+        "Stay nearer to cup": {
+            "closest_pattern": "Stay close to cup",
+            "predicted_feature": "cup distance decrease",
+            "confidence_score": 0.98354
+        },
+        "keep a distance from the scissors": {
+            "closest_pattern": "Keep a bigger distance from scissors",
+            "predicted_feature": "scissors distance increase",
+            "confidence_score": 0.95991
+        },
+        "elapsed_time": 4.83382,
+        "correction": {}
+    },
+    "98": {
+        "Stay far from the book": {
+            "closest_pattern": "Stay away from book",
+            "predicted_feature": "book distance increase",
+            "confidence_score": 0.96538
+        },
+        "keep right": {
+            "closest_pattern": "Stay on the right",
+            "predicted_feature": "X-cartesian increase",
+            "confidence_score": 0.92214
+        },
+        "moving forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 0.94759
+        },
+        "elapsed_time": 4.78963,
+        "correction": {}
+    },
+    "99": {
+        "Move towards the book": {
+            "closest_pattern": "Move closer to book",
+            "predicted_feature": "book distance decrease",
+            "confidence_score": 0.95603
+        },
+        "keep back from the banana": {
+            "closest_pattern": "Keep a smaller distance from banana",
+            "predicted_feature": "banana distance decrease",
+            "confidence_score": 0.93213
+        },
+        "elapsed_time": 63.51684,
+        "correction": {
+            "predicted": [
+                "banana distance decrease",
+                "book distance decrease"
+            ],
+            "truth": [
+                "banana distance increase",
+                "book distance decrease"
+            ]
+        }
+    },
+    "100": {
+        "Take a step forward": {
+            "closest_pattern": "Move forward",
+            "predicted_feature": "Y-cartesian increase",
+            "confidence_score": 0.94622
+        },
+        "elapsed_time": 0.49829,
+        "correction": {}
+    }
+}

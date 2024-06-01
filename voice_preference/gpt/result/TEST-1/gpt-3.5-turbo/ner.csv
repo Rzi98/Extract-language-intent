@@ -1,0 +1,8 @@
+,predicted,truth
+34,[],"['cake distance decrease', 'cake distance increase']"
+44,[],"['laptop distance decrease', 'laptop distance increase']"
+48,[],"['cake distance decrease', 'cake distance increase']"
+55,[],"['pineapple distance decrease', 'pineapple distance increase']"
+64,[],"['cake distance decrease', 'cake distance increase']"
+66,[],"['cake distance decrease', 'cake distance increase']"
+86,"['cup distance decrease', 'cup distance increase']","['cup distance decrease', 'cup distance increase', 'laptop distance decrease', 'laptop distance increase']"

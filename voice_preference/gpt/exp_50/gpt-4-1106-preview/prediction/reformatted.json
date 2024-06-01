@@ -1,0 +1,1208 @@
+{
+    "1": {
+        "input": "Get close to bottle and turn right then move closer to apple and stay away from book",
+        "features": [
+            [
+                "Z-cartesian increase",
+                0.9
+            ],
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "2": {
+        "input": "Approach the vase and move left then get nearer to the orange and stay down",
+        "features": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "3": {
+        "input": "Reduce the distance to the box and turn left then get a bit closer to the banana but avoid the pen",
+        "features": [
+            [
+                "Z-cartesian increase",
+                0.95
+            ],
+            [
+                "bowl distance increase",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "HIGH",
+            "HIGH"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "4": {
+        "input": "Move closer to the cup and go right then keep close to the pear but step back from the notebook",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "apple distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian increase",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "LOW"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "5": {
+        "input": "Stay close to the jar and move leftward then decrease the distance to the watermelon but avoid the magazine",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "notebook distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "6": {
+        "input": "Get nearer to the bottle and approach the monitor then get a little bit lower and stay down",
+        "features": [
+            [
+                "orange distance decrease",
+                1.0
+            ],
+            [
+                "notebook distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "7": {
+        "input": "Retreat from the table and move rightwards then move down and keep your distance from the textbook",
+        "features": [
+            [
+                "bottle distance increase",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.5
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "8": {
+        "input": "Get closer to the plate and go forward then move closer to the peach but steer clear of the journal",
+        "features": [
+            [
+                "cup distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "9": {
+        "input": "Retreat from the glass and stay left then increase the distance from the mango and move a bit further away from the diary",
+        "features": [
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "apple distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "10": {
+        "input": "Keep a greater distance from the bowl and move right then move up and avoid the notebook",
+        "features": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "peach distance decrease",
+                1.0
+            ],
+            [
+                "monitor distance increase",
+                0.5
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "SPEED"
+        ]
+    },
+    "11": {
+        "input": "Traverse right and get closer to the desktop then stay elevated and go backwards",
+        "features": [
+            [
+                "X-cartesian decrease",
+                0.9
+            ],
+            [
+                "peach distance decrease",
+                0.95
+            ],
+            [
+                "monitor distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "12": {
+        "input": "Move nearer to the book and go rightward then go down and stay close to the book",
+        "features": [
+            [
+                "bottle distance increase",
+                1.0
+            ],
+            [
+                "box distance increase",
+                1.0
+            ],
+            [
+                "fridge distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "13": {
+        "input": "Get a bit closer to the can and move leftward then descend downward and avoid the magazine",
+        "features": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "banana distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "14": {
+        "input": "Stay near the cup and move rightwards then move lower and increase the distance from the notebook",
+        "features": [
+            [
+                "spoon distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "15": {
+        "input": "Get closer to the plate and approach the laptop then remain at a lower position and keep your distance from the journal",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "16": {
+        "input": "Move away from the glass and stay left then go up and move a bit further away from the diary",
+        "features": [
+            [
+                "jar distance decrease",
+                0.95
+            ],
+            [
+                "cake distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "17": {
+        "input": "Keep a greater distance from the bowl and move rightwards then ascend upwards and avoid the notebook",
+        "features": [
+            [
+                "jar distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "18": {
+        "input": "Move nearer to the jar and go rightward then stay elevated and avoid the textbook",
+        "features": [
+            [
+                "jar distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "19": {
+        "input": "Move closer to the plate and get close to the desktop then move lower and steer clear of the magazine",
+        "features": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "20": {
+        "input": "Move forward and move rightwards then decrease the distance to the notebook and move a bit further away from the diary",
+        "features": [
+            [
+                "vase distance increase",
+                0.95
+            ],
+            [
+                "apple distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "21": {
+        "input": "move more left and stay closer to the bottle",
+        "features": [
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "apple distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "22": {
+        "input": "stay closer to the laptop and cup, move up a little bit",
+        "features": [
+            [
+                "X-cartesian decrease",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "plate distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "23": {
+        "input": "move down and closer to the plate and microwave",
+        "features": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "cup distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "24": {
+        "input": "avoid the cake and the fridge",
+        "features": [
+            [
+                "spoon distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "25": {
+        "input": "move away from bottle and book then move closer to cup",
+        "features": [
+            [
+                "vase distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "26": {
+        "input": "move away from bottle and then move closer to cup",
+        "features": [
+            [
+                "vase distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.5
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "27": {
+        "input": "move closer to egg and cake",
+        "features": [
+            [
+                "glass distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "28": {
+        "input": "move closer to the bottle and move further from the laptop",
+        "features": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "29": {
+        "input": "move up",
+        "features": [
+            [
+                "jar distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "30": {
+        "input": "move right",
+        "features": [
+            [
+                "apple distance increase",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "31": {
+        "input": "keep close to pineapple",
+        "features": [
+            [
+                "orange distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "32": {
+        "input": "move near the bottle",
+        "features": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "orange distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "33": {
+        "input": "move near the pineapple",
+        "features": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "pineapple distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "SPEED"
+        ]
+    },
+    "34": {
+        "input": "move further from the cake",
+        "features": [
+            [
+                "can distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ],
+            [
+                "plate distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "35": {
+        "input": "move closer to the fridge",
+        "features": [
+            [
+                "can distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ],
+            [
+                "plate distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "36": {
+        "input": "keep right and stay closer to the bottle",
+        "features": [
+            [
+                "Z-cartesian increase",
+                0.95
+            ],
+            [
+                "vase distance increase",
+                0.95
+            ],
+            [
+                "glass distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "37": {
+        "input": "stay closer to the vase and cup, move up a little bit",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance increase",
+                0.9
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "38": {
+        "input": "move lower and closer to the banana and apple",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "39": {
+        "input": "stay extremely far away from the bottle and cup",
+        "features": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ],
+            [
+                "cup distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "40": {
+        "input": "stay away from laptop",
+        "features": [
+            [
+                "apple distance decrease",
+                1.0
+            ],
+            [
+                "bowl distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "41": {
+        "input": "stay further away from the pineapple",
+        "features": [
+            [
+                "pear distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "42": {
+        "input": "stay closer to spoon",
+        "features": [
+            [
+                "orange distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "43": {
+        "input": "move upwards",
+        "features": [
+            [
+                "book distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "44": {
+        "input": "move further from laptop",
+        "features": [
+            [
+                "Z-cartesian increase",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "glass distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "45": {
+        "input": "move closer to pineapple",
+        "features": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "glass distance decrease",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "46": {
+        "input": "move nearer to spoon",
+        "features": [
+            [
+                "Y-cartesian decrease",
+                0.95
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "47": {
+        "input": "move lower",
+        "features": [
+            [
+                "Y-cartesian decrease",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "48": {
+        "input": "avoid cake",
+        "features": [
+            [
+                "microwave distance increase",
+                0.9
+            ],
+            [
+                "bowl distance decrease",
+                0.5
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "49": {
+        "input": "move away from bottle and then closer to cup",
+        "features": [
+            [
+                "microwave distance increase",
+                1.0
+            ],
+            [
+                "bowl distance increase",
+                1.0
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    },
+    "50": {
+        "input": "move closer to spoon",
+        "features": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "pear distance decrease",
+                0.95
+            ]
+        ],
+        "intensity": [
+            "NEUTRAL",
+            "NEUTRAL"
+        ],
+        "types": [
+            "DISTANCE",
+            "DISTANCE"
+        ]
+    }
+}

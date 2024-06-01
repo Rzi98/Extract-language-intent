@@ -1,0 +1,515 @@
+{
+    "timer": {
+        "1": {
+            "ner_exec_time": 0.87201,
+            "split_exec_time": 1.66698,
+            "classify_exec_time": 1.63005,
+            "intensity_exec_time": 1.32977,
+            "sum_exec_time": 5.49881
+        },
+        "2": {
+            "ner_exec_time": 0.88344,
+            "split_exec_time": 1.63101,
+            "classify_exec_time": 1.77691,
+            "intensity_exec_time": 1.37154,
+            "sum_exec_time": 5.6629
+        },
+        "3": {
+            "ner_exec_time": 1.50196,
+            "split_exec_time": 1.77151,
+            "classify_exec_time": 1.72341,
+            "intensity_exec_time": 3.0351,
+            "sum_exec_time": 8.03198
+        },
+        "4": {
+            "ner_exec_time": 0.74973,
+            "split_exec_time": 2.14238,
+            "classify_exec_time": 2.68333,
+            "intensity_exec_time": 1.59478,
+            "sum_exec_time": 7.17022
+        },
+        "5": {
+            "ner_exec_time": 1.24106,
+            "split_exec_time": 2.49976,
+            "classify_exec_time": 1.35427,
+            "intensity_exec_time": 1.26455,
+            "sum_exec_time": 6.35964
+        },
+        "6": {
+            "ner_exec_time": 0.91114,
+            "split_exec_time": 1.42141,
+            "classify_exec_time": 1.97165,
+            "intensity_exec_time": 1.12968,
+            "sum_exec_time": 5.43388
+        },
+        "7": {
+            "ner_exec_time": 0.83236,
+            "split_exec_time": 1.54313,
+            "classify_exec_time": 1.53982,
+            "intensity_exec_time": 1.29139,
+            "sum_exec_time": 5.2067
+        },
+        "8": {
+            "ner_exec_time": 0.9064,
+            "split_exec_time": 1.86029,
+            "classify_exec_time": 1.27367,
+            "intensity_exec_time": 1.30998,
+            "sum_exec_time": 5.35034
+        },
+        "9": {
+            "ner_exec_time": 1.04495,
+            "split_exec_time": 2.02092,
+            "classify_exec_time": 1.54626,
+            "intensity_exec_time": 1.20492,
+            "sum_exec_time": 5.81705
+        },
+        "10": {
+            "ner_exec_time": 0.70147,
+            "split_exec_time": 1.34918,
+            "classify_exec_time": 2.032,
+            "intensity_exec_time": 1.3865,
+            "sum_exec_time": 5.46915
+        },
+        "11": {
+            "ner_exec_time": 0.85887,
+            "split_exec_time": 1.30273,
+            "classify_exec_time": 1.60085,
+            "intensity_exec_time": 1.25834,
+            "sum_exec_time": 5.02079
+        },
+        "12": {
+            "ner_exec_time": 0.64363,
+            "split_exec_time": 6.33858,
+            "classify_exec_time": 1.64676,
+            "intensity_exec_time": 3.53466,
+            "sum_exec_time": 12.16363
+        },
+        "13": {
+            "ner_exec_time": 0.75894,
+            "split_exec_time": 1.46599,
+            "classify_exec_time": 1.67155,
+            "intensity_exec_time": 1.16361,
+            "sum_exec_time": 5.06009
+        },
+        "14": {
+            "ner_exec_time": 0.9805,
+            "split_exec_time": 2.1221,
+            "classify_exec_time": 5.21934,
+            "intensity_exec_time": 1.28118,
+            "sum_exec_time": 9.60312
+        },
+        "15": {
+            "ner_exec_time": 4.57852,
+            "split_exec_time": 1.7159,
+            "classify_exec_time": 1.56983,
+            "intensity_exec_time": 1.09542,
+            "sum_exec_time": 8.95967
+        },
+        "16": {
+            "ner_exec_time": 0.97375,
+            "split_exec_time": 1.82839,
+            "classify_exec_time": 1.7414,
+            "intensity_exec_time": 1.30807,
+            "sum_exec_time": 5.85161
+        },
+        "17": {
+            "ner_exec_time": 0.72269,
+            "split_exec_time": 2.4901,
+            "classify_exec_time": 2.3477,
+            "intensity_exec_time": 1.28069,
+            "sum_exec_time": 6.84118
+        },
+        "18": {
+            "ner_exec_time": 0.85201,
+            "split_exec_time": 2.12954,
+            "classify_exec_time": 1.59642,
+            "intensity_exec_time": 6.45019,
+            "sum_exec_time": 11.02816
+        },
+        "19": {
+            "ner_exec_time": 3.08462,
+            "split_exec_time": 1.63205,
+            "classify_exec_time": 1.89237,
+            "intensity_exec_time": 1.36454,
+            "sum_exec_time": 7.97358
+        },
+        "20": {
+            "ner_exec_time": 0.70982,
+            "split_exec_time": 1.76704,
+            "classify_exec_time": 3.08487,
+            "intensity_exec_time": 1.21009,
+            "sum_exec_time": 6.77182
+        },
+        "39": {
+            "ner_exec_time": 4.0034,
+            "split_exec_time": 1.39739,
+            "classify_exec_time": 1.65415,
+            "intensity_exec_time": 2.27907,
+            "sum_exec_time": 9.33401
+        },
+        "40": {
+            "ner_exec_time": 0.99646,
+            "split_exec_time": 0.81017,
+            "classify_exec_time": 0.8472,
+            "intensity_exec_time": 0.81822,
+            "sum_exec_time": 3.47205
+        },
+        "50": {
+            "ner_exec_time": 2.61066,
+            "split_exec_time": 0.83711,
+            "classify_exec_time": 1.55147,
+            "intensity_exec_time": 0.8583,
+            "sum_exec_time": 5.85754
+        },
+        "51": {
+            "ner_exec_time": 0.88989,
+            "split_exec_time": 1.43285,
+            "classify_exec_time": 0.81371,
+            "intensity_exec_time": 1.36897,
+            "sum_exec_time": 4.50542
+        },
+        "52": {
+            "ner_exec_time": 0.78797,
+            "split_exec_time": 1.14374,
+            "classify_exec_time": 1.11714,
+            "intensity_exec_time": 1.10171,
+            "sum_exec_time": 4.15056
+        },
+        "53": {
+            "ner_exec_time": 1.57527,
+            "split_exec_time": 1.45986,
+            "classify_exec_time": 0.94078,
+            "intensity_exec_time": 0.77946,
+            "sum_exec_time": 4.75537
+        },
+        "54": {
+            "ner_exec_time": 1.03937,
+            "split_exec_time": 1.10915,
+            "classify_exec_time": 0.93339,
+            "intensity_exec_time": 0.77776,
+            "sum_exec_time": 3.85967
+        },
+        "55": {
+            "ner_exec_time": 1.03425,
+            "split_exec_time": 2.45797,
+            "classify_exec_time": 0.80029,
+            "intensity_exec_time": 0.89038,
+            "sum_exec_time": 5.18289
+        },
+        "56": {
+            "ner_exec_time": 0.80668,
+            "split_exec_time": 0.81867,
+            "classify_exec_time": 0.82057,
+            "intensity_exec_time": 0.78985,
+            "sum_exec_time": 3.23577
+        },
+        "57": {
+            "ner_exec_time": 0.58971,
+            "split_exec_time": 1.62041,
+            "classify_exec_time": 0.79725,
+            "intensity_exec_time": 0.92038,
+            "sum_exec_time": 3.92775
+        },
+        "58": {
+            "ner_exec_time": 0.9993,
+            "split_exec_time": 0.83918,
+            "classify_exec_time": 0.86022,
+            "intensity_exec_time": 1.02987,
+            "sum_exec_time": 3.72857
+        },
+        "59": {
+            "ner_exec_time": 0.58774,
+            "split_exec_time": 0.75948,
+            "classify_exec_time": 0.78085,
+            "intensity_exec_time": 1.21185,
+            "sum_exec_time": 3.33992
+        },
+        "60": {
+            "ner_exec_time": 0.66703,
+            "split_exec_time": 0.73204,
+            "classify_exec_time": 0.78828,
+            "intensity_exec_time": 0.66796,
+            "sum_exec_time": 2.85531
+        },
+        "61": {
+            "ner_exec_time": 1.50666,
+            "split_exec_time": 0.83057,
+            "classify_exec_time": 1.35605,
+            "intensity_exec_time": 0.7864,
+            "sum_exec_time": 4.47968
+        },
+        "62": {
+            "ner_exec_time": 1.32663,
+            "split_exec_time": 1.24224,
+            "classify_exec_time": 1.31863,
+            "intensity_exec_time": 0.80159,
+            "sum_exec_time": 4.68909
+        },
+        "63": {
+            "ner_exec_time": 1.13084,
+            "split_exec_time": 0.62849,
+            "classify_exec_time": 1.20949,
+            "intensity_exec_time": 0.83275,
+            "sum_exec_time": 3.80157
+        },
+        "64": {
+            "ner_exec_time": 0.61911,
+            "split_exec_time": 0.908,
+            "classify_exec_time": 1.03385,
+            "intensity_exec_time": 0.70851,
+            "sum_exec_time": 3.26947
+        },
+        "65": {
+            "ner_exec_time": 0.65809,
+            "split_exec_time": 1.43025,
+            "classify_exec_time": 0.99172,
+            "intensity_exec_time": 0.90349,
+            "sum_exec_time": 3.98355
+        },
+        "66": {
+            "ner_exec_time": 0.6065,
+            "split_exec_time": 0.73057,
+            "classify_exec_time": 0.77979,
+            "intensity_exec_time": 0.7482,
+            "sum_exec_time": 2.86506
+        },
+        "67": {
+            "ner_exec_time": 0.78363,
+            "split_exec_time": 1.1149,
+            "classify_exec_time": 1.01363,
+            "intensity_exec_time": 0.67035,
+            "sum_exec_time": 3.58251
+        },
+        "68": {
+            "ner_exec_time": 0.79778,
+            "split_exec_time": 0.92033,
+            "classify_exec_time": 0.85278,
+            "intensity_exec_time": 1.169,
+            "sum_exec_time": 3.73989
+        },
+        "69": {
+            "ner_exec_time": 1.08084,
+            "split_exec_time": 1.30853,
+            "classify_exec_time": 1.01095,
+            "intensity_exec_time": 0.78857,
+            "sum_exec_time": 4.18889
+        },
+        "70": {
+            "ner_exec_time": 0.63256,
+            "split_exec_time": 1.65021,
+            "classify_exec_time": 1.14999,
+            "intensity_exec_time": 1.1411,
+            "sum_exec_time": 4.57386
+        },
+        "71": {
+            "ner_exec_time": 0.6172,
+            "split_exec_time": 1.0505,
+            "classify_exec_time": 0.83057,
+            "intensity_exec_time": 0.68923,
+            "sum_exec_time": 3.1875
+        },
+        "72": {
+            "ner_exec_time": 1.0765,
+            "split_exec_time": 0.68563,
+            "classify_exec_time": 0.95233,
+            "intensity_exec_time": 0.62829,
+            "sum_exec_time": 3.34275
+        },
+        "73": {
+            "ner_exec_time": 0.63358,
+            "split_exec_time": 0.69228,
+            "classify_exec_time": 0.79702,
+            "intensity_exec_time": 0.70963,
+            "sum_exec_time": 2.83251
+        },
+        "74": {
+            "ner_exec_time": 0.73162,
+            "split_exec_time": 1.29671,
+            "classify_exec_time": 0.82055,
+            "intensity_exec_time": 0.68269,
+            "sum_exec_time": 3.53157
+        },
+        "75": {
+            "ner_exec_time": 0.68554,
+            "split_exec_time": 1.37036,
+            "classify_exec_time": 0.82833,
+            "intensity_exec_time": 0.75108,
+            "sum_exec_time": 3.63531
+        },
+        "76": {
+            "ner_exec_time": 1.57911,
+            "split_exec_time": 0.92793,
+            "classify_exec_time": 0.81065,
+            "intensity_exec_time": 0.73162,
+            "sum_exec_time": 4.04931
+        },
+        "77": {
+            "ner_exec_time": 0.55852,
+            "split_exec_time": 0.84229,
+            "classify_exec_time": 0.84185,
+            "intensity_exec_time": 4.18785,
+            "sum_exec_time": 6.43051
+        },
+        "78": {
+            "ner_exec_time": 0.69086,
+            "split_exec_time": 0.82924,
+            "classify_exec_time": 1.16941,
+            "intensity_exec_time": 0.84046,
+            "sum_exec_time": 3.52997
+        },
+        "79": {
+            "ner_exec_time": 0.57971,
+            "split_exec_time": 0.71081,
+            "classify_exec_time": 0.88006,
+            "intensity_exec_time": 1.01166,
+            "sum_exec_time": 3.18224
+        },
+        "80": {
+            "ner_exec_time": 0.84369,
+            "split_exec_time": 0.90804,
+            "classify_exec_time": 0.87938,
+            "intensity_exec_time": 0.99341,
+            "sum_exec_time": 3.62452
+        },
+        "81": {
+            "ner_exec_time": 0.87575,
+            "split_exec_time": 2.46751,
+            "classify_exec_time": 1.07481,
+            "intensity_exec_time": 0.79717,
+            "sum_exec_time": 5.21524
+        },
+        "82": {
+            "ner_exec_time": 0.69385,
+            "split_exec_time": 0.78125,
+            "classify_exec_time": 0.88936,
+            "intensity_exec_time": 0.69823,
+            "sum_exec_time": 3.06269
+        },
+        "83": {
+            "ner_exec_time": 0.95287,
+            "split_exec_time": 1.25137,
+            "classify_exec_time": 1.29788,
+            "intensity_exec_time": 0.98173,
+            "sum_exec_time": 4.48385
+        },
+        "84": {
+            "ner_exec_time": 0.83143,
+            "split_exec_time": 0.61732,
+            "classify_exec_time": 0.86182,
+            "intensity_exec_time": 0.89004,
+            "sum_exec_time": 3.20061
+        },
+        "85": {
+            "ner_exec_time": 0.71755,
+            "split_exec_time": 0.88981,
+            "classify_exec_time": 0.82998,
+            "intensity_exec_time": 0.90117,
+            "sum_exec_time": 3.33851
+        },
+        "86": {
+            "ner_exec_time": 0.84145,
+            "split_exec_time": 1.35998,
+            "classify_exec_time": 1.2017,
+            "intensity_exec_time": 1.23827,
+            "sum_exec_time": 4.6414
+        },
+        "87": {
+            "ner_exec_time": 0.9665,
+            "split_exec_time": 1.8276,
+            "classify_exec_time": 0.88222,
+            "intensity_exec_time": 2.2013,
+            "sum_exec_time": 5.87762
+        },
+        "88": {
+            "ner_exec_time": 1.0984,
+            "split_exec_time": 1.07954,
+            "classify_exec_time": 1.10014,
+            "intensity_exec_time": 0.86362,
+            "sum_exec_time": 4.1417
+        },
+        "89": {
+            "ner_exec_time": 0.54875,
+            "split_exec_time": 1.23829,
+            "classify_exec_time": 0.82962,
+            "intensity_exec_time": 1.15215,
+            "sum_exec_time": 3.76881
+        },
+        "90": {
+            "ner_exec_time": 0.70117,
+            "split_exec_time": 0.72032,
+            "classify_exec_time": 0.89985,
+            "intensity_exec_time": 0.63447,
+            "sum_exec_time": 2.95581
+        },
+        "91": {
+            "ner_exec_time": 0.81663,
+            "split_exec_time": 0.76053,
+            "classify_exec_time": 1.07109,
+            "intensity_exec_time": 1.25,
+            "sum_exec_time": 3.89825
+        },
+        "92": {
+            "ner_exec_time": 0.59019,
+            "split_exec_time": 1.43242,
+            "classify_exec_time": 1.3883,
+            "intensity_exec_time": 0.77897,
+            "sum_exec_time": 4.18988
+        },
+        "93": {
+            "ner_exec_time": 0.80651,
+            "split_exec_time": 1.17673,
+            "classify_exec_time": 1.42976,
+            "intensity_exec_time": 1.14168,
+            "sum_exec_time": 4.55468
+        },
+        "94": {
+            "ner_exec_time": 0.70368,
+            "split_exec_time": 2.04969,
+            "classify_exec_time": 1.06122,
+            "intensity_exec_time": 0.87929,
+            "sum_exec_time": 4.69388
+        },
+        "95": {
+            "ner_exec_time": 1.04103,
+            "split_exec_time": 1.27195,
+            "classify_exec_time": 1.17012,
+            "intensity_exec_time": 1.05963,
+            "sum_exec_time": 4.54273
+        },
+        "96": {
+            "ner_exec_time": 0.91686,
+            "split_exec_time": 0.82154,
+            "classify_exec_time": 0.9382,
+            "intensity_exec_time": 0.84739,
+            "sum_exec_time": 3.52399
+        },
+        "97": {
+            "ner_exec_time": 0.77544,
+            "split_exec_time": 1.89334,
+            "classify_exec_time": 3.3035,
+            "intensity_exec_time": 0.82274,
+            "sum_exec_time": 6.79502
+        },
+        "98": {
+            "ner_exec_time": 0.62869,
+            "split_exec_time": 1.0998,
+            "classify_exec_time": 1.59036,
+            "intensity_exec_time": 1.26957,
+            "sum_exec_time": 4.58842
+        },
+        "99": {
+            "ner_exec_time": 1.05482,
+            "split_exec_time": 1.59854,
+            "classify_exec_time": 1.04936,
+            "intensity_exec_time": 0.75258,
+            "sum_exec_time": 4.4553
+        },
+        "100": {
+            "ner_exec_time": 0.59952,
+            "split_exec_time": 0.76225,
+            "classify_exec_time": 0.84905,
+            "intensity_exec_time": 0.68721,
+            "sum_exec_time": 2.89803
+        }
+    }
+}

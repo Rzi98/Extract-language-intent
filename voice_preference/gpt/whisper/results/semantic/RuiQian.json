@@ -1,0 +1,942 @@
+[
+    {
+        "raw_input": "That close to water but keep slightly right\n",
+        "rectified_input": "Close to the water but keep slightly right.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Close to the water",
+            "but keep slightly right"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "water distance decrease",
+            "X-cartesian increase"
+        ],
+        "class_list": [
+            [
+                "water distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.7
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Close to the water",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "but keep slightly right",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "token": 831,
+        "inference_time": 5.272853792004753,
+        "id": 1
+    },
+    {
+        "raw_input": "Move a bit closer to the ball, but stay away from the ice.\n",
+        "rectified_input": "Move a bit closer to the bowl, but stay away from the ice.",
+        "object_list": [
+            "bowl",
+            "ice"
+        ],
+        "dynamic_feature": [
+            "bowl distance increase",
+            "bowl distance decrease",
+            "ice distance increase",
+            "ice distance decrease"
+        ],
+        "split_command": [
+            "Move a bit closer to the bowl",
+            "but stay away from the ice"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "bowl distance decrease",
+            "ice distance increase"
+        ],
+        "class_list": [
+            [
+                "bowl distance decrease",
+                0.9
+            ],
+            [
+                "ice distance increase",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move a bit closer to the bowl",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "but stay away from the ice",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 886,
+        "inference_time": 13.964525541989133,
+        "id": 2
+    },
+    {
+        "raw_input": "Stay close to the map and stay low.\n",
+        "rectified_input": "Stay close to the map and stay low.",
+        "object_list": [
+            "map"
+        ],
+        "dynamic_feature": [
+            "map distance increase",
+            "map distance decrease"
+        ],
+        "split_command": [
+            "Stay close to the map",
+            "stay low"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "map distance decrease",
+            "Z-cartesian decrease"
+        ],
+        "class_list": [
+            [
+                "map distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian decrease",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Stay close to the map",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay low",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "token": 823,
+        "inference_time": 13.55219620798016,
+        "id": 3
+    },
+    {
+        "raw_input": "Oh, why did a banana keep right here?\n",
+        "rectified_input": "Oh, why is a banana kept right here?",
+        "object_list": [
+            "banana"
+        ],
+        "dynamic_feature": [
+            "banana distance increase",
+            "banana distance decrease"
+        ],
+        "split_command": [
+            "Oh, why is a banana kept right here?"
+        ],
+        "trajectory_type": [],
+        "classification": [
+            "banana distance increase"
+        ],
+        "class_list": [
+            [
+                "banana distance increase",
+                0.95
+            ]
+        ],
+        "intensity_list": [],
+        "token": 808,
+        "inference_time": 2.931375875021331,
+        "id": 4
+    },
+    {
+        "raw_input": "Move close to the flower and move slower when close to wasp.\n",
+        "rectified_input": "Move close to the flower and move slower when close to the flower.",
+        "object_list": [
+            "flower"
+        ],
+        "dynamic_feature": [
+            "flower distance increase",
+            "flower distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move close to the flower",
+            "move slower when close to the flower"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "SPEED"
+        ],
+        "classification": [
+            "flower distance decrease",
+            "flower distance decrease, speed decrease"
+        ],
+        "class_list": [
+            [
+                "flower distance decrease",
+                0.9
+            ],
+            [
+                "flower distance decrease, speed decrease",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move close to the flower",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move slower when close to the flower",
+                "LOW",
+                "SPEED"
+            ]
+        ],
+        "token": 873,
+        "inference_time": 6.51086400001077,
+        "id": 5
+    },
+    {
+        "raw_input": "Move closer to tumbler and cup.\n",
+        "rectified_input": "Move closer to the mug and cup.",
+        "object_list": [
+            "mug",
+            "cup"
+        ],
+        "dynamic_feature": [
+            "mug distance increase",
+            "mug distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split_command": [
+            "Move closer to the mug",
+            "Move closer to the cup"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "mug distance decrease",
+            "cup distance decrease"
+        ],
+        "class_list": [
+            [
+                "mug distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move closer to the mug",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 850,
+        "inference_time": 3.8294643749832176,
+        "id": 6
+    },
+    {
+        "raw_input": "Move front but keep a distance to the scissors.\n",
+        "rectified_input": "Move forward but keep a distance to the scissors.",
+        "object_list": [
+            "scissors"
+        ],
+        "dynamic_feature": [
+            "scissors distance increase",
+            "scissors distance decrease"
+        ],
+        "split_command": [
+            "Move forward",
+            "keep a distance to the scissors"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "Y-cartesian increase",
+            "scissors distance increase"
+        ],
+        "class_list": [
+            [
+                "Y-cartesian increase",
+                0.9
+            ],
+            [
+                "scissors distance increase",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep a distance to the scissors",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "token": 864,
+        "inference_time": 4.071233582973946,
+        "id": 7
+    },
+    {
+        "raw_input": "Move fast when closer to the bus.\n",
+        "rectified_input": "Move fast when closer to the bus.",
+        "object_list": [
+            "bus"
+        ],
+        "dynamic_feature": [
+            "bus distance increase",
+            "bus distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move fast when closer to the bus"
+        ],
+        "trajectory_type": [
+            "SPEED"
+        ],
+        "classification": [
+            "bus distance decrease, speed increase"
+        ],
+        "class_list": [
+            [
+                "bus distance decrease, speed increase",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move fast when closer to the bus",
+                "NEUTRAL",
+                "SPEED"
+            ]
+        ],
+        "token": 810,
+        "inference_time": 3.978346124989912,
+        "id": 8
+    },
+    {
+        "raw_input": "Get extremely close to the water.\n",
+        "rectified_input": "Get extremely close to the water.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Get extremely close to the water"
+        ],
+        "trajectory_type": [
+            "DISTANCE"
+        ],
+        "classification": [
+            "water distance decrease"
+        ],
+        "class_list": [
+            [
+                "water distance decrease",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Get extremely close to the water",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "token": 780,
+        "inference_time": 3.6875950829708017,
+        "id": 9
+    },
+    {
+        "raw_input": "Move slowly when close to the water and stay away from oranges and banana.\n",
+        "rectified_input": "Move slowly when close to the vase and stay away from oranges and banana.",
+        "object_list": [
+            "vase",
+            "oranges",
+            "banana"
+        ],
+        "dynamic_feature": [
+            "vase distance increase",
+            "vase distance decrease",
+            "oranges distance increase",
+            "oranges distance decrease",
+            "banana distance increase",
+            "banana distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move slowly when close to the vase",
+            "stay away from oranges",
+            "stay away from banana"
+        ],
+        "trajectory_type": [
+            "SPEED",
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "vase distance decrease, speed decrease",
+            "oranges distance increase",
+            "banana distance increase"
+        ],
+        "class_list": [
+            [
+                "vase distance decrease, speed decrease",
+                0.95
+            ],
+            [
+                "oranges distance increase",
+                0.99
+            ],
+            [
+                "banana distance increase",
+                0.99
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move slowly when close to the vase",
+                "LOW",
+                "SPEED"
+            ],
+            [
+                "stay away from oranges",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay away from banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 929,
+        "inference_time": 10.340366167016327,
+        "id": 10
+    },
+    {
+        "raw_input": "Get closer to the water, but stay... Skip slightly right?\n",
+        "rectified_input": "Get closer to the water, but stay... Skip slightly right.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Get closer to the water",
+            "but stay",
+            "Skip slightly right"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "water distance decrease",
+            "",
+            "X-cartesian increase"
+        ],
+        "class_list": [
+            [
+                "water distance decrease",
+                0.9
+            ],
+            [
+                "",
+                0.0
+            ],
+            [
+                "X-cartesian increase",
+                0.7
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Get closer to the water",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "but stay",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Skip slightly right",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "token": 890,
+        "inference_time": 5.059994209033903,
+        "id": 11
+    },
+    {
+        "raw_input": "Move a bit closer to bow, but stay away from blast.\n",
+        "rectified_input": "Move a bit closer to the bowl, but stay away from the blast.",
+        "object_list": [
+            "bowl"
+        ],
+        "dynamic_feature": [
+            "bowl distance increase",
+            "bowl distance decrease"
+        ],
+        "split_command": [
+            "Move a bit closer to the bowl",
+            "but stay away from the blast"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "bowl distance decrease",
+            "bowl distance increase"
+        ],
+        "class_list": [
+            [
+                "bowl distance decrease",
+                0.9
+            ],
+            [
+                "bowl distance increase",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move a bit closer to the bowl",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "but stay away from the blast",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 884,
+        "inference_time": 4.391053500003181,
+        "id": 12
+    },
+    {
+        "raw_input": "Stay close to the mark and stay low.\n",
+        "rectified_input": "Stay close to the mark and stay low.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Stay close to the mark",
+            "stay low"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "mark distance decrease",
+            "Z-cartesian decrease"
+        ],
+        "class_list": [
+            [
+                "mark distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian decrease",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Stay close to the mark",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay low",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "token": 813,
+        "inference_time": 4.47452633298235,
+        "id": 13
+    },
+    {
+        "raw_input": "Avoid the banana, keep right.\n",
+        "rectified_input": "Avoid the banana, keep right.",
+        "object_list": [
+            "banana"
+        ],
+        "dynamic_feature": [
+            "banana distance increase",
+            "banana distance decrease"
+        ],
+        "split_command": [
+            "Avoid the banana",
+            "keep right"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "banana distance increase",
+            "X-cartesian increase"
+        ],
+        "class_list": [
+            [
+                "banana distance increase",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Avoid the banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep right",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 817,
+        "inference_time": 3.5186827079742216,
+        "id": 14
+    },
+    {
+        "raw_input": "Move close to the flower and move slower when close to wasp.\n",
+        "rectified_input": "Move close to the flower and move slower when close to flower.",
+        "object_list": [
+            "flower"
+        ],
+        "dynamic_feature": [
+            "flower distance increase",
+            "flower distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move close to the flower",
+            "move slower when close to flower"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "SPEED"
+        ],
+        "classification": [
+            "flower distance decrease",
+            "flower distance decrease, speed decrease"
+        ],
+        "class_list": [
+            [
+                "flower distance decrease",
+                0.9
+            ],
+            [
+                "flower distance decrease, speed decrease",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move close to the flower",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move slower when close to flower",
+                "LOW",
+                "SPEED"
+            ]
+        ],
+        "token": 854,
+        "inference_time": 7.33392837503925,
+        "id": 15
+    },
+    {
+        "raw_input": "Go closer to Dumbo and Cub.\n",
+        "rectified_input": "Go closer to Dumbo and Cub.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Go closer to Dumbo",
+            "Go closer to Cub"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "Dumbo distance decrease",
+            "Cub distance decrease"
+        ],
+        "class_list": [
+            [
+                "Dumbo distance decrease",
+                0.9
+            ],
+            [
+                "Cub distance decrease",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Go closer to Dumbo",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Go closer to Cub",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 820,
+        "inference_time": 3.4897639169939794,
+        "id": 16
+    },
+    {
+        "raw_input": "Move front but keep a distance to the scissors\n",
+        "rectified_input": "Move forward but keep a distance to the scissors.",
+        "object_list": [
+            "scissors"
+        ],
+        "dynamic_feature": [
+            "scissors distance increase",
+            "scissors distance decrease"
+        ],
+        "split_command": [
+            "Move forward",
+            "keep a distance to the scissors"
+        ],
+        "trajectory_type": [
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "Y-cartesian increase",
+            "scissors distance increase"
+        ],
+        "class_list": [
+            [
+                "Y-cartesian increase",
+                1.0
+            ],
+            [
+                "scissors distance increase",
+                1.0
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep a distance to the scissors",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 836,
+        "inference_time": 3.4889164170017466,
+        "id": 17
+    },
+    {
+        "raw_input": "Move fast when closer to the bus.\n",
+        "rectified_input": "Move fast when closer to the bus.",
+        "object_list": [
+            "bus"
+        ],
+        "dynamic_feature": [
+            "bus distance increase",
+            "bus distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move fast",
+            "when closer to the bus"
+        ],
+        "trajectory_type": [
+            "SPEED",
+            "DISTANCE"
+        ],
+        "classification": [
+            "Y-cartesian increase, speed increase",
+            "bus distance decrease"
+        ],
+        "class_list": [
+            [
+                "Y-cartesian increase, speed increase",
+                0.9
+            ],
+            [
+                "bus distance decrease",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move fast",
+                "NEUTRAL",
+                "SPEED"
+            ],
+            [
+                "when closer to the bus",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 835,
+        "inference_time": 3.0411267920280807,
+        "id": 18
+    },
+    {
+        "raw_input": "Get extremely close to the water.\n",
+        "rectified_input": "Get extremely close to the water.",
+        "object_list": [],
+        "dynamic_feature": [],
+        "split_command": [
+            "Get extremely close to the water"
+        ],
+        "trajectory_type": [
+            "DISTANCE"
+        ],
+        "classification": [
+            "water distance decrease"
+        ],
+        "class_list": [
+            [
+                "water distance decrease",
+                0.9
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Get extremely close to the water",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "token": 780,
+        "inference_time": 7.250027499976568,
+        "id": 19
+    },
+    {
+        "raw_input": "Move slowly when close to the bottle and stay away from orange and banana.\n",
+        "rectified_input": "Move slowly when close to the bottle and stay away from orange and banana.",
+        "object_list": [
+            "bottle",
+            "orange",
+            "banana"
+        ],
+        "dynamic_feature": [
+            "bottle distance increase",
+            "bottle distance decrease",
+            "orange distance increase",
+            "orange distance decrease",
+            "banana distance increase",
+            "banana distance decrease",
+            "speed increase",
+            "speed decrease"
+        ],
+        "split_command": [
+            "Move slowly when close to the bottle",
+            "stay away from orange",
+            "stay away from banana"
+        ],
+        "trajectory_type": [
+            "SPEED",
+            "DISTANCE",
+            "DISTANCE"
+        ],
+        "classification": [
+            "bottle distance decrease, speed decrease",
+            "orange distance increase",
+            "banana distance increase"
+        ],
+        "class_list": [
+            [
+                "bottle distance decrease, speed decrease",
+                0.95
+            ],
+            [
+                "orange distance increase",
+                0.95
+            ],
+            [
+                "banana distance increase",
+                0.95
+            ]
+        ],
+        "intensity_list": [
+            [
+                "Move slowly when close to the bottle",
+                "LOW",
+                "SPEED"
+            ],
+            [
+                "stay away from orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay away from banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "token": 925,
+        "inference_time": 5.138083458994515,
+        "id": 20
+    }
+]

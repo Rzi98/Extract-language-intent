@@ -1,0 +1,395 @@
+{
+    "predicted_intensity": {
+        "1": {
+            "Get close to bottle": "neutral",
+            "turn right": "neutral",
+            "move closer to apple": "low",
+            "stay away from book": "high"
+        },
+        "2": {
+            "Approach the vase": "neutral",
+            "move left": "neutral",
+            "get nearer to the orange": "high",
+            "stay down": "neutral"
+        },
+        "3": {
+            "Reduce the distance to the box": "high",
+            "turn left": "neutral",
+            "get a bit closer to the banana": "low",
+            "avoid the pen": "neutral"
+        },
+        "4": {
+            "Move closer to the cup": "neutral",
+            "go right": "neutral",
+            "keep close to the pear": "low",
+            "step back from the notebook": "high"
+        },
+        "5": {
+            "Stay close to the jar": "neutral",
+            "move leftward": "neutral",
+            "decrease the distance to the watermelon": "high",
+            "avoid the magazine": "neutral"
+        },
+        "6": {
+            "Get nearer to the bottle": "high",
+            "approach the monitor": "neutral",
+            "get a little bit lower": "low",
+            "stay down": "neutral"
+        },
+        "7": {
+            "Retreat from the table": "neutral",
+            "move rightwards": "neutral",
+            "move down": "neutral",
+            "keep your distance from the textbook": "low"
+        },
+        "8": {
+            "Get closer to the plate": "high",
+            "go forward": "neutral",
+            "move closer to the peach": "low",
+            "steer clear of the journal": "neutral"
+        },
+        "9": {
+            "Retreat from the glass": "neutral",
+            "stay left": "neutral",
+            "increase the distance from the mango": "high",
+            "move a bit further away from the diary": "low"
+        },
+        "10": {
+            "Keep a greater distance from the bowl": "high",
+            "move right": "neutral",
+            "move up": "neutral",
+            "avoid the notebook": "low"
+        },
+        "11": {
+            "Traverse right": "neutral",
+            "get closer to the desktop": "high",
+            "stay elevated": "neutral",
+            "go backwards": "low"
+        },
+        "12": {
+            "Move nearer to the book": "high",
+            "go rightward": "neutral",
+            "go down": "neutral",
+            "stay close to the book": "low"
+        },
+        "13": {
+            "Get a bit closer to the can": "low",
+            "move leftward": "neutral",
+            "descend downward": "high",
+            "and avoid the magazine": "neutral"
+        },
+        "14": {
+            "Stay near the cup": "neutral",
+            "move rightwards": "neutral",
+            "move lower": "low",
+            "increase the distance from the notebook": "high"
+        },
+        "15": {
+            "Get closer to the plate": "high",
+            "approach the laptop": "neutral",
+            "remain at a lower position": "low",
+            "keep your distance from the journal": "neutral"
+        },
+        "16": {
+            "Move away from the glass": "neutral",
+            "stay left": "neutral",
+            "go up": "neutral",
+            "move a bit further away from the diary": "low"
+        },
+        "17": {
+            "Keep a greater distance from the bowl": "high",
+            "move rightwards": "neutral",
+            "ascend upwards": "neutral",
+            "avoid the notebook": "neutral"
+        },
+        "18": {
+            "Move nearer to the jar": "neutral",
+            "go rightward": "neutral",
+            "stay elevated": "neutral",
+            "avoid the textbook": "neutral"
+        },
+        "19": {
+            "Move closer to the plate": "high",
+            "get close to the desktop": "neutral",
+            "move lower": "low",
+            "steer clear of the magazine": "neutral"
+        },
+        "20": {
+            "Move forward": "neutral",
+            "move rightwards": "neutral",
+            "decrease the distance to the notebook": "high",
+            "move a bit further away from the diary": "low"
+        },
+        "21": {
+            "move more left": "high",
+            "stay closer to the bottle": "low"
+        },
+        "22": {
+            "Stay closer to the laptop": "high",
+            "stay closer to the cup": "neutral",
+            "move up a little bit": "low"
+        },
+        "23": {
+            "Move down": "neutral",
+            "move closer to the plate": "high",
+            "move closer to the microwave": "high"
+        },
+        "24": {
+            "Avoid the cake": "neutral",
+            "avoid the fridge": "neutral"
+        },
+        "25": {
+            "move away from bottle": "high",
+            "move away from book": "neutral",
+            "move closer to cup": "low"
+        },
+        "26": {
+            "Move away from bottle": "neutral",
+            "move closer to cup": "neutral"
+        },
+        "27": {
+            "Move closer to the egg": "high",
+            "move closer to the cake": "neutral"
+        },
+        "28": {
+            "move closer to the bottle": "high",
+            "move further from the laptop": "high"
+        },
+        "29": {
+            "move up": "neutral"
+        },
+        "30": {
+            "move right": "neutral"
+        },
+        "31": {
+            "Keep close to pineapple": "neutral"
+        },
+        "32": {
+            "move near the bottle": "neutral"
+        },
+        "33": {
+            "move near the pineapple": "neutral"
+        },
+        "34": {
+            "move further from the cake": "high"
+        },
+        "35": {
+            "move closer to the fridge": "low"
+        },
+        "36": {
+            "Move more left": "high",
+            "stay closer to the bottle": "neutral"
+        },
+        "37": {
+            "Stay closer to the laptop": "high",
+            "stay closer to the cup": "neutral",
+            "move up a little bit": "low"
+        },
+        "38": {
+            "Move down": "neutral",
+            "Move closer to the plate": "high",
+            "Move closer to the microwave": "high"
+        },
+        "39": {
+            "Avoid the cake": "neutral",
+            "avoid the fridge": "neutral"
+        },
+        "40": {
+            "Stay away from laptop": "neutral"
+        },
+        "41": {
+            "Stay further away from the pineapple": "high"
+        },
+        "42": {
+            "Stay closer to spoon": "neutral"
+        },
+        "43": {
+            "Move upwards": "neutral"
+        },
+        "44": {
+            "Move further from laptop": "high"
+        },
+        "45": {
+            "move closer to pineapple": "high"
+        },
+        "46": {
+            "move nearer to spoon": "neutral"
+        },
+        "47": {
+            "move lower": "low"
+        },
+        "48": {
+            "Avoiding cake is a good idea": "neutral"
+        },
+        "49": {
+            "Move away from bottle": "neutral",
+            "then move closer to cup": "neutral"
+        },
+        "50": {
+            "move closer to spoon": "neutral"
+        },
+        "51": {
+            "Move closer to the microwave": "high"
+        },
+        "52": {
+            "retreat from the bottle": "neutral"
+        },
+        "53": {
+            "move towards bottle": "neutral"
+        },
+        "54": {
+            "move away from laptop": "neutral"
+        },
+        "55": {
+            "move away from pineapple": "neutral"
+        },
+        "56": {
+            "move towards spoon": "neutral"
+        },
+        "57": {
+            "move towards cake": "neutral"
+        },
+        "58": {
+            "move towards egg": "neutral"
+        },
+        "59": {
+            "Go close to the cup": "high"
+        },
+        "60": {
+            "move down": "neutral"
+        },
+        "61": {
+            "move to pineapple": "neutral"
+        },
+        "62": {
+            "move to pineapple": "neutral",
+            "move down": "neutral"
+        },
+        "63": {
+            "Avoiding the fridge is a good idea": "neutral"
+        },
+        "64": {
+            "closer to cake": "neutral"
+        },
+        "65": {
+            "move closer to bottle": "neutral"
+        },
+        "66": {
+            "Avoid the cake": "neutral"
+        },
+        "67": {
+            "move closer to egg": "neutral"
+        },
+        "68": {
+            "move towards the bottle": "neutral"
+        },
+        "69": {
+            "move closer to the spoon": "high"
+        },
+        "70": {
+            "Move away from the microwave": "neutral"
+        },
+        "71": {
+            "move towards the egg": "neutral"
+        },
+        "72": {
+            "left": "neutral"
+        },
+        "73": {
+            "Up": "neutral"
+        },
+        "74": {
+            "move to the cake": "neutral"
+        },
+        "75": {
+            "Avoiding the egg is important": "neutral"
+        },
+        "76": {
+            "move closer to the cup": "high"
+        },
+        "77": {
+            "move closer to the pineapple": "high"
+        },
+        "78": {
+            "move closer to the egg": "high"
+        },
+        "79": {
+            "Move higher": "high"
+        },
+        "80": {
+            "move closer to the bottle": "high"
+        },
+        "81": {
+            "move away from the pineapple": "neutral"
+        },
+        "82": {
+            "move away from the cake": "neutral"
+        },
+        "83": {
+            "closer to the bottle": "high",
+            "further from the laptop": "low"
+        },
+        "84": {
+            "Move higher": "high"
+        },
+        "85": {
+            "closer to the cake": "neutral"
+        },
+        "86": {
+            "Move away from the laptop": "neutral",
+            "move closer to the cup": "neutral"
+        },
+        "87": {
+            "move to the right": "neutral"
+        },
+        "88": {
+            "move towards the spoon": "neutral"
+        },
+        "89": {
+            "Get closer to the can": "high"
+        },
+        "90": {
+            "Traverse right": "neutral"
+        },
+        "91": {
+            "Move forward": "neutral",
+            "move right": "neutral"
+        },
+        "92": {
+            "Move backward": "neutral",
+            "move up": "neutral"
+        },
+        "93": {
+            "Approach the cup": "neutral",
+            "avoid the scissors": "neutral",
+            "keep left": "neutral"
+        },
+        "94": {
+            "Go close to the banana": "high",
+            "but keep a distance from the apple": "neutral"
+        },
+        "95": {
+            "Move towards the cup": "neutral",
+            "keep left": "neutral"
+        },
+        "96": {
+            "Move a little bit forward": "low"
+        },
+        "97": {
+            "Stay nearer to cup": "low",
+            "keep a distance from the scissors": "neutral"
+        },
+        "98": {
+            "Stay far from the book": "high",
+            "keep right": "neutral",
+            "move forward": "neutral"
+        },
+        "99": {
+            "Move towards the book": "neutral",
+            "keep back from the banana": "neutral"
+        },
+        "100": {
+            "Take a step forward": "neutral"
+        }
+    }
+}

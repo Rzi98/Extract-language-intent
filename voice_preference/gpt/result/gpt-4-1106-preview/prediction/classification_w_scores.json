@@ -1,0 +1,972 @@
+{
+    "classification_w_scores": {
+        "1": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "apple distance decrease",
+                0.9
+            ],
+            [
+                "book distance increase",
+                0.9
+            ]
+        ],
+        "2": [
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "X-cartesian decrease",
+                0.95
+            ],
+            [
+                "orange distance decrease",
+                0.95
+            ],
+            [
+                "Z-cartesian decrease",
+                0.95
+            ]
+        ],
+        "3": [
+            [
+                "box distance decrease",
+                0.95
+            ],
+            [
+                "X-cartesian decrease",
+                0.95
+            ],
+            [
+                "banana distance decrease",
+                0.95
+            ],
+            [
+                "pen distance increase",
+                0.95
+            ]
+        ],
+        "4": [
+            [
+                "cup distance decrease",
+                0.95
+            ],
+            [
+                "X-cartesian increase",
+                0.95
+            ],
+            [
+                "pear distance decrease",
+                0.95
+            ],
+            [
+                "notebook distance increase",
+                0.95
+            ]
+        ],
+        "5": [
+            [
+                "jar distance decrease",
+                0.95
+            ],
+            [
+                "X-cartesian decrease",
+                0.95
+            ],
+            [
+                "watermelon distance decrease",
+                0.95
+            ],
+            [
+                "magazine distance increase",
+                0.95
+            ]
+        ],
+        "6": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "monitor distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian decrease",
+                0.8
+            ],
+            [
+                "Z-cartesian decrease",
+                0.7
+            ]
+        ],
+        "7": [
+            [
+                "table distance increase",
+                1.0
+            ],
+            [
+                "X-cartesian increase",
+                1.0
+            ],
+            [
+                "Z-cartesian decrease",
+                1.0
+            ],
+            [
+                "textbook distance increase",
+                1.0
+            ]
+        ],
+        "8": [
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "Y-cartesian increase",
+                0.95
+            ],
+            [
+                "peach distance decrease",
+                0.95
+            ],
+            [
+                "journal distance increase",
+                0.95
+            ]
+        ],
+        "9": [
+            [
+                "glass distance increase",
+                1.0
+            ],
+            [
+                "X-cartesian decrease",
+                1.0
+            ],
+            [
+                "mango distance increase",
+                1.0
+            ],
+            [
+                "diary distance increase",
+                1.0
+            ]
+        ],
+        "10": [
+            [
+                "bowl distance increase",
+                0.95
+            ],
+            [
+                "X-cartesian increase",
+                0.99
+            ],
+            [
+                "Z-cartesian increase",
+                0.99
+            ],
+            [
+                "notebook distance increase",
+                0.95
+            ]
+        ],
+        "11": [
+            [
+                "X-cartesian increase",
+                1.0
+            ],
+            [
+                "desktop distance decrease",
+                1.0
+            ],
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "Y-cartesian decrease",
+                1.0
+            ]
+        ],
+        "12": [
+            [
+                "book distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "Z-cartesian decrease",
+                0.9
+            ],
+            [
+                "book distance decrease",
+                0.9
+            ]
+        ],
+        "13": [
+            [
+                "can distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian decrease",
+                0.95
+            ],
+            [
+                "Z-cartesian decrease",
+                0.95
+            ],
+            [
+                "magazine distance increase",
+                0.9
+            ]
+        ],
+        "14": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.95
+            ],
+            [
+                "Z-cartesian decrease",
+                0.95
+            ],
+            [
+                "notebook distance increase",
+                0.9
+            ]
+        ],
+        "15": [
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "laptop distance decrease",
+                0.95
+            ],
+            [
+                "Z-cartesian decrease",
+                0.95
+            ],
+            [
+                "journal distance increase",
+                0.95
+            ]
+        ],
+        "16": [
+            [
+                "glass distance increase",
+                1.0
+            ],
+            [
+                "X-cartesian decrease",
+                1.0
+            ],
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "diary distance increase",
+                1.0
+            ]
+        ],
+        "17": [
+            [
+                "bowl distance increase",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "Z-cartesian increase",
+                0.9
+            ],
+            [
+                "notebook distance increase",
+                0.9
+            ]
+        ],
+        "18": [
+            [
+                "jar distance decrease",
+                0.95
+            ],
+            [
+                "X-cartesian increase",
+                0.95
+            ],
+            [
+                "Z-cartesian increase",
+                0.95
+            ],
+            [
+                "textbook distance increase",
+                0.95
+            ]
+        ],
+        "19": [
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "desktop distance decrease",
+                0.95
+            ],
+            [
+                "Z-cartesian decrease",
+                0.95
+            ],
+            [
+                "magazine distance increase",
+                0.95
+            ]
+        ],
+        "20": [
+            [
+                "Y-cartesian increase",
+                0.95
+            ],
+            [
+                "X-cartesian increase",
+                0.95
+            ],
+            [
+                "notebook distance decrease",
+                0.95
+            ],
+            [
+                "diary distance increase",
+                0.95
+            ]
+        ],
+        "21": [
+            [
+                "X-cartesian decrease",
+                0.9
+            ],
+            [
+                "bottle distance decrease",
+                0.9
+            ]
+        ],
+        "22": [
+            [
+                "laptop distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ],
+            [
+                "Z-cartesian increase",
+                0.9
+            ]
+        ],
+        "23": [
+            [
+                "Z-cartesian decrease",
+                0.9
+            ],
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.5
+            ]
+        ],
+        "24": [
+            [
+                "cake distance increase",
+                1.0
+            ],
+            [
+                "fridge distance increase",
+                1.0
+            ]
+        ],
+        "25": [
+            [
+                "bottle distance increase",
+                1.0
+            ],
+            [
+                "book distance increase",
+                1.0
+            ],
+            [
+                "cup distance decrease",
+                1.0
+            ]
+        ],
+        "26": [
+            [
+                "bottle distance increase",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "27": [
+            [
+                "egg distance decrease",
+                0.95
+            ],
+            [
+                "cake distance decrease",
+                0.95
+            ]
+        ],
+        "28": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "laptop distance increase",
+                1.0
+            ]
+        ],
+        "29": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ]
+        ],
+        "30": [
+            [
+                "X-cartesian increase",
+                1.0
+            ]
+        ],
+        "31": [
+            [
+                "pineapple distance decrease",
+                0.95
+            ]
+        ],
+        "32": [
+            [
+                "bottle distance decrease",
+                0.95
+            ]
+        ],
+        "33": [
+            [
+                "pineapple distance decrease",
+                0.95
+            ]
+        ],
+        "34": [
+            [
+                "cake distance increase",
+                0.95
+            ]
+        ],
+        "35": [
+            [
+                "fridge distance decrease",
+                0.9
+            ]
+        ],
+        "36": [
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "bottle distance decrease",
+                0.9
+            ]
+        ],
+        "37": [
+            [
+                "vase distance decrease",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian increase",
+                0.9
+            ]
+        ],
+        "38": [
+            [
+                "Z-cartesian decrease",
+                0.9
+            ],
+            [
+                "banana distance decrease",
+                0.95
+            ],
+            [
+                "apple distance decrease",
+                0.95
+            ]
+        ],
+        "39": [
+            [
+                "bottle distance increase",
+                1.0
+            ],
+            [
+                "cup distance increase",
+                1.0
+            ]
+        ],
+        "40": [
+            [
+                "laptop distance increase",
+                1.0
+            ]
+        ],
+        "41": [
+            [
+                "pineapple distance increase",
+                0.95
+            ]
+        ],
+        "42": [
+            [
+                "spoon distance decrease",
+                0.95
+            ]
+        ],
+        "43": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ]
+        ],
+        "44": [
+            [
+                "laptop distance increase",
+                0.95
+            ]
+        ],
+        "45": [
+            [
+                "pineapple distance decrease",
+                1.0
+            ]
+        ],
+        "46": [
+            [
+                "spoon distance decrease",
+                0.95
+            ]
+        ],
+        "47": [
+            [
+                "Z-cartesian decrease",
+                1.0
+            ]
+        ],
+        "48": [
+            [
+                "cake distance increase",
+                0.95
+            ]
+        ],
+        "49": [
+            [
+                "bottle distance increase",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "50": [
+            [
+                "spoon distance decrease",
+                0.95
+            ]
+        ],
+        "51": [
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "52": [
+            [
+                "bottle distance increase",
+                1.0
+            ]
+        ],
+        "53": [
+            [
+                "bottle distance decrease",
+                0.9
+            ]
+        ],
+        "54": [
+            [
+                "laptop distance increase",
+                0.95
+            ]
+        ],
+        "55": [
+            [
+                "pineapple distance increase",
+                1.0
+            ]
+        ],
+        "56": [
+            [
+                "spoon distance decrease",
+                1.0
+            ]
+        ],
+        "57": [
+            [
+                "cake distance decrease",
+                0.9
+            ]
+        ],
+        "58": [
+            [
+                "egg distance decrease",
+                0.9
+            ]
+        ],
+        "59": [
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "60": [
+            [
+                "Z-cartesian decrease",
+                1.0
+            ]
+        ],
+        "61": [
+            [
+                "pineapple distance decrease",
+                0.95
+            ]
+        ],
+        "62": [
+            [
+                "pineapple distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian decrease",
+                0.9
+            ]
+        ],
+        "63": [
+            [
+                "fridge distance increase",
+                1.0
+            ]
+        ],
+        "64": [
+            [
+                "cake distance decrease",
+                0.95
+            ]
+        ],
+        "65": [
+            [
+                "bottle distance decrease",
+                1.0
+            ]
+        ],
+        "66": [
+            [
+                "cake distance increase",
+                0.9
+            ]
+        ],
+        "67": [
+            [
+                "egg distance decrease",
+                0.95
+            ]
+        ],
+        "68": [
+            [
+                "bottle distance decrease",
+                0.95
+            ]
+        ],
+        "69": [
+            [
+                "spoon distance decrease",
+                0.9
+            ]
+        ],
+        "70": [
+            [
+                "microwave distance increase",
+                0.9
+            ]
+        ],
+        "71": [
+            [
+                "egg distance decrease",
+                0.9
+            ]
+        ],
+        "72": [
+            [
+                "X-cartesian decrease",
+                1.0
+            ]
+        ],
+        "73": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ]
+        ],
+        "74": [
+            [
+                "cake distance decrease",
+                0.95
+            ]
+        ],
+        "75": [
+            [
+                "egg distance increase",
+                1.0
+            ]
+        ],
+        "76": [
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "77": [
+            [
+                "pineapple distance decrease",
+                0.95
+            ]
+        ],
+        "78": [
+            [
+                "egg distance decrease",
+                0.95
+            ]
+        ],
+        "79": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ]
+        ],
+        "80": [
+            [
+                "bottle distance decrease",
+                1.0
+            ]
+        ],
+        "81": [
+            [
+                "pineapple distance increase",
+                0.95
+            ]
+        ],
+        "82": [
+            [
+                "cake distance increase",
+                1.0
+            ]
+        ],
+        "83": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "laptop distance increase",
+                1.0
+            ]
+        ],
+        "84": [
+            [
+                "table distance decrease",
+                0.9
+            ],
+            [
+                "cup distance increase",
+                0.9
+            ]
+        ],
+        "85": [
+            [
+                "cake distance decrease",
+                0.9
+            ]
+        ],
+        "86": [
+            [
+                "laptop distance increase",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "87": [
+            [
+                "X-cartesian increase",
+                1.0
+            ]
+        ],
+        "88": [
+            [
+                "spoon distance decrease",
+                0.9
+            ]
+        ],
+        "89": [
+            [
+                "can distance decrease",
+                0.95
+            ]
+        ],
+        "90": [
+            [
+                "X-cartesian increase",
+                1.0
+            ]
+        ],
+        "91": [
+            [
+                "Y-cartesian increase",
+                1.0
+            ],
+            [
+                "X-cartesian increase",
+                1.0
+            ]
+        ],
+        "92": [
+            [
+                "Y-cartesian decrease",
+                1.0
+            ],
+            [
+                "Z-cartesian increase",
+                1.0
+            ]
+        ],
+        "93": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "scissors distance increase",
+                0.9
+            ],
+            [
+                "X-cartesian decrease",
+                0.9
+            ]
+        ],
+        "94": [
+            [
+                "banana distance decrease",
+                0.9
+            ],
+            [
+                "apple distance increase",
+                0.9
+            ]
+        ],
+        "95": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "X-cartesian decrease",
+                0.9
+            ]
+        ],
+        "96": [
+            [
+                "Y-cartesian increase",
+                1.0
+            ]
+        ],
+        "97": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "scissors distance increase",
+                0.9
+            ]
+        ],
+        "98": [
+            [
+                "book distance increase",
+                0.9
+            ],
+            [
+                "X-cartesian increase",
+                0.95
+            ],
+            [
+                "Y-cartesian increase",
+                0.95
+            ]
+        ],
+        "99": [
+            [
+                "book distance decrease",
+                0.9
+            ],
+            [
+                "banana distance increase",
+                0.9
+            ]
+        ],
+        "100": [
+            [
+                "Y-cartesian increase",
+                1.0
+            ]
+        ]
+    }
+}

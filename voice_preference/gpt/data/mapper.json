@@ -1,0 +1,78 @@
+{
+    "intents": [
+        {
+            "feature": "{obj} distance decrease",
+            "patterns": ["Move closer to {obj}", 
+                         "Stay close to {obj}", 
+                         "Decrease distance to {obj}",
+                         "Keep a smaller distance from {obj}"]
+        },
+        {
+            "feature": "{obj} distance increase",
+            "patterns": ["Move further away from {obj}", 
+                         "Stay away from {obj}", 
+                         "Avoid {obj}", 
+                         "Increase distance to {obj}", 
+                         "Keep a bigger distance from {obj}"]
+        },
+        {
+            "feature": "Z-cartesian decrease",
+            "patterns": ["Move closer to table", 
+                         "Move lower", 
+                         "Stay closer to table", 
+                         "Decrease distance to table", 
+                         "Move down", 
+                         "Stay down", 
+                         "Go to the bottom", 
+                         "Down", 
+                         "Low"]
+        },
+        {
+            "feature": "Z-cartesian increase", 
+            "patterns": ["Move further away from table", 
+                         "Move higher", 
+                         "Stay away from table", 
+                         "Increase distance to table", 
+                         "Keep bigger distance from table", 
+                         "Move up", 
+                         "Stay up", 
+                         "Stay on the upper part", 
+                         "Go to the top", 
+                         "Up", 
+                         "Top"]
+        },
+        {
+            "feature": "X-cartesian decrease",
+            "patterns": ["Stay on the left", 
+                         "Go to the left", 
+                         "Move left", 
+                         "Move more towards the left", 
+                         "Left"]
+        },
+        {
+            "feature": "X-cartesian increase",
+            "patterns": ["Stay on the right", 
+                         "Go to the right", 
+                         "Move right", 
+                         "Move more towards the right", 
+                         "Right"]
+        },
+        {
+            "feature": "Y-cartesian decrease",
+            "patterns": ["Stay at the back", 
+                         "Go to the back", 
+                         "Move back", 
+                         "Stay back", 
+                         "Move backward", 
+                         "Go behind"]
+        },
+        {
+            "feature": "Y-cartesian increase",
+            "patterns": ["Stay at the front", 
+                         "Go to the front", 
+                         "Move front", 
+                         "Stay front", 
+                         "Move forward"]
+        }
+    ]
+}

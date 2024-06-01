@@ -1,0 +1,1094 @@
+{
+    "1": {
+        "correction": "Get close to bottle and turn right then move closer to apple and stay away from book",
+        "tokens": 17,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.9,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "bottle distance decrease",
+            "X-cartesian increase",
+            "apple distance decrease",
+            "book distance increase"
+        ]
+    },
+    "2": {
+        "correction": "Approach the vase and move left then get nearer to the orange and stay down",
+        "tokens": 16,
+        "closest_sentence": "Move closer to vase",
+        "confidence_score": 0.89,
+        "predicted_feature": "vase distance decrease",
+        "gt_feature": [
+            "vase distance decrease",
+            "X-cartesian decrease",
+            "orange distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "3": {
+        "correction": "Reduce the distance to the box and turn left then get a bit closer to the banana but avoid the pen",
+        "tokens": 21,
+        "closest_sentence": "Decrease distance to banana",
+        "confidence_score": 0.91,
+        "predicted_feature": "banana distance decrease",
+        "gt_feature": [
+            "box distance decrease",
+            "X-cartesian decrease",
+            "banana distance decrease",
+            "pen distance increase"
+        ]
+    },
+    "4": {
+        "correction": "Move closer to the cup and go right then keep close to the pear but step back from the notebook",
+        "tokens": 20,
+        "closest_sentence": "Move closer to notebook",
+        "confidence_score": 0.9,
+        "predicted_feature": "notebook distance decrease",
+        "gt_feature": [
+            "cup distance decrease",
+            "X-cartesian increase",
+            "pear distance decrease",
+            "notebook distance increase"
+        ]
+    },
+    "5": {
+        "correction": "Stay close to the jar and move leftward then decrease the distance to the watermelon but avoid the magazine",
+        "tokens": 21,
+        "closest_sentence": "Decrease distance to watermelon",
+        "confidence_score": 0.9,
+        "predicted_feature": "watermelon distance decrease",
+        "gt_feature": [
+            "jar distance decrease",
+            "X-cartesian decrease",
+            "watermelon distance decrease",
+            "magazine distance increase"
+        ]
+    },
+    "6": {
+        "correction": "Get nearer to the bottle and approach the monitor then get a little bit lower and stay down",
+        "tokens": 18,
+        "closest_sentence": "Stay close to bottle",
+        "confidence_score": 0.89,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "bottle distance decrease",
+            "monitor distance decrease",
+            "Z-cartesian decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "7": {
+        "correction": "Retreat from the table and move rightwards then move down and keep your distance from the textbook",
+        "tokens": 19,
+        "closest_sentence": "Move further away from textbook",
+        "confidence_score": 0.91,
+        "predicted_feature": "textbook distance increase",
+        "gt_feature": [
+            "table distance increase",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "textbook distance increase"
+        ]
+    },
+    "8": {
+        "correction": "Get closer to the plate and go forward then move closer to the peach but steer clear of the journal",
+        "tokens": 20,
+        "closest_sentence": "Keep a smaller distance from peach",
+        "confidence_score": 0.89,
+        "predicted_feature": "peach distance decrease",
+        "gt_feature": [
+            "plate distance decrease",
+            "Y-cartesian increase",
+            "peach distance decrease",
+            "journal distance increase"
+        ]
+    },
+    "9": {
+        "correction": "Retreat from the glass and stay left then increase the distance from the mango and move a bit further away from the diary",
+        "tokens": 24,
+        "closest_sentence": "Move further away from glass",
+        "confidence_score": 0.9,
+        "predicted_feature": "glass distance increase",
+        "gt_feature": [
+            "glass distance increase",
+            "X-cartesian decrease",
+            "mango distance increase",
+            "diary distance increase"
+        ]
+    },
+    "10": {
+        "correction": "Keep a greater distance from the bowl and move right then move up and avoid the notebook",
+        "tokens": 17,
+        "closest_sentence": "Keep a bigger distance from bowl",
+        "confidence_score": 0.92,
+        "predicted_feature": "bowl distance increase",
+        "gt_feature": [
+            "bowl distance increase",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "notebook distance increase"
+        ]
+    },
+    "11": {
+        "correction": "Traverse right and get closer to the desktop then stay elevated and go backwards",
+        "tokens": 15,
+        "closest_sentence": "Move closer to desktop",
+        "confidence_score": 0.88,
+        "predicted_feature": "desktop distance decrease",
+        "gt_feature": [
+            "X-cartesian increase",
+            "desktop distance decrease",
+            "Z-cartesian increase",
+            "Y-cartesian decrease"
+        ]
+    },
+    "12": {
+        "correction": "Move nearer to the book and go rightward then go down and stay close to the book",
+        "tokens": 18,
+        "closest_sentence": "Move closer to book",
+        "confidence_score": 0.92,
+        "predicted_feature": "book distance decrease",
+        "gt_feature": [
+            "book distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "book distance decrease"
+        ]
+    },
+    "13": {
+        "correction": "Get a bit closer to the can and move leftward then descend downward and avoid the magazine",
+        "tokens": 18,
+        "closest_sentence": "Move further away from magazine",
+        "confidence_score": 0.9,
+        "predicted_feature": "magazine distance increase",
+        "gt_feature": [
+            "can distance decrease",
+            "X-cartesian decrease",
+            "Z-cartesian decrease",
+            "magazine distance increase"
+        ]
+    },
+    "14": {
+        "correction": "Stay near the cup and move rightwards then move lower and increase the distance from the notebook",
+        "tokens": 18,
+        "closest_sentence": "Move closer to cup",
+        "confidence_score": 0.91,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "cup distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "notebook distance increase"
+        ]
+    },
+    "15": {
+        "correction": "Get closer to the plate and approach the laptop then remain at a lower position and keep your distance from the journal",
+        "tokens": 22,
+        "closest_sentence": "Keep a smaller distance from notebook",
+        "confidence_score": 0.91,
+        "predicted_feature": "notebook distance decrease",
+        "gt_feature": [
+            "plate distance decrease",
+            "laptop distance decrease",
+            "Z-cartesian decrease",
+            "journal distance increase"
+        ]
+    },
+    "16": {
+        "correction": "Move away from the glass and stay left then go up and move a bit further away from the diary",
+        "tokens": 20,
+        "closest_sentence": "Move further away from diary",
+        "confidence_score": 0.91,
+        "predicted_feature": "diary distance increase",
+        "gt_feature": [
+            "glass distance increase",
+            "X-cartesian decrease",
+            "Z-cartesian increase",
+            "diary distance increase"
+        ]
+    },
+    "17": {
+        "correction": "Keep a greater distance from the bowl and move rightwards then ascend upwards and avoid the notebook",
+        "tokens": 18,
+        "closest_sentence": "Keep a bigger distance from notebook",
+        "confidence_score": 0.91,
+        "predicted_feature": "notebook distance increase",
+        "gt_feature": [
+            "bowl distance increase",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "notebook distance increase"
+        ]
+    },
+    "18": {
+        "correction": "Move nearer to the jar and go rightward then stay elevated and avoid the textbook",
+        "tokens": 16,
+        "closest_sentence": "Move closer to textbook",
+        "confidence_score": 0.89,
+        "predicted_feature": "textbook distance decrease",
+        "gt_feature": [
+            "jar distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "textbook distance increase"
+        ]
+    },
+    "19": {
+        "correction": "Move closer to the plate and get close to the desktop then move lower and steer clear of the magazine",
+        "tokens": 20,
+        "closest_sentence": "Move further away from magazine",
+        "confidence_score": 0.92,
+        "predicted_feature": "magazine distance increase",
+        "gt_feature": [
+            "plate distance decrease",
+            "desktop distance decrease",
+            "Z-cartesian decrease",
+            "magazine distance increase"
+        ]
+    },
+    "20": {
+        "correction": "Move forward and move rightwards then decrease the distance to the notebook and move a bit further away from the diary",
+        "tokens": 22,
+        "closest_sentence": "Move further away from diary",
+        "confidence_score": 0.91,
+        "predicted_feature": "diary distance increase",
+        "gt_feature": [
+            "Y-cartesian increase",
+            "X-cartesian increase",
+            "notebook distance decrease",
+            "diary distance increase"
+        ]
+    },
+    "21": {
+        "correction": "move more left and stay closer to the bottle",
+        "tokens": 9,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.94,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "X-cartesian decrease",
+            "bottle distance decrease"
+        ]
+    },
+    "22": {
+        "correction": "stay closer to the laptop and cup, move up a little bit",
+        "tokens": 13,
+        "closest_sentence": "Move closer to laptop",
+        "confidence_score": 0.91,
+        "predicted_feature": "laptop distance decrease",
+        "gt_feature": [
+            "laptop distance decrease",
+            "cup distance decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "23": {
+        "correction": "move down and closer to the plate and microwave",
+        "tokens": 9,
+        "closest_sentence": "Move closer to microwave",
+        "confidence_score": 0.92,
+        "predicted_feature": "microwave distance decrease",
+        "gt_feature": [
+            "Z-cartesian decrease",
+            "Plate distance decrease",
+            "Microwave distance decrease"
+        ]
+    },
+    "24": {
+        "correction": "avoid the cake and the fridge",
+        "tokens": 6,
+        "closest_sentence": "Stay away from cake",
+        "confidence_score": 0.91,
+        "predicted_feature": "cake distance increase",
+        "gt_feature": [
+            "cake distance increase",
+            "fridge distance increase"
+        ]
+    },
+    "25": {
+        "correction": "move away from bottle and book then move closer to cup",
+        "tokens": 11,
+        "closest_sentence": "Move further away from bottle",
+        "confidence_score": 0.92,
+        "predicted_feature": "bottle distance increase",
+        "gt_feature": [
+            "bottle distance increase",
+            "book distance increase",
+            "cup distance decrease"
+        ]
+    },
+    "26": {
+        "correction": "move away from bottle and then move closer to cup",
+        "tokens": 10,
+        "closest_sentence": "Move further away from bottle",
+        "confidence_score": 0.93,
+        "predicted_feature": "bottle distance increase",
+        "gt_feature": [
+            "bottle distance increase",
+            "cup distance decrease"
+        ]
+    },
+    "27": {
+        "correction": "move closer to egg and cake",
+        "tokens": 6,
+        "closest_sentence": "Move closer to cake",
+        "confidence_score": 0.95,
+        "predicted_feature": "cake distance decrease",
+        "gt_feature": [
+            "Egg distance decrease",
+            "Cake distance decrease"
+        ]
+    },
+    "28": {
+        "correction": "move closer to the bottle and move further from the laptop",
+        "tokens": 11,
+        "closest_sentence": "Move further away from laptop",
+        "confidence_score": 0.93,
+        "predicted_feature": "laptop distance increase",
+        "gt_feature": [
+            "bottle distance decrease",
+            "laptop distance increase"
+        ]
+    },
+    "29": {
+        "correction": "move up",
+        "tokens": 2,
+        "closest_sentence": "Move up",
+        "confidence_score": 0.98,
+        "predicted_feature": "Z-cartesian increase",
+        "gt_feature": [
+            "Z-cartesian increase"
+        ]
+    },
+    "30": {
+        "correction": "move right",
+        "tokens": 2,
+        "closest_sentence": "Move right",
+        "confidence_score": 0.98,
+        "predicted_feature": "X-cartesian increase",
+        "gt_feature": [
+            "X-cartesian increase"
+        ]
+    },
+    "31": {
+        "correction": "keep close to pineapple",
+        "tokens": 4,
+        "closest_sentence": "Stay close to pineapple",
+        "confidence_score": 0.98,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "32": {
+        "correction": "move near the bottle",
+        "tokens": 4,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.97,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "Bottle distance decrease"
+        ]
+    },
+    "33": {
+        "correction": "move near the pineapple",
+        "tokens": 4,
+        "closest_sentence": "Move closer to pineapple",
+        "confidence_score": 0.97,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "34": {
+        "correction": "move further from the cake",
+        "tokens": 5,
+        "closest_sentence": "Move further away from cake",
+        "confidence_score": 0.96,
+        "predicted_feature": "cake distance increase",
+        "gt_feature": [
+            "Cake distance increase"
+        ]
+    },
+    "35": {
+        "correction": "move closer to the fridge",
+        "tokens": 5,
+        "closest_sentence": "Move closer to fridge",
+        "confidence_score": 0.98,
+        "predicted_feature": "fridge distance decrease",
+        "gt_feature": [
+            "Fridge distance decrease"
+        ]
+    },
+    "36": {
+        "correction": "keep right and stay closer to the bottle",
+        "tokens": 8,
+        "closest_sentence": "Stay close to bottle",
+        "confidence_score": 0.95,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "X-cartesian increase",
+            "Bottle distance decrease"
+        ]
+    },
+    "37": {
+        "correction": "stay closer to the vase and cup, move up a little bit",
+        "tokens": 13,
+        "closest_sentence": "Move closer to vase",
+        "confidence_score": 0.92,
+        "predicted_feature": "vase distance decrease",
+        "gt_feature": [
+            "Vase distance decrease",
+            "Cup distance decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "38": {
+        "correction": "move lower and closer to the banana and apple",
+        "tokens": 9,
+        "closest_sentence": "Move closer to banana",
+        "confidence_score": 0.92,
+        "predicted_feature": "banana distance decrease",
+        "gt_feature": [
+            "Z-cartesian decrease",
+            "Banana distance decrease",
+            "Apple distance decrease"
+        ]
+    },
+    "39": {
+        "correction": "stay extremely far away from the bottle and cup",
+        "tokens": 9,
+        "closest_sentence": "Stay away from bottle",
+        "confidence_score": 0.93,
+        "predicted_feature": "bottle distance increase",
+        "gt_feature": [
+            "Bottle distance increase",
+            "Cup distance increase"
+        ]
+    },
+    "40": {
+        "correction": "stay away from laptop",
+        "tokens": 4,
+        "closest_sentence": "Stay away from laptop",
+        "confidence_score": 0.99,
+        "predicted_feature": "laptop distance increase",
+        "gt_feature": [
+            "Laptop distance increase"
+        ]
+    },
+    "41": {
+        "correction": "stay further away from the pineapple",
+        "tokens": 6,
+        "closest_sentence": "Keep a bigger distance from pineapple",
+        "confidence_score": 0.96,
+        "predicted_feature": "pineapple distance increase",
+        "gt_feature": [
+            "Pineapple distance increase"
+        ]
+    },
+    "42": {
+        "correction": "stay closer to spoon",
+        "tokens": 4,
+        "closest_sentence": "Stay close to spoon",
+        "confidence_score": 0.97,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "43": {
+        "correction": "move upwards",
+        "tokens": 2,
+        "closest_sentence": "Move up",
+        "confidence_score": 0.94,
+        "predicted_feature": "Z-cartesian increase",
+        "gt_feature": [
+            "Z-cartesian increase"
+        ]
+    },
+    "44": {
+        "correction": "move further from laptop",
+        "tokens": 4,
+        "closest_sentence": "Move further away from laptop",
+        "confidence_score": 0.97,
+        "predicted_feature": "laptop distance increase",
+        "gt_feature": [
+            "Laptop distance increase"
+        ]
+    },
+    "45": {
+        "correction": "move closer to pineapple",
+        "tokens": 4,
+        "closest_sentence": "Move closer to pineapple",
+        "confidence_score": 0.99,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "46": {
+        "correction": "move nearer to spoon",
+        "tokens": 4,
+        "closest_sentence": "Move closer to spoon",
+        "confidence_score": 0.98,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "47": {
+        "correction": "move lower",
+        "tokens": 2,
+        "closest_sentence": "Move lower",
+        "confidence_score": 0.97,
+        "predicted_feature": "Z-cartesian decrease",
+        "gt_feature": [
+            "Z-cartesian decrease"
+        ]
+    },
+    "48": {
+        "correction": "avoid cake",
+        "tokens": 2,
+        "closest_sentence": "Avoid cake",
+        "confidence_score": 0.98,
+        "predicted_feature": "cake distance increase",
+        "gt_feature": [
+            "Cake distance increase"
+        ]
+    },
+    "49": {
+        "correction": "move away from bottle and then closer to cup",
+        "tokens": 9,
+        "closest_sentence": "Move further away from bottle",
+        "confidence_score": 0.94,
+        "predicted_feature": "bottle distance increase",
+        "gt_feature": [
+            "Bottle distance increase",
+            "Cup distance decrease"
+        ]
+    },
+    "50": {
+        "correction": "move closer to spoon",
+        "tokens": 4,
+        "closest_sentence": "Move closer to spoon",
+        "confidence_score": 0.99,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "51": {
+        "correction": "move closer to microwave",
+        "tokens": 4,
+        "closest_sentence": "Move closer to microwave",
+        "confidence_score": 0.99,
+        "predicted_feature": "microwave distance decrease",
+        "gt_feature": [
+            "Microwave distance decrease"
+        ]
+    },
+    "52": {
+        "correction": "retreat from the bottle",
+        "tokens": 5,
+        "closest_sentence": "Move further away from bottle",
+        "confidence_score": 0.9,
+        "predicted_feature": "bottle distance increase",
+        "gt_feature": [
+            "Bottle distance increase"
+        ]
+    },
+    "53": {
+        "correction": "move towards bottle",
+        "tokens": 3,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.96,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "Bottle distance decrease"
+        ]
+    },
+    "54": {
+        "correction": "move away from laptop",
+        "tokens": 4,
+        "closest_sentence": "Move further away from laptop",
+        "confidence_score": 0.97,
+        "predicted_feature": "laptop distance increase",
+        "gt_feature": [
+            "Laptop distance increase"
+        ]
+    },
+    "55": {
+        "correction": "move away from pineapple",
+        "tokens": 4,
+        "closest_sentence": "Move further away from pineapple",
+        "confidence_score": 0.97,
+        "predicted_feature": "pineapple distance increase",
+        "gt_feature": [
+            "Pineapple distance increase"
+        ]
+    },
+    "56": {
+        "correction": "move towards spoon",
+        "tokens": 3,
+        "closest_sentence": "Move closer to spoon",
+        "confidence_score": 0.96,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "57": {
+        "correction": "move towards cake",
+        "tokens": 3,
+        "closest_sentence": "Move closer to cake",
+        "confidence_score": 0.96,
+        "predicted_feature": "cake distance decrease",
+        "gt_feature": [
+            "Cake distance decrease"
+        ]
+    },
+    "58": {
+        "correction": "move towards egg",
+        "tokens": 3,
+        "closest_sentence": "Move closer to egg",
+        "confidence_score": 0.96,
+        "predicted_feature": "egg distance decrease",
+        "gt_feature": [
+            "Egg distance decrease"
+        ]
+    },
+    "59": {
+        "correction": "go close to cup",
+        "tokens": 4,
+        "closest_sentence": "Stay close to cup",
+        "confidence_score": 0.96,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Cup distance decrease"
+        ]
+    },
+    "60": {
+        "correction": "move down",
+        "tokens": 2,
+        "closest_sentence": "Move down",
+        "confidence_score": 0.98,
+        "predicted_feature": "Z-cartesian decrease",
+        "gt_feature": [
+            "Z-cartesian decrease"
+        ]
+    },
+    "61": {
+        "correction": "move to pineapple",
+        "tokens": 3,
+        "closest_sentence": "Move closer to pineapple",
+        "confidence_score": 0.96,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "62": {
+        "correction": "move to pineapple, move down",
+        "tokens": 6,
+        "closest_sentence": "Move closer to pineapple",
+        "confidence_score": 0.93,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "63": {
+        "correction": "avoid the fridge",
+        "tokens": 3,
+        "closest_sentence": "Stay away from fridge",
+        "confidence_score": 0.96,
+        "predicted_feature": "fridge distance increase",
+        "gt_feature": [
+            "Fridge distance increase"
+        ]
+    },
+    "64": {
+        "correction": "closer to cake",
+        "tokens": 4,
+        "closest_sentence": "Stay close to cake",
+        "confidence_score": 0.93,
+        "predicted_feature": "cake distance decrease",
+        "gt_feature": [
+            "Cake distance decrease"
+        ]
+    },
+    "65": {
+        "correction": "move closer to bottle",
+        "tokens": 4,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.99,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "Bottle distance decrease"
+        ]
+    },
+    "66": {
+        "correction": "avoid the cake",
+        "tokens": 3,
+        "closest_sentence": "Stay away from cake",
+        "confidence_score": 0.96,
+        "predicted_feature": "cake distance increase",
+        "gt_feature": [
+            "Cake distance increase"
+        ]
+    },
+    "67": {
+        "correction": "move closer to egg",
+        "tokens": 4,
+        "closest_sentence": "Move closer to egg",
+        "confidence_score": 0.99,
+        "predicted_feature": "egg distance decrease",
+        "gt_feature": [
+            "Egg distance decrease"
+        ]
+    },
+    "68": {
+        "correction": "move towards the bottle",
+        "tokens": 4,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.95,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "Bottle distance decrease"
+        ]
+    },
+    "69": {
+        "correction": "move closer to the spoon",
+        "tokens": 5,
+        "closest_sentence": "Move closer to spoon",
+        "confidence_score": 0.98,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "70": {
+        "correction": "move away from the microwave",
+        "tokens": 5,
+        "closest_sentence": "Move further away from microwave",
+        "confidence_score": 0.97,
+        "predicted_feature": "microwave distance increase",
+        "gt_feature": [
+            "Microwave distance increase"
+        ]
+    },
+    "71": {
+        "correction": "move towards the egg",
+        "tokens": 4,
+        "closest_sentence": "Move closer to egg",
+        "confidence_score": 0.94,
+        "predicted_feature": "egg distance decrease",
+        "gt_feature": [
+            "Egg distance decrease"
+        ]
+    },
+    "72": {
+        "correction": "left",
+        "tokens": 1,
+        "closest_sentence": "Left",
+        "confidence_score": 0.96,
+        "predicted_feature": "X-cartesian decrease",
+        "gt_feature": [
+            "X-cartesian decrease"
+        ]
+    },
+    "73": {
+        "correction": "up",
+        "tokens": 1,
+        "closest_sentence": "Up",
+        "confidence_score": 0.95,
+        "predicted_feature": "Z-cartesian increase",
+        "gt_feature": [
+            "Z-cartesian increase"
+        ]
+    },
+    "74": {
+        "correction": "move to the cake",
+        "tokens": 4,
+        "closest_sentence": "Move closer to cake",
+        "confidence_score": 0.95,
+        "predicted_feature": "cake distance decrease",
+        "gt_feature": [
+            "Cake distance decrease"
+        ]
+    },
+    "75": {
+        "correction": "avoid the egg",
+        "tokens": 3,
+        "closest_sentence": "Stay away from egg",
+        "confidence_score": 0.95,
+        "predicted_feature": "egg distance increase",
+        "gt_feature": [
+            "Egg distance increase"
+        ]
+    },
+    "76": {
+        "correction": "move closer to the cup",
+        "tokens": 5,
+        "closest_sentence": "Move closer to cup",
+        "confidence_score": 0.98,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Cup distance decrease"
+        ]
+    },
+    "77": {
+        "correction": "move closer to the pineapple",
+        "tokens": 5,
+        "closest_sentence": "Move closer to pineapple",
+        "confidence_score": 0.98,
+        "predicted_feature": "pineapple distance decrease",
+        "gt_feature": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "78": {
+        "correction": "move closer to the egg",
+        "tokens": 5,
+        "closest_sentence": "Move closer to egg",
+        "confidence_score": 0.98,
+        "predicted_feature": "egg distance decrease",
+        "gt_feature": [
+            "Egg distance decrease"
+        ]
+    },
+    "79": {
+        "correction": "move higher",
+        "tokens": 2,
+        "closest_sentence": "Move higher",
+        "confidence_score": 0.95,
+        "predicted_feature": "Z-cartesian increase",
+        "gt_feature": [
+            "Z-cartesian increase"
+        ]
+    },
+    "80": {
+        "correction": "move closer to the bottle",
+        "tokens": 5,
+        "closest_sentence": "Move closer to bottle",
+        "confidence_score": 0.98,
+        "predicted_feature": "bottle distance decrease",
+        "gt_feature": [
+            "Bottle distance decrease"
+        ]
+    },
+    "81": {
+        "correction": "move away from the pineapple",
+        "tokens": 5,
+        "closest_sentence": "Move further away from pineapple",
+        "confidence_score": 0.96,
+        "predicted_feature": "pineapple distance increase",
+        "gt_feature": [
+            "Pineapple distance increase"
+        ]
+    },
+    "82": {
+        "correction": "move away from the cake",
+        "tokens": 5,
+        "closest_sentence": "Move further away from cake",
+        "confidence_score": 0.96,
+        "predicted_feature": "cake distance increase",
+        "gt_feature": [
+            "Cake distance increase"
+        ]
+    },
+    "83": {
+        "correction": "closer to the bottle and further from the laptop",
+        "tokens": 10,
+        "closest_sentence": "Move further away from laptop",
+        "confidence_score": 0.9,
+        "predicted_feature": "laptop distance increase",
+        "gt_feature": [
+            "Bottle distance decrease",
+            "Laptop distance increase"
+        ]
+    },
+    "84": {
+        "correction": "keep close to the table but stay clear from cup",
+        "tokens": 10,
+        "closest_sentence": "Keep a smaller distance from cup",
+        "confidence_score": 0.93,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Table distance decrease",
+            "Cup distance increase"
+        ]
+    },
+    "85": {
+        "correction": "closer to the cake",
+        "tokens": 5,
+        "closest_sentence": "Stay close to cake",
+        "confidence_score": 0.93,
+        "predicted_feature": "cake distance decrease",
+        "gt_feature": [
+            "Cake distance decrease"
+        ]
+    },
+    "86": {
+        "correction": "move away from the laptop but closer to the cup",
+        "tokens": 10,
+        "closest_sentence": "Move closer to laptop",
+        "confidence_score": 0.92,
+        "predicted_feature": "laptop distance decrease",
+        "gt_feature": [
+            "Laptop distance increase",
+            "Cup distance decrease"
+        ]
+    },
+    "87": {
+        "correction": "move to the right",
+        "tokens": 4,
+        "closest_sentence": "Move more towards the right",
+        "confidence_score": 0.95,
+        "predicted_feature": "X-cartesian increase",
+        "gt_feature": [
+            "X-cartesian increase"
+        ]
+    },
+    "88": {
+        "correction": "move towards the spoon",
+        "tokens": 4,
+        "closest_sentence": "Move closer to spoon",
+        "confidence_score": 0.95,
+        "predicted_feature": "spoon distance decrease",
+        "gt_feature": [
+            "Spoon distance decrease"
+        ]
+    },
+    "89": {
+        "correction": "Get closer to the can",
+        "tokens": 5,
+        "closest_sentence": "Move closer to can",
+        "confidence_score": 0.93,
+        "predicted_feature": "can distance decrease",
+        "gt_feature": [
+            "Can distance decrease"
+        ]
+    },
+    "90": {
+        "correction": "Traverse right",
+        "tokens": 3,
+        "closest_sentence": "Go to the right",
+        "confidence_score": 0.9,
+        "predicted_feature": "X-cartesian increase",
+        "gt_feature": [
+            "X-cartesian increase"
+        ]
+    },
+    "91": {
+        "correction": " Move forward and then move right",
+        "tokens": 6,
+        "closest_sentence": "Move forward",
+        "confidence_score": 0.89,
+        "predicted_feature": "Y-cartesian increase",
+        "gt_feature": [
+            "Y-cartesian increase",
+            "X-cartesian increase"
+        ]
+    },
+    "92": {
+        "correction": "Move backward and then move up",
+        "tokens": 6,
+        "closest_sentence": "Move backward",
+        "confidence_score": 0.93,
+        "predicted_feature": "Y-cartesian decrease",
+        "gt_feature": [
+            "Y-cartesian decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "93": {
+        "correction": "Approach the cup but avoid the scissors and keep left",
+        "tokens": 11,
+        "closest_sentence": "Keep a smaller distance from cup",
+        "confidence_score": 0.88,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Cup distance decrease",
+            "Scissors distance increase",
+            "X-cartesian decrease"
+        ]
+    },
+    "94": {
+        "correction": "Go close to the banana but keep a distance from apple",
+        "tokens": 11,
+        "closest_sentence": "Keep a smaller distance from banana",
+        "confidence_score": 0.94,
+        "predicted_feature": "banana distance decrease",
+        "gt_feature": [
+            "Banana distance decrease",
+            "Apple distance increase"
+        ]
+    },
+    "95": {
+        "correction": "Move towards the cup and keep left",
+        "tokens": 7,
+        "closest_sentence": "Move closer to cup",
+        "confidence_score": 0.92,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Cup distance decrease",
+            "X-cartesian decrease"
+        ]
+    },
+    "96": {
+        "correction": "Move a little bit forward",
+        "tokens": 5,
+        "closest_sentence": "Move forward",
+        "confidence_score": 0.92,
+        "predicted_feature": "Y-cartesian increase",
+        "gt_feature": [
+            "Y-cartesian increase"
+        ]
+    },
+    "97": {
+        "correction": "Stay nearer to cup but keep a distance from the scissors",
+        "tokens": 11,
+        "closest_sentence": "Keep a smaller distance from cup",
+        "confidence_score": 0.93,
+        "predicted_feature": "cup distance decrease",
+        "gt_feature": [
+            "Cup distance decrease",
+            "Scissors distance increase"
+        ]
+    },
+    "98": {
+        "correction": "Stay far from the book and keep right while moving forward",
+        "tokens": 11,
+        "closest_sentence": "Keep a bigger distance from book",
+        "confidence_score": 0.91,
+        "predicted_feature": "book distance increase",
+        "gt_feature": [
+            "Book distance increase",
+            "X-cartesian increase",
+            "Y-cartesian increase"
+        ]
+    },
+    "99": {
+        "correction": "Move towards the book and keep back from the banana",
+        "tokens": 10,
+        "closest_sentence": "Move further away from banana",
+        "confidence_score": 0.91,
+        "predicted_feature": "banana distance increase",
+        "gt_feature": [
+            "book distance decrease",
+            "banana distance increase"
+        ]
+    },
+    "100": {
+        "correction": "Take a step forward",
+        "tokens": 4,
+        "closest_sentence": "Move forward",
+        "confidence_score": 0.95,
+        "predicted_feature": "Y-cartesian increase",
+        "gt_feature": [
+            "Y-cartesian increase"
+        ]
+    }
+}

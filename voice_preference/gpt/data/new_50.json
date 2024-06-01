@@ -1,0 +1,518 @@
+{
+  "move up and closer to the plate and microwave": {
+    "id": 1,
+    "object_list": ["microwave", "plate"],
+    "split": [
+      "move up",
+      "move closer to the plate",
+      "move closer to the microwave"
+    ],
+    "selected_features": [
+      "Z-cartesian increase",
+      "Plate distance decrease",
+      "Microwave distance decrease"
+    ]
+  },
+  "Move near the cup and microwave": {
+    "id": 2,
+    "object_list": ["microwave", "cup"],
+    "split": ["move near the cup", "move near the microwave"],
+    "selected_features": [
+      "Cup distance decrease",
+      "Microwave distance decrease"
+    ]
+  },
+  "move up and further away from the bowl and bottle": {
+    "id": 3,
+    "object_list": ["bowl", "bottle"],
+    "split": [
+      "move up",
+      "move further away from the bowl",
+      "move further away bottle"
+    ],
+    "selected_features": [
+      "Z-cartesian increase",
+      "Bowl distance increase",
+      "Bottle distance increase"
+    ]
+  },
+  "stay closer to the bottle and apple, move up a little bit": {
+    "id": 4,
+    "object_list": ["bottle", "apple"],
+    "split": [
+      "Stay closer to the bottle",
+      "Stay closer to the apple",
+      "Move up a little bit"
+    ],
+    "selected_features": [
+      "bottle distance decrease",
+      "apple distance decrease",
+      "Z-cartesian increase"
+    ]
+  },
+  "Get close to the bottle and notebook": {
+    "id": 5,
+    "object_list": ["bottle", "notebook"],
+    "split": ["Get close to the bottle", "Get close to the notebook"],
+    "selected_features": [
+      "bottle distance decrease",
+      "notebook distance decrease"
+    ]
+  },
+  "Get close to the orange and the notebook": {
+    "id": 6,
+    "object_list": ["orange", "notebook"],
+    "split": ["Get close to the orange", "Get close to the notebook"],
+    "selected_features": [
+      "orange distance decrease",
+      "notebook distance decrease"
+    ]
+  },
+  "Get away from bottle and microwave": {
+    "id": 7,
+    "object_list": ["bottle", "microwave"],
+    "split": ["Get away from bottle", "Get away from microwave"],
+    "selected_features": [
+      "bottle distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Get near to cup and the microwave": {
+    "id": 8,
+    "object_list": ["cup", "microwave"],
+    "split": ["Get near to cup", "Get near to the microwave"],
+    "selected_features": [
+      "cup distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Turn right and move closer to the bottle and apple": {
+    "id": 9,
+    "object_list": ["bottle", "apple"],
+    "split": [
+      "Turn right",
+      "Move closer to the bottle",
+      "Move closer to the apple"
+    ],
+    "selected_features": [
+      "X-cartesian increase",
+      "bottle distance decrease",
+      "apple distance decrease"
+    ]
+  },
+  "Move up and nearer to the peach and monitor": {
+    "id": 10,
+    "object_list": ["peach", "monitor"],
+    "split": [
+      "Move up",
+      "Move nearer to the peach",
+      "Move nearer to the monitor"
+    ],
+    "selected_features": [
+      "Z-cartesian increase",
+      "peach distance decrease",
+      "monitor distance decrease"
+    ]
+  },
+  "Move left and nearer to the peach and the monitor": {
+    "id": 11,
+    "object_list": ["peach", "monitor"],
+    "split": [
+      "Move left",
+      "Move nearer to the peach",
+      "Move nearer to the monitor"
+    ],
+    "selected_features": [
+      "X-cartesian decrease",
+      "peach distance decrease",
+      "monitor distance decrease"
+    ]
+  },
+  "Stay away from bottle and box and fridge": {
+    "id": 12,
+    "object_list": ["bottle", "box", "fridge"],
+    "split": [
+      "Stay away from bottle",
+      "Stay away from box",
+      "Stay away from fridge"
+    ],
+    "selected_features": [
+      "bottle distance increase",
+      "box distance increase",
+      "fridge distance increase"
+    ]
+  },
+  "Stay away from vase and banana and microwave": {
+    "id": 13,
+    "object_list": ["vase", "banana", "microwave"],
+    "split": [
+      "Stay away from vase",
+      "Stay away from banana",
+      "Stay away from microwave"
+    ],
+    "selected_features": [
+      "vase distance increase",
+      "banana distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Stay close to spoon and microwave and cup": {
+    "id": 14,
+    "object_list": ["spoon", "microwave", "cup"],
+    "split": [
+      "Stay close to spoon",
+      "Stay close to microwave",
+      "Stay close to cup"
+    ],
+    "selected_features": [
+      "spoon distance decrease",
+      "microwave distance decrease",
+      "cup distance decrease"
+    ]
+  },
+  "Stay near to the bottle and the microwave and the cup": {
+    "id": 15,
+    "object_list": ["bottle", "microwave", "cup"],
+    "split": [
+      "Stay near to the bottle",
+      "Stay near to the microwave",
+      "Stay near to the cup"
+    ],
+    "selected_features": [
+      "bottle distance decrease",
+      "microwave distance decrease",
+      "cup distance decrease"
+    ]
+  },
+  "move closer to jar and cake": {
+    "id": 16,
+    "object_list": ["jar", "cake"],
+    "split": ["move closer to jar", "move closer to cake"],
+    "selected_features": ["jar distance decrease", "cake distance decrease"]
+  },
+  "move closer to jar and microwave": {
+    "id": 17,
+    "object_list": ["jar", "microwave"],
+    "split": ["move closer to jar", "move closer to microwave"],
+    "selected_features": [
+      "jar distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "move nearer to jar and the microwave": {
+    "id": 18,
+    "object_list": ["jar", "microwave"],
+    "split": ["move nearer to jar", "move nearer to the microwave"],
+    "selected_features": [
+      "jar distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "move away from vase and apple": {
+    "id": 19,
+    "object_list": ["vase", "apple"],
+    "split": ["move away from vase", "move away from apple"],
+    "selected_features": ["vase distance increase", "apple distance increase"]
+  },
+  "move away from the vase and the apple": {
+    "id": 20,
+    "object_list": ["vase", "apple"],
+    "split": ["move away from the vase", "move away from the apple"],
+    "selected_features": ["vase distance increase", "apple distance increase"]
+  },
+  "Turn right and move closer to the vase and the apple": {
+    "id": 21,
+    "object_list": ["vase", "apple"],
+    "split": [
+      "Turn right",
+      "Move closer to the vase",
+      "Move closer to the apple"
+    ],
+    "selected_features": [
+      "X-cartesian increase",
+      "vase distance decrease",
+      "apple distance decrease"
+    ]
+  },
+  "Turn left and move closer to the vase and plate": {
+    "id": 22,
+    "object_list": ["vase", "plate"],
+    "split": [
+      "Turn left",
+      "Move closer to the vase",
+      "Move closer to the plate"
+    ],
+    "selected_features": [
+      "X-cartesian decrease",
+      "vase distance decrease",
+      "plate distance decrease"
+    ]
+  },
+  "Approach bottle and cup": {
+    "id": 23,
+    "object_list": ["bottle", "cup"],
+    "split": ["Approach bottle", "Approach cup"],
+    "selected_features": ["bottle distance decrease", "cup distance decrease"]
+  },
+  "Approach spoon and the cup": {
+    "id": 24,
+    "object_list": ["spoon", "cup"],
+    "split": ["Approach the spoon", "Approach the cup"],
+    "selected_features": ["spoon distance decrease", "cup distance decrease"]
+  },
+  "Approach vase and microwave": {
+    "id": 25,
+    "object_list": ["vase", "microwave"],
+    "split": ["Approach vase", "Approach microwave"],
+    "selected_features": [
+      "vase distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Approach the vase and microwave": {
+    "id": 26,
+    "object_list": ["vase", "microwave"],
+    "split": ["Approach the vase", "Approach the microwave"],
+    "selected_features": [
+      "vase distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Approach the glass and the microwave": {
+    "id": 27,
+    "object_list": ["glass", "microwave"],
+    "split": ["Approach the glass", "Approach the microwave"],
+    "selected_features": [
+      "glass distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Keep clear of the vase and the apple": {
+    "id": 28,
+    "object_list": ["vase", "apple"],
+    "split": ["Keep clear of the vase", "Keep clear of the apple"],
+    "selected_features": ["vase distance increase", "apple distance increase"]
+  },
+  "Keep clear of jar and the apple": {
+    "id": 29,
+    "object_list": ["jar", "apple"],
+    "split": ["Keep clear the jar", "Keep clear the apple"],
+    "selected_features": ["jar distance increase", "apple distance increase"]
+  },
+  "Avoid apple and microwave": {
+    "id": 30,
+    "object_list": ["apple", "microwave"],
+    "split": ["Avoid apple", "Avoid microwave"],
+    "selected_features": [
+      "apple distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Avoid the orange and the microwave": {
+    "id": 31,
+    "object_list": ["orange", "microwave"],
+    "split": ["Avoid the orange", "Avoid the microwave"],
+    "selected_features": [
+      "orange distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Move up and avoid the orange and the microwave": {
+    "id": 32,
+    "object_list": ["orange", "microwave"],
+    "split": ["Move up", "Avoid the orange", "Avoid the microwave"],
+    "selected_features": [
+      "Z-cartesian increase",
+      "orange distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Move up and avoid pineapple and microwave": {
+    "id": 33,
+    "object_list": ["pineapple", "microwave"],
+    "split": ["Move up", "Avoid pineapple", "Avoid microwave"],
+    "selected_features": [
+      "Z-cartesian increase",
+      "pineapple distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Avoid can, apple and plate": {
+    "id": 34,
+    "object_list": ["can", "apple", "plate"],
+    "split": ["Avoid can", "Avoid apple", "Avoid plate"],
+    "selected_features": [
+      "can distance increase",
+      "apple distance increase",
+      "plate distance increase"
+    ]
+  },
+  "Avoid the can, the apple and the plate": {
+    "id": 35,
+    "object_list": ["can", "apple", "plate"],
+    "split": ["Avoid the can", "Avoid the apple", "Avoid the plate"],
+    "selected_features": [
+      "can distance increase",
+      "apple distance increase",
+      "plate distance increase"
+    ]
+  },
+  "Go up and avoid the vase and the glass": {
+    "id": 36,
+    "object_list": ["vase", "glass"],
+    "split": ["Go up", "Avoid the vase", "Avoid the glass"],
+    "selected_features": [
+      "Z-cartesian increase",
+      "vase distance increase",
+      "glass distance increase"
+    ]
+  },
+  "Approach bottle and avoid microwave": {
+    "id": 37,
+    "object_list": ["bottle", "microwave"],
+    "split": ["Approach bottle", "Avoid microwave"],
+    "selected_features": [
+      "bottle distance decrease",
+      "microwave distance increase"
+    ]
+  },
+  "Approach the bottle and avoid the microwave": {
+    "id": 38,
+    "object_list": ["bottle", "microwave"],
+    "split": ["Approach the bottle", "Avoid the microwave"],
+    "selected_features": [
+      "bottle distance decrease",
+      "microwave distance increase"
+    ]
+  },
+  "Approach the bottle and avoid the microwave and the cup": {
+    "id": 39,
+    "object_list": ["bottle", "microwave", "cup"],
+    "split": ["Approach the bottle", "Avoid the microwave", "Avoid the cup"],
+    "selected_features": [
+      "bottle distance decrease",
+      "microwave distance increase",
+      "cup distance increase"
+    ]
+  },
+  "Go to the apple and bowl": {
+    "id": 40,
+    "object_list": ["apple", "bowl"],
+    "split": ["Go to the apple", "Go to the bowl"],
+    "selected_features": ["apple distance decrease", "bowl distance decrease"]
+  },
+  "Go to the pear and the bowl": {
+    "id": 41,
+    "object_list": ["pear", "bowl"],
+    "split": ["Go to the pear", "Go to the bowl"],
+    "selected_features": ["pear distance decrease", "bowl distance decrease"]
+  },
+  "Go near the orange and bowl and avoid the bottle and microwave": {
+    "id": 42,
+    "object_list": ["orange", "bowl", "bottle", "microwave"],
+    "split": [
+      "Go near the orange",
+      "Go near the bowl",
+      "Avoid the bottle",
+      "Avoid the microwave"
+    ],
+    "selected_features": [
+      "orange distance decrease",
+      "bowl distance decrease",
+      "bottle distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Go near the book and the bowl and avoid the bottle and the microwave": {
+    "id": 43,
+    "object_list": ["book", "bowl", "bottle", "microwave"],
+    "split": [
+      "Go near the book",
+      "Go near the bowl",
+      "Avoid the bottle",
+      "Avoid the microwave"
+    ],
+    "selected_features": [
+      "book distance decrease",
+      "bowl distance decrease",
+      "bottle distance increase",
+      "microwave distance increase"
+    ]
+  },
+  "Move up and closer to the vase and the glass": {
+    "id": 44,
+    "object_list": ["vase", "glass"],
+    "split": ["Move up", "Move closer to the vase", "Move closer to the glass"],
+    "selected_features": [
+      "Z-cartesian increase",
+      "vase distance decrease",
+      "glass distance decrease"
+    ]
+  },
+  "Move up and closer to the bottle and glass": {
+    "id": 45,
+    "object_list": ["bottle", "glass"],
+    "split": [
+      "Move up",
+      "Move closer to the bottle",
+      "Move closer to the glass"
+    ],
+    "selected_features": [
+      "Z-cartesian increase",
+      "bottle distance decrease",
+      "glass distance decrease"
+    ]
+  },
+  "Move back and closer to the vase and microwave": {
+    "id": 46,
+    "object_list": ["vase", "microwave"],
+    "split": [
+      "Move back",
+      "Move closer to the vase",
+      "Move closer to the microwave"
+    ],
+    "selected_features": [
+      "Y-cartesian decrease",
+      "vase distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Move back and closer to the cup and the microwave": {
+    "id": 47,
+    "object_list": ["cup", "microwave"],
+    "split": [
+      "Move back",
+      "Move closer to the cup",
+      "Move closer to the microwave"
+    ],
+    "selected_features": [
+      "Y-cartesian decrease",
+      "cup distance decrease",
+      "microwave distance decrease"
+    ]
+  },
+  "Get away from microwave and bowl": {
+    "id": 48,
+    "object_list": ["microwave", "bowl"],
+    "split": ["Get away from microwave", "Get away from bowl"],
+    "selected_features": [
+      "microwave distance increase",
+      "bowl distance increase"
+    ]
+  },
+  "Get away from the microwave and the bowl": {
+    "id": 49,
+    "object_list": ["microwave", "bowl"],
+    "split": ["Get away from the microwave", "Get away from the bowl"],
+    "selected_features": [
+      "microwave distance increase",
+      "bowl distance increase"
+    ]
+  },
+  "Go close to bottle and pear": {
+    "id": 50,
+    "object_list": ["bottle", "pear"],
+    "split": ["Go close to bottle", "Go close to pear"],
+    "selected_features": ["bottle distance decrease", "pear distance decrease"]
+  }
+}

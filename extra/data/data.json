@@ -1,0 +1,862 @@
+{
+    "1": {
+        "correction": "stay closer to the Egyptian cat",
+        "obj_list": [
+            "acoustic guitar",
+            "RV",
+            "trolley",
+            "minibus",
+            "Egyptian cat",
+            "European fire salamander"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "Egyptian cat"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "neutral"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "stay closer to the Egyptian cat"
+        ],
+        "gt_classification": [
+            "Egyptian cat_distance_decrease"
+        ]
+    },
+    "2": {
+        "correction": "drive a bit closer to the St Bernard",
+        "obj_list": [
+            "sarong",
+            "numbfish",
+            "St Bernard",
+            "ostrich"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "St Bernard"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "low"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "drive a bit closer to the St Bernard"
+        ],
+        "gt_classification": [
+            "St Bernard_distance_decrease"
+        ]
+    },
+    "3": {
+        "correction": "stay a little closer to the maillot",
+        "obj_list": [
+            "maillot",
+            "rosehip",
+            "rapeseed"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "maillot"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "low"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "stay a little closer to the maillot"
+        ],
+        "gt_classification": [
+            "maillot_distance_decrease"
+        ]
+    },
+    "4": {
+        "correction": "pass very closer to the terrapin",
+        "obj_list": [
+            "ladybird beetle",
+            "terrapin",
+            "crate",
+            "Ursus Maritimus"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "terrapin"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "pass very closer to the terrapin"
+        ],
+        "gt_classification": [
+            "terrapin_distance_decrease"
+        ]
+    },
+    "5": {
+        "correction": "walk a little further away from the Samoyed",
+        "obj_list": [
+            "Blenheim spaniel",
+            "barbershop",
+            "bison",
+            "Samoyed",
+            "measuring cup",
+            "Cancer magister"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "Samoyed"
+        ],
+        "gt_direction": [
+            "increase"
+        ],
+        "gt_intensity": [
+            "low"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "walk a little further away from the Samoyed"
+        ],
+        "gt_classification": [
+            "Samoyed_distance_increase"
+        ]
+    },
+    "6": {
+        "correction": "walk much closer to the Rottweiler",
+        "obj_list": [
+            "paperknife",
+            "Italian greyhound",
+            "Rottweiler"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "Rottweiler"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "walk much closer to the Rottweiler"
+        ],
+        "gt_classification": [
+            "Rottweiler_distance_decrease"
+        ]
+    },
+    "7": {
+        "correction": "stay much closer to the bulbul",
+        "obj_list": [
+            "snail",
+            "husky",
+            "vizsla",
+            "bulbul",
+            "sarong",
+            "Aptenodytes patagonica"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "bulbul"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "stay much closer to the bulbul"
+        ],
+        "gt_classification": [
+            "bulbul_distance_decrease"
+        ]
+    },
+    "8": {
+        "correction": "drive very faster when passing nearby the pickup",
+        "obj_list": [
+            "leopard",
+            "West Highland white terrier",
+            "mitten",
+            "pickup"
+        ],
+        "gt_type": [
+            "speed"
+        ],
+        "gt_target_object": [
+            "pickup"
+        ],
+        "gt_direction": [
+            "increase"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "drive very faster when passing nearby the pickup"
+        ],
+        "gt_classification": [
+            "pickup_speed_increase"
+        ]
+    },
+    "9": {
+        "correction": "go very faster in the surrounding of the quail",
+        "obj_list": [
+            "racket",
+            "quail",
+            "velocipede"
+        ],
+        "gt_type": [
+            "speed"
+        ],
+        "gt_target_object": [
+            "quail"
+        ],
+        "gt_direction": [
+            "increase"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "go very faster in the surrounding of the quail"
+        ],
+        "gt_classification": [
+            "quail_speed_increase"
+        ]
+    },
+    "10": {
+        "correction": "go to the bottom",
+        "obj_list": [
+            "alp",
+            "Crotalus adamanteus",
+            "jeep",
+            "entertainment center",
+            "birdhouse"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "Z"
+        ],
+        "gt_split": [
+            "go to the bottom"
+        ],
+        "gt_classification": [
+            "Z_cartesian_decrease"
+        ]
+    },
+    "11": {
+        "correction": "bottom part",
+        "obj_list": [
+            "trimaran",
+            "megalithic structure",
+            "Panthera tigris"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "Z"
+        ],
+        "gt_split": [
+            "bottom part"
+        ],
+        "gt_classification": [
+            "Z_cartesian_decrease"
+        ]
+    },
+    "12": {
+        "correction": "go down",
+        "obj_list": [
+            "planetarium",
+            "stopwatch",
+            "amphibious vehicle"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "Z"
+        ],
+        "gt_split": [
+            "go down"
+        ],
+        "gt_classification": [
+            "Z_cartesian_decrease"
+        ]
+    },
+    "13": {
+        "correction": "left",
+        "obj_list": [
+            "trilobite",
+            "rugby ball",
+            "chickadee",
+            "dough",
+            "jellyfish"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "Y"
+        ],
+        "gt_split": [
+            "left"
+        ],
+        "gt_classification": [
+            "Y_cartesian_decrease"
+        ]
+    },
+    "14": {
+        "correction": "stay on the front",
+        "obj_list": [
+            "kelpie",
+            "suspension bridge",
+            "thrasher"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "increase"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "X"
+        ],
+        "gt_split": [
+            "stay on the front"
+        ],
+        "gt_classification": [
+            "X_cartesian_increase"
+        ]
+    },
+    "15": {
+        "correction": "reduce the speed when passing next to the stethoscope",
+        "obj_list": [
+            "stethoscope",
+            "cannon",
+            "birdhouse"
+        ],
+        "gt_type": [
+            "speed"
+        ],
+        "gt_target_object": [
+            "stethoscope"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "neutral"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "reduce the speed when passing next to the stethoscope"
+        ],
+        "gt_classification": [
+            "stethoscope_speed_decrease"
+        ]
+    },
+    "16": {
+        "correction": "stay very further away from the Panthera leo",
+        "obj_list": [
+            "Cebus capucinus",
+            "spider web",
+            "Panthera leo",
+            "knot"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "Panthera leo"
+        ],
+        "gt_direction": [
+            "increase"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "stay very further away from the Panthera leo"
+        ],
+        "gt_classification": [
+            "Panthera leo_distance_increase"
+        ]
+    },
+    "17": {
+        "correction": "walk a lot closer to the Hippopotamus amphibius",
+        "obj_list": [
+            "Nasalis larvatus",
+            "monastery",
+            "Vulpes macrotis",
+            "fire truck",
+            "Hippopotamus amphibius"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "Hippopotamus amphibius"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "walk a lot closer to the Hippopotamus amphibius"
+        ],
+        "gt_classification": [
+            "Hippopotamus amphibius_distance_decrease"
+        ]
+    },
+    "18": {
+        "correction": "stay much closer to the electric fan",
+        "obj_list": [
+            "electric fan",
+            "forklift",
+            "miniature schnauzer",
+            "maze"
+        ],
+        "gt_type": [
+            "distance"
+        ],
+        "gt_target_object": [
+            "electric fan"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "high"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "stay much closer to the electric fan"
+        ],
+        "gt_classification": [
+            "electric fan_distance_decrease"
+        ]
+    },
+    "19": {
+        "correction": "reduce the speed when passing in the proximity of the bubble",
+        "obj_list": [
+            "Bouvier des Flandres",
+            "syringe",
+            "bubble",
+            "overskirt"
+        ],
+        "gt_type": [
+            "speed"
+        ],
+        "gt_target_object": [
+            "bubble"
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            "neutral"
+        ],
+        "gt_cart_axes": [
+            null
+        ],
+        "gt_split": [
+            "reduce the speed when passing in the proximity of the bubble"
+        ],
+        "gt_classification": [
+            "bubble_speed_decrease"
+        ]
+    },
+    "20": {
+        "correction": "stay down",
+        "obj_list": [
+            "plinth",
+            "snail"
+        ],
+        "gt_type": [
+            "cartesian"
+        ],
+        "target_obj": [
+            null
+        ],
+        "gt_direction": [
+            "decrease"
+        ],
+        "gt_intensity": [
+            null
+        ],
+        "gt_cart_axes": [
+            "Z"
+        ],
+        "gt_split": [
+            "stay down"
+        ],
+        "gt_classification": [
+            "Z_cartesian_decrease"
+        ]
+    },
+    "21": {
+        "correction": "Get close to bottle and turn right then move closer to apple and stay away from book",
+        "obj_list": [
+            "bottle",
+            "apple",
+            "book",
+            "chair",
+            "table"
+        ],
+        "gt_type": [
+            "distance",
+            "cartesian",
+            "distance",
+            "distance"
+        ],
+        "gt_target_object": [
+            "bottle",
+            null,
+            "apple",
+            "book"
+        ],
+        "gt_direction": [
+            "decrease",
+            "increase",
+            "decrease",
+            "increase"
+        ],
+        "gt_intensity": [
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral"
+        ],
+        "gt_cart_axes": [
+            null,
+            "X",
+            null,
+            null
+        ],
+        "gt_split": [
+            "Get close to bottle",
+            "turn right",
+            "move closer to apple",
+            "stay away from book"
+        ],
+        "gt_classification": [
+            "bottle distance decrease",
+            "X-cartesian increase",
+            "apple distance decrease",
+            "book distance increase"
+        ]
+    },
+    "22": {
+        "correction": "Approach the vase and turn right then slow down slightly when passing nearby the pigeon and stay very far away from the river",
+        "obj_list": [
+            "vase",
+            "river",
+            "pigeoon",
+            "aeroplane",
+            "human"
+        ],
+        "gt_type": [
+            "distance",
+            "cartesian",
+            "speed",
+            "distance"
+        ],
+        "gt_target_object": [
+            "vase",
+            null,
+            "pigeon",
+            "river"
+        ],
+        "gt_direction": [
+            "decrease",
+            "increase",
+            "decrease",
+            "increase"
+        ],
+        "gt_intensity": [
+            "neutral",
+            "neutral",
+            "low",
+            "high"
+        ],
+        "gt_cart_axes": [
+            null,
+            "X",
+            null,
+            null
+        ],
+        "gt_split": [
+            "Approach the vase",
+            "turn right",
+            "slow down slightly when passing nearby the pigeon",
+            "stay very far away from the rive"
+        ],
+        "gt_classification": [
+            "vase distance decrease",
+            "X-cartesian increase",
+            "speed decrease",
+            "river distance increase"
+        ]
+    },
+    "23": {
+        "correction": "Go extremely close to the table and slow down rapidly when passing nearby the chair then keep slightly close to the book and move up much higher",
+        "obj_list": [
+            "table",
+            "chair",
+            "book",
+            "cat",
+            "bench"
+        ],
+        "gt_type": [
+            "distance",
+            "speed",
+            "distance",
+            "cartesian"
+        ],
+        "gt_target_object": [
+            "table",
+            "chair",
+            "book",
+            null
+        ],
+        "gt_direction": [
+            "decrease",
+            "decrease",
+            "decrease",
+            "increase"
+        ],
+        "gt_intensity": [
+            "high",
+            "high",
+            "low",
+            "high"
+        ],
+        "gt_cart_axes": [
+            null,
+            null,
+            null,
+            "Z"
+        ],
+        "gt_split": [
+            "Go extremely close to the table",
+            "slow down rapidly when passing nearby the chair",
+            "keep slightly close to the book",
+            "move up much higher"
+        ],
+        "gt_classification": [
+            "table distance decrease",
+            "speed decrease",
+            "book distance decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "24": {
+        "correction": "Move a little farther from the bus, speed up slightly when approaching the Golden Retriever, stay moderately away from the book, then move 5 steps backwards",
+        "obj_list": [
+            "Golden Retriever",
+            "bus",
+            "Husky",
+            "Maine Coon",
+            "book"
+        ],
+        "gt_type": [
+            "distance",
+            "speed",
+            "distance",
+            "cartesian"
+        ],
+        "gt_target_object": [
+            "bus",
+            "Golden Retriever",
+            "book",
+            null
+        ],
+        "gt_direction": [
+            "increase",
+            "decrease",
+            "increase",
+            "decrease"
+        ],
+        "gt_intensity": [
+            "low",
+            "low",
+            "neutral",
+            "neutral"
+        ],
+        "gt_cart_axes": [
+            null,
+            null,
+            null,
+            "Y"
+        ],
+        "gt_split": [
+            "Move a little farther from the bus",
+            "speed up slightly when approaching the Golden Retriever",
+            "stay moderately away from the book",
+            "move 5 steps backwards"
+        ],
+        "gt_classification": [
+            "bus distance increase",
+            "speed decrease",
+            "book distance increase",
+            "Y-cartesian decrease"
+        ]
+    },
+    "25": {
+        "correction": "Go to Elon Musk, speed up when you're near the GameStop, maintain a great distance from the iPhone, accelerate quickly away when passing by Bill Gates",
+        "obj_list": [
+            "bagel",
+            "iPhone",
+            "Bill Gates",
+            "Elon Musk",
+            "GameStop"
+        ],
+        "gt_type": [
+            "distance",
+            "speed",
+            "distance",
+            "speed"
+        ],
+        "gt_target_object": [
+            "Elon Musk",
+            "GameStop",
+            "iPhone",
+            "Bill Gates"
+        ],
+        "gt_direction": [
+            "decrease",
+            "increase",
+            "increase",
+            "decrease"
+        ],
+        "gt_intensity": [
+            "neutral",
+            "neutral",
+            "high",
+            "high"
+        ],
+        "gt_cart_axes": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "gt_split": [
+            "Go to Elon Musk",
+            "speed up when you're near the GameStop",
+            "maintain a great distance from the iPhone",
+            "accelerate quickly away when passing by Bill Gates"
+        ],
+        "gt_classification": [
+            "Elon Musk speed decrease",
+            "speed increase",
+            "iPhone distance increase",
+            "speed increase"
+        ]
+    }
+}

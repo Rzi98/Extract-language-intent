@@ -1,0 +1,1134 @@
+{
+    "intensity_w_types": {
+        "1": [
+            [
+                "Get close to bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "turn right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay away from book",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "2": [
+            [
+                "Approach the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "get nearer to the orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay down",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "3": [
+            [
+                "Reduce the distance to the box",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "turn left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "get a bit closer to the banana",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "avoid the pen",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "4": [
+            [
+                "Move closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep close to the pear",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "step back from the notebook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "5": [
+            [
+                "Stay close to the jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move leftward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "decrease the distance to the watermelon",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "avoid the magazine",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "6": [
+            [
+                "Get nearer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "approach the monitor",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "get a little bit lower",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "stay down",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "7": [
+            [
+                "Retreat from the table",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move rightwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move down",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep your distance from the textbook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "8": [
+            [
+                "Get closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the peach",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "steer clear of the journal",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "9": [
+            [
+                "Retreat from the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "increase the distance from the mango",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "move a bit further away from the diary",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "10": [
+            [
+                "Keep a greater distance from the bowl",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "move right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the notebook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "11": [
+            [
+                "Traverse right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "get closer to the desktop",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay elevated",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go backwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "12": [
+            [
+                "Move nearer to the book",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go rightward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go down",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay close to the book",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "13": [
+            [
+                "Get a bit closer to the can",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "move leftward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "descend downward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the magazine",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "14": [
+            [
+                "Stay near the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move rightwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move lower",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "increase the distance from the notebook",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "15": [
+            [
+                "Get closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "approach the laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "remain at a lower position",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "keep your distance from the journal",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "16": [
+            [
+                "Move away from the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move a bit further away from the diary",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "17": [
+            [
+                "Keep a greater distance from the bowl",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "move rightwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "ascend upwards",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "avoid the notebook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "18": [
+            [
+                "Move nearer to the jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "go rightward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay elevated",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the textbook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "19": [
+            [
+                "Move closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "get close to the desktop",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move lower",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "steer clear of the magazine",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "20": [
+            [
+                "Move forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move rightwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "decrease the distance to the notebook",
+                "LOW",
+                "DISTANCE"
+            ],
+            [
+                "move a bit further away from the diary",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "21": [
+            [
+                "move more left",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "stay closer to the bottle",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "22": [
+            [
+                "stay closer to the laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move up a little bit",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "23": [
+            [
+                "move down",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "24": [
+            [
+                "avoid the cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the fridge",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "25": [
+            [
+                "move away from bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move away from book",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "26": [
+            [
+                "move away from bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "27": [
+            [
+                "move closer to egg",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "28": [
+            [
+                "move closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move further from the laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "29": [
+            [
+                "move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "30": [
+            [
+                "move right",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "31": [
+            [
+                "keep close to pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "32": [
+            [
+                "move near the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "33": [
+            [
+                "move near the pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "34": [
+            [
+                "move further from the cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "35": [
+            [
+                "move closer to the fridge",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "36": [
+            [
+                "keep right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay closer to the bottle",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "37": [
+            [
+                "stay closer to the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move up a little bit",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "38": [
+            [
+                "move lower",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "39": [
+            [
+                "stay extremely far away from the bottle",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "stay extremely far away from the cup",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "40": [
+            [
+                "stay away from laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "41": [
+            [
+                "stay further away from the pineapple",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "42": [
+            [
+                "stay closer to spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "43": [
+            [
+                "move upwards",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "44": [
+            [
+                "move further from laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "45": [
+            [
+                "move closer to pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "46": [
+            [
+                "move nearer to spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "47": [
+            [
+                "move lower",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "48": [],
+        "49": [
+            [
+                "move away from bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "closer to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "50": [
+            [
+                "move closer to spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "51": [
+            [
+                "move closer to microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "52": [
+            [
+                "retreat from the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "53": [
+            [
+                "move towards bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "54": [
+            [
+                "move away from laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "55": [
+            [
+                "move away from pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "56": [
+            [
+                "move towards spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "57": [
+            [
+                "move towards cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "58": [
+            [
+                "move towards egg",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "59": [
+            [
+                "go close to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "60": [
+            [
+                "move down",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "61": [
+            [
+                "move to pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "62": [
+            [
+                "move to pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move down",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "63": [
+            [
+                "avoid the fridge",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "64": [
+            [
+                "closer to cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "65": [
+            [
+                "move closer to bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "66": [],
+        "67": [
+            [
+                "move closer to egg",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "68": [
+            [
+                "move towards the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "69": [
+            [
+                "move closer to the spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "70": [
+            [
+                "move away from the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "71": [
+            [
+                "move towards the egg",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "72": [],
+        "73": [],
+        "74": [
+            [
+                "move to the cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "75": [],
+        "76": [
+            [
+                "move closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "77": [
+            [
+                "move closer to the pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "78": [
+            [
+                "move closer to the egg",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "79": [
+            [
+                "move higher",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "80": [
+            [
+                "move closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "81": [
+            [
+                "move away from the pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "82": [
+            [
+                "move away from the cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "83": [
+            [
+                "closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "further from the laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "84": [
+            [
+                "keep close to the table",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay clear from cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "85": [
+            [
+                "closer to the cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "86": [
+            [
+                "move away from the laptop",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "87": [
+            [
+                "move to the right",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "88": [
+            [
+                "move towards the spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "89": [
+            [
+                "Get closer to the can",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "90": [
+            [
+                "Traverse right",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "91": [
+            [
+                "Move forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move right",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "92": [
+            [
+                "Move backward",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "93": [
+            [
+                "Approach the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the scissors",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep left",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "94": [
+            [
+                "Go close to the banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep a distance from apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "95": [
+            [
+                "Move towards the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep left",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "96": [
+            [
+                "Move a little bit forward",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "97": [
+            [
+                "Stay nearer to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep a distance from the scissors",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "98": [
+            [
+                "Stay far from the book",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "moving forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "99": [
+            [
+                "Move towards the book",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "keep back from the banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "100": [
+            [
+                "Take a step forward",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ]
+    }
+}

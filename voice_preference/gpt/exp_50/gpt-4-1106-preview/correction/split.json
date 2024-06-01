@@ -1,0 +1,163 @@
+{
+    "split": {
+        "1": {
+            "predicted": [
+                "move up",
+                "closer to the plate",
+                "microwave"
+            ],
+            "truth": [
+                "move up",
+                "move closer to the plate",
+                "move closer to the microwave"
+            ]
+        },
+        "2": {
+            "predicted": [
+                "move near the cup",
+                "microwave"
+            ],
+            "truth": [
+                "move near the cup",
+                "move near the microwave"
+            ]
+        },
+        "3": {},
+        "4": {},
+        "5": {},
+        "6": {},
+        "7": {
+            "predicted": [
+                "get away from bottle",
+                "microwave"
+            ],
+            "truth": [
+                "get away from bottle",
+                "get away from microwave"
+            ]
+        },
+        "8": {},
+        "9": {},
+        "10": {
+            "predicted": [
+                "move up",
+                "move nearer to the peach",
+                "monitor"
+            ],
+            "truth": [
+                "move up",
+                "move nearer to the peach",
+                "move nearer to the monitor"
+            ]
+        },
+        "11": {},
+        "12": {},
+        "13": {},
+        "14": {},
+        "15": {},
+        "16": {},
+        "17": {
+            "predicted": [
+                "move closer to jar",
+                "microwave"
+            ],
+            "truth": [
+                "move closer to jar",
+                "move closer to microwave"
+            ]
+        },
+        "18": {},
+        "19": {},
+        "20": {},
+        "21": {},
+        "22": {},
+        "23": {},
+        "24": {
+            "predicted": [
+                "approach spoon",
+                "approach the cup"
+            ],
+            "truth": [
+                "approach the spoon",
+                "approach the cup"
+            ]
+        },
+        "25": {},
+        "26": {
+            "predicted": [
+                "approach the vase",
+                "microwave"
+            ],
+            "truth": [
+                "approach the vase",
+                "approach the microwave"
+            ]
+        },
+        "27": {},
+        "28": {},
+        "29": {
+            "predicted": [
+                "keep clear of jar",
+                "and the apple"
+            ],
+            "truth": [
+                "keep clear the jar",
+                "keep clear the apple"
+            ]
+        },
+        "30": {},
+        "31": {},
+        "32": {},
+        "33": {
+            "predicted": [
+                "move up",
+                "avoid pineapple",
+                "microwave"
+            ],
+            "truth": [
+                "move up",
+                "avoid pineapple",
+                "avoid microwave"
+            ]
+        },
+        "34": {},
+        "35": {},
+        "36": {},
+        "37": {},
+        "38": {},
+        "39": {},
+        "40": {},
+        "41": {},
+        "42": {
+            "predicted": [
+                "go near the orange",
+                "bowl",
+                "avoid the bottle",
+                "microwave"
+            ],
+            "truth": [
+                "go near the orange",
+                "go near the bowl",
+                "avoid the bottle",
+                "avoid the microwave"
+            ]
+        },
+        "43": {},
+        "44": {},
+        "45": {},
+        "46": {},
+        "47": {},
+        "48": {
+            "predicted": [
+                "get away from microwave",
+                "bowl"
+            ],
+            "truth": [
+                "get away from microwave",
+                "get away from bowl"
+            ]
+        },
+        "49": {},
+        "50": {}
+    }
+}

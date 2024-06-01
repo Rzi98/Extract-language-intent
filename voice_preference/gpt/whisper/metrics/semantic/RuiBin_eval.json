@@ -1,0 +1,322 @@
+{
+    "1": {
+        "rectified_input": "Get close to bottle, but keep slightly right",
+        "transcription_gt": "Get close to bottle but keep slightly right",
+        "split_command": [
+            "Get close to bottle",
+            "but keep slightly right"
+        ],
+        "split_commands_gt": [
+            "Get close to bottle",
+            "keep slightly right"
+        ]
+    },
+    "2": {
+        "rectified_input": "Move a bit closer to bowl, but stay away from bottle",
+        "transcription_gt": "Move a bit closer to bowl but stay away from bottle",
+        "split_command": [
+            "Move a bit closer to bowl",
+            "but stay away from bottle"
+        ],
+        "split_commands_gt": [
+            "Move a bit closer to bowl",
+            "stay away from bottle"
+        ]
+    },
+    "3": {
+        "rectified_input": "Stay close to mark and stay low",
+        "transcription_gt": "Stay close to mug and stay low",
+        "object_list": [],
+        "objects_gt": [
+            "mug"
+        ],
+        "split_command": [
+            "Stay close to mark",
+            "stay low"
+        ],
+        "split_commands_gt": [
+            "Stay close to mug",
+            "stay low"
+        ],
+        "classification": [
+            "mark distance decrease",
+            "Z-cartesian decrease"
+        ],
+        "classification_gt": [
+            "mug distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "4": {},
+    "5": {},
+    "6": {
+        "rectified_input": "Go closer to mug",
+        "transcription_gt": "Go closer to bottle and mug",
+        "object_list": [
+            "mug"
+        ],
+        "objects_gt": [
+            "bottle",
+            "mug"
+        ],
+        "split_command": [
+            "Go closer to mug"
+        ],
+        "split_commands_gt": [
+            "Go closer to bottle",
+            "Go closer to mug"
+        ],
+        "classification": [
+            "mug distance decrease"
+        ],
+        "classification_gt": [
+            "bottle distance decrease",
+            "mug distance decrease"
+        ],
+        "intensity_list": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "intensity_list_gt": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ]
+    },
+    "7": {
+        "rectified_input": "Move forward, but keep a distance to scissors",
+        "transcription_gt": "Move front but keep a distance to scissors",
+        "split_command": [
+            "Move forward",
+            "but keep a distance to scissors"
+        ],
+        "split_commands_gt": [
+            "Move front",
+            "keep a distance to scissors"
+        ],
+        "intensity_list": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "intensity_list_gt": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ]
+    },
+    "8": {
+        "rectified_input": "Move fast when closer to bus",
+        "transcription_gt": "Move fast when closer to vase",
+        "object_list": [
+            "bus"
+        ],
+        "objects_gt": [
+            "vase"
+        ],
+        "split_command": [
+            "Move fast",
+            "when closer to bus"
+        ],
+        "split_commands_gt": [
+            "Move fast when closer to vase"
+        ],
+        "classification": [
+            "Y-cartesian increase, speed increase",
+            "bus distance decrease"
+        ],
+        "classification_gt": [
+            "speed increase, vase distance decrease"
+        ],
+        "intensity_list": [
+            [
+                "NEUTRAL",
+                "SPEED"
+            ],
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "intensity_list_gt": [
+            [
+                "NEUTRAL",
+                "SPEED"
+            ]
+        ]
+    },
+    "9": {
+        "split_command": [
+            "Get extremely close to bottle"
+        ],
+        "split_commands_gt": [
+            "get extremely close to bottle"
+        ]
+    },
+    "10": {},
+    "11": {
+        "rectified_input": "Get close to bottle, but keep slightly right",
+        "transcription_gt": "Get close to bottle but keep slightly right",
+        "split_command": [
+            "Get close to bottle",
+            "but keep slightly right"
+        ],
+        "split_commands_gt": [
+            "Get close to bottle",
+            "keep slightly right"
+        ]
+    },
+    "12": {},
+    "13": {
+        "rectified_input": "Stay close to mark and stay low",
+        "transcription_gt": "Stay close to mug and stay low",
+        "object_list": [],
+        "objects_gt": [
+            "mug"
+        ],
+        "split_command": [
+            "Stay close to mark",
+            "stay low"
+        ],
+        "split_commands_gt": [
+            "Stay close to mug",
+            "stay low"
+        ],
+        "classification": [
+            "mark distance decrease",
+            "Z-cartesian decrease"
+        ],
+        "classification_gt": [
+            "mug distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "14": {},
+    "15": {},
+    "16": {
+        "rectified_input": "Go closer to mug and cup",
+        "transcription_gt": "Go closer to bottle and mug",
+        "object_list": [
+            "mug",
+            "cup"
+        ],
+        "objects_gt": [
+            "bottle",
+            "mug"
+        ],
+        "split_command": [
+            "Go closer to mug",
+            "Go closer to cup"
+        ],
+        "split_commands_gt": [
+            "Go closer to bottle",
+            "Go closer to mug"
+        ],
+        "classification": [
+            "mug distance decrease",
+            "cup distance decrease"
+        ],
+        "classification_gt": [
+            "mug distance decrease",
+            "mug distance decrease"
+        ]
+    },
+    "17": {
+        "rectified_input": "Move forward, but keep a distance to scissors",
+        "transcription_gt": "Move front but keep a distance to scissors",
+        "split_command": [
+            "Move forward",
+            "but keep a distance to scissors"
+        ],
+        "split_commands_gt": [
+            "Move front",
+            "keep a distance to scissors"
+        ],
+        "intensity_list": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "intensity_list_gt": [
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ]
+    },
+    "18": {
+        "rectified_input": "Move fast when closer to bus",
+        "transcription_gt": "Move fast when closer to vase",
+        "object_list": [
+            "bus"
+        ],
+        "objects_gt": [
+            "vase"
+        ],
+        "split_command": [
+            "Move fast",
+            "when closer to bus"
+        ],
+        "split_commands_gt": [
+            "Move fast when closer to vase"
+        ],
+        "classification": [
+            "Y-cartesian increase, speed increase",
+            "bus distance decrease"
+        ],
+        "classification_gt": [
+            "speed increase, vase distance decrease"
+        ],
+        "intensity_list": [
+            [
+                "NEUTRAL",
+                "SPEED"
+            ],
+            [
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "intensity_list_gt": [
+            [
+                "NEUTRAL",
+                "SPEED"
+            ]
+        ]
+    },
+    "19": {
+        "split_command": [
+            "Get extremely close to bottle"
+        ],
+        "split_commands_gt": [
+            "get extremely close to bottle"
+        ]
+    },
+    "20": {}
+}

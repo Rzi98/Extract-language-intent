@@ -1,0 +1,10 @@
+,predicted,truth
+23,"['move down', 'get closer to the plate', 'use microwave']","['move down', 'move closer to the plate', 'move closer to the microwave']"
+25,"['move away from the bottle', 'move away from the book', 'move closer to the cup']","['move away from bottle', 'move away from book', 'move closer to cup']"
+26,"['move away from the bottle', 'move closer to the cup']","['move away from bottle', 'move closer to cup']"
+27,"['move closer to the egg', 'move closer to the cake']","['move closer to egg', 'move closer to cake']"
+38,"['move down', 'get closer to the plate', 'use the microwave']","['move down', 'move closer to the plate', 'move closer to the microwave']"
+44,['move further from the laptop'],['move further from laptop']
+49,"['move away from the bottle', 'then move closer to the cup']","['move away from bottle', 'move closer to cup']"
+86,"['move away from the laptop', 'get closer to the cup']","['move away from the laptop', 'move closer to the cup']"
+98,"['stay far from the book', 'keep right', 'move forward']","['stay far from the book', 'keep right', 'moving forward']"

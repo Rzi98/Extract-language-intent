@@ -1,0 +1,57 @@
+{
+    "21": {
+        "correction": "Get close to bottle and turn right then move closer to apple and stay away from book",
+        "obj_list": ["bottle", "apple", "book", "chair", "table"],
+        "gt_type": ["distance", "cartesian", "distance", "distance"],
+        "gt_target_object": ["bottle", null, "apple", "book"],
+        "gt_direction": ["decrease", "increase", "decrease", "increase"],
+        "gt_intensity": ["neutral", "neutral", "neutral", "neutral"],
+        "gt_cart_axes": [null, "X", null, null],
+        "gt_split": ["Get close to bottle", "turn right", "move closer to apple", "stay away from book"],
+        "gt_classification": ["bottle distance decrease", "X-cartesian increase", "apple distance decrease", "book distance increase"]
+    },
+    "22": {
+        "correction": "Approach the vase and turn right then slow down slightly when passing nearby the pigeon and stay very far away from the river",
+        "obj_list": ["vase", "river", "pigeoon", "aeroplane", "human"],
+        "gt_type": ["distance", "cartesian", "speed", "distance"],
+        "gt_target_object": ["vase", null, "pigeon", "river"],
+        "gt_direction": ["decrease", "increase", "decrease", "increase"],
+        "gt_intensity": ["neutral", "neutral", "low", "high"],
+        "gt_cart_axes": [null, "X", null, null],
+        "gt_split": ["Approach the vase", "turn right", "slow down slightly when passing nearby the pigeon", "stay very far away from the rive"],
+        "gt_classification": ["vase distance decrease", "X-cartesian increase", "speed decrease", "river distance increase"]
+    },
+    "23": {
+        "correction": "Go extremely close to the table and slow down rapidly when passing nearby the chair then keep slightly close to the book and move up much higher",
+        "obj_list": ["table", "chair", "book", "cat", "bench"],
+        "gt_type": ["distance", "speed", "distance", "cartesian"],
+        "gt_target_object": ["table", "chair", "book", null],
+        "gt_direction": ["decrease", "decrease", "decrease", "increase"],
+        "gt_intensity": ["high", "high", "low", "high"],
+        "gt_cart_axes": [null, null, null, "Z"],
+        "gt_split": ["Go extremely close to the table", "slow down rapidly when passing nearby the chair", "keep slightly close to the book", "move up much higher"],
+        "gt_classification": ["table distance decrease", "speed decrease", "book distance decrease", "Z-cartesian increase"]
+    },
+    "24": {
+        "correction": "Move a little farther from the bus, speed up slightly when approaching the Golden Retriever, stay moderately away from the book, then move 5 steps backwards",
+        "obj_list": ["Golden Retriever", "bus", "Husky", "Maine Coon", "book"],
+        "gt_type": ["distance", "speed", "distance", "cartesian"],
+        "gt_target_object": ["bus", "Golden Retriever", "book", null],
+        "gt_direction": ["increase", "decrease", "increase", "decrease"],
+        "gt_intensity": ["low", "low", "neutral", "neutral"],
+        "gt_cart_axes": [null, null, null, "Y"],
+        "gt_split": ["Move a little farther from the bus", "speed up slightly when approaching the Golden Retriever", "stay moderately away from the book", "move 5 steps backwards"],
+        "gt_classification": ["bus distance increase", "speed decrease", "book distance increase", "Y-cartesian decrease"]
+    },
+    "25":{
+        "correction": "Go to Elon Musk, speed up when you're near the GameStop, maintain a great distance from the iPhone, accelerate quickly away when passing by Bill Gates",
+        "obj_list": ["bagel", "iPhone", "Bill Gates", "Elon Musk", "GameStop"],
+        "gt_type": ["distance", "speed", "distance", "speed"],
+        "gt_target_object": ["Elon Musk", "GameStop", "iPhone", "Bill Gates"],
+        "gt_direction": ["decrease", "increase", "increase", "decrease"],
+        "gt_intensity": ["neutral", "neutral", "high", "high"],
+        "gt_cart_axes": [null, null, null, null],
+        "gt_split": ["Go to Elon Musk", "speed up when you're near the GameStop", "maintain a great distance from the iPhone", "accelerate quickly away when passing by Bill Gates"],
+        "gt_classification": ["Elon Musk speed decrease", "speed increase", "iPhone distance increase", "speed increase"]
+    }
+}

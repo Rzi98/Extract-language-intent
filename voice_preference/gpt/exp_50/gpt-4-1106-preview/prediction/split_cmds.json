@@ -1,0 +1,230 @@
+{
+    "split_cmds": {
+        "1": [
+            "move up",
+            "closer to the plate",
+            "microwave"
+        ],
+        "2": [
+            "Move near the cup",
+            "Microwave"
+        ],
+        "3": [
+            "move up",
+            "further away from the bowl",
+            "further away from the bottle"
+        ],
+        "4": [
+            "stay closer to the bottle",
+            "stay closer to the apple",
+            "move up a little bit"
+        ],
+        "5": [
+            "Get close to the bottle",
+            "Get close to the notebook"
+        ],
+        "6": [
+            "Get close to the orange",
+            "Get close to the notebook"
+        ],
+        "7": [
+            "Get away from bottle",
+            "microwave"
+        ],
+        "8": [
+            "Get near to cup",
+            "Get near to the microwave"
+        ],
+        "9": [
+            "Turn right",
+            "move closer to the bottle",
+            "move closer to the apple"
+        ],
+        "10": [
+            "Move up",
+            "Move nearer to the peach",
+            "Monitor"
+        ],
+        "11": [
+            "Move left",
+            "Move nearer to the peach",
+            "Move nearer to the monitor"
+        ],
+        "12": [
+            "Stay away from bottle",
+            "Stay away from box",
+            "Stay away from fridge"
+        ],
+        "13": [
+            "Stay away from vase",
+            "Stay away from banana",
+            "Stay away from microwave"
+        ],
+        "14": [
+            "Stay close to spoon",
+            "Stay close to microwave",
+            "Stay close to cup"
+        ],
+        "15": [
+            "Stay near to the bottle",
+            "Stay near to the microwave",
+            "Stay near to the cup"
+        ],
+        "16": [
+            "move closer to jar",
+            "move closer to cake"
+        ],
+        "17": [
+            "move closer to jar",
+            "microwave"
+        ],
+        "18": [
+            "move nearer to jar",
+            "move nearer to the microwave"
+        ],
+        "19": [
+            "move away from vase",
+            "move away from apple"
+        ],
+        "20": [
+            "move away from the vase",
+            "move away from the apple"
+        ],
+        "21": [
+            "Turn right",
+            "move closer to the vase",
+            "move closer to the apple"
+        ],
+        "22": [
+            "Turn left",
+            "move closer to the vase",
+            "move closer to the plate"
+        ],
+        "23": [
+            "Approach bottle",
+            "Approach cup"
+        ],
+        "24": [
+            "Approach spoon",
+            "Approach the cup"
+        ],
+        "25": [
+            "Approach vase",
+            "Approach microwave"
+        ],
+        "26": [
+            "Approach the vase",
+            "microwave"
+        ],
+        "27": [
+            "Approach the glass",
+            "Approach the microwave"
+        ],
+        "28": [
+            "Keep clear of the vase",
+            "Keep clear of the apple"
+        ],
+        "29": [
+            "Keep clear of jar",
+            "and the apple"
+        ],
+        "30": [
+            "Avoid apple",
+            "Avoid microwave"
+        ],
+        "31": [
+            "Avoid the orange",
+            "Avoid the microwave"
+        ],
+        "32": [
+            "Move up",
+            "avoid the orange",
+            "avoid the microwave"
+        ],
+        "33": [
+            "Move up",
+            "Avoid pineapple",
+            "Microwave"
+        ],
+        "34": [
+            "Avoid can",
+            "Avoid apple",
+            "Avoid plate"
+        ],
+        "35": [
+            "Avoid the can",
+            "Avoid the apple",
+            "Avoid the plate"
+        ],
+        "36": [
+            "Go up",
+            "avoid the vase",
+            "avoid the glass"
+        ],
+        "37": [
+            "Approach bottle",
+            "avoid microwave"
+        ],
+        "38": [
+            "Approach the bottle",
+            "avoid the microwave"
+        ],
+        "39": [
+            "Approach the bottle",
+            "avoid the microwave",
+            "avoid the cup"
+        ],
+        "40": [
+            "Go to the apple",
+            "Go to the bowl"
+        ],
+        "41": [
+            "Go to the pear",
+            "Go to the bowl"
+        ],
+        "42": [
+            "Go near the orange",
+            "bowl",
+            "avoid the bottle",
+            "microwave"
+        ],
+        "43": [
+            "Go near the book",
+            "Go near the bowl",
+            "Avoid the bottle",
+            "Avoid the microwave"
+        ],
+        "44": [
+            "Move up",
+            "Move closer to the vase",
+            "Move closer to the glass"
+        ],
+        "45": [
+            "Move up",
+            "Move closer to the bottle",
+            "Move closer to the glass"
+        ],
+        "46": [
+            "Move back",
+            "Move closer to the vase",
+            "Move closer to the microwave"
+        ],
+        "47": [
+            "Move back",
+            "Move closer to the cup",
+            "Move closer to the microwave"
+        ],
+        "48": [
+            "Get away from microwave",
+            "bowl"
+        ],
+        "49": [
+            "Get away from the microwave",
+            "Get away from the bowl"
+        ],
+        "50": [
+            "Go close to bottle",
+            "Go close to pear"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+,predicted,truth
+34,['z-cartesian decrease'],['cake distance increase']
+44,['z-cartesian decrease'],['laptop distance increase']
+48,['z-cartesian increase'],['cake distance increase']
+49,"['bottle distance decrease', 'cup distance increase']","['bottle distance increase', 'cup distance decrease']"
+55,['z-cartesian decrease'],['pineapple distance increase']
+64,['z-cartesian increase'],['cake distance decrease']
+66,['z-cartesian increase'],['cake distance increase']
+86,"['cup distance decrease', 'cup distance increase']","['cup distance decrease', 'laptop distance increase']"

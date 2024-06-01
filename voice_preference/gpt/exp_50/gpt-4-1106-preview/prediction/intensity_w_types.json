@@ -1,0 +1,734 @@
+{
+    "intensity_w_types": {
+        "1": [
+            [
+                "move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "2": [
+            [
+                "Move near the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "3": [
+            [
+                "move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "further away from the bowl",
+                "HIGH",
+                "DISTANCE"
+            ],
+            [
+                "further away from the bottle",
+                "HIGH",
+                "DISTANCE"
+            ]
+        ],
+        "4": [
+            [
+                "stay closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "stay closer to the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move up a little bit",
+                "LOW",
+                "DISTANCE"
+            ]
+        ],
+        "5": [
+            [
+                "Get close to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Get close to the notebook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "6": [
+            [
+                "Get close to the orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Get close to the notebook",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "7": [
+            [
+                "Get away from bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "8": [
+            [
+                "Get near to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Get near to the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "9": [
+            [
+                "Turn right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "10": [
+            [
+                "Move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move nearer to the peach",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Monitor",
+                "NEUTRAL",
+                "SPEED"
+            ]
+        ],
+        "11": [
+            [
+                "Move left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move nearer to the peach",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move nearer to the monitor",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "12": [
+            [
+                "Stay away from bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay away from box",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay away from fridge",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "13": [
+            [
+                "Stay away from vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay away from banana",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay away from microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "14": [
+            [
+                "Stay close to spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay close to microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay close to cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "15": [
+            [
+                "Stay near to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay near to the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Stay near to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "16": [
+            [
+                "move closer to jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to cake",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "17": [
+            [
+                "move closer to jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "18": [
+            [
+                "move nearer to jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move nearer to the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "19": [
+            [
+                "move away from vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move away from apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "20": [
+            [
+                "move away from the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move away from the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "21": [
+            [
+                "Turn right",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "22": [
+            [
+                "Turn left",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "move closer to the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "23": [
+            [
+                "Approach bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Approach cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "24": [
+            [
+                "Approach spoon",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Approach the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "25": [
+            [
+                "Approach vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Approach microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "26": [
+            [
+                "Approach the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "27": [
+            [
+                "Approach the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Approach the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "28": [
+            [
+                "Keep clear of the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Keep clear of the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "29": [
+            [
+                "Keep clear of jar",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "and the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "30": [
+            [
+                "Avoid apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "31": [
+            [
+                "Avoid the orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "32": [
+            [
+                "Move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "33": [
+            [
+                "Move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid pineapple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Microwave",
+                "NEUTRAL",
+                "SPEED"
+            ]
+        ],
+        "34": [
+            [
+                "Avoid can",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "35": [
+            [
+                "Avoid the can",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid the plate",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "36": [
+            [
+                "Go up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "37": [
+            [
+                "Approach bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "38": [
+            [
+                "Approach the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "39": [
+            [
+                "Approach the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "40": [
+            [
+                "Go to the apple",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Go to the bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "41": [
+            [
+                "Go to the pear",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Go to the bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "42": [
+            [
+                "Go near the orange",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "avoid the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "43": [
+            [
+                "Go near the book",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Go near the bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Avoid the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "44": [
+            [
+                "Move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "45": [
+            [
+                "Move up",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the glass",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "46": [
+            [
+                "Move back",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the vase",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "47": [
+            [
+                "Move back",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the cup",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Move closer to the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "48": [
+            [
+                "Get away from microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "49": [
+            [
+                "Get away from the microwave",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Get away from the bowl",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ],
+        "50": [
+            [
+                "Go close to bottle",
+                "NEUTRAL",
+                "DISTANCE"
+            ],
+            [
+                "Go close to pear",
+                "NEUTRAL",
+                "DISTANCE"
+            ]
+        ]
+    }
+}

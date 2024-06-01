@@ -1,0 +1,81 @@
+######################### PATH MAIN ASYNC ######################### RUN THIS FOR MAIN 
+# PYTHON_SRC: ./extract-human-preferences-using-llm/generic-manipulation/src
+# DATA: ./gpt/data/new_generic.json
+# RESULT: ./gpt/result/
+# VIEW: ../result/gpt-4-1106-preview/prediction/reformatted.json
+######################### MAIN ASYNC 50 NEW TEST #############################
+# PYTHON_SRC: ./extract-human-preferences-using-llm/generic-manipulation/src
+# DATA: ./gpt/data/new_50.json
+# RESULT: ./gpt/exp_50/
+# VIEW: ../exp_50/gpt-4-1106-preview/prediction/reformatted.json
+
+# ######################## EMBEDDINGS PATH 50 NEW TEST ########################
+# OBJ_LIST: ./gpt/exp_50/gpt-4-1106-preview/prediction/obj_list.json # object list
+# SPLITS: ./gpt/exp_50/gpt-4-1106-preview/prediction/split_cmds.json # split commands list
+
+# generic_path: './gpt/data/new_50.json' # test data
+# result_predict_path: './gpt/exp_50/embeddings/ada.json' # result path
+# log_path: './gpt/exp_50/embeddings/logs.log' # log path
+
+# MAPPER_PATH: './gpt/data/mapper.json'
+# STATIC_EMBED_PATH: './gpt/data/static_vdb.json'
+# DYNAMIC_EMBED_PATH: './gpt/data/dynamic_vdb.json'
+######################### MAIN ASYNC TIME TEST #############################
+PYTHON_SRC: ./extract-human-preferences-using-llm/generic-manipulation/src
+DATA: ./gpt/data/new_generic.json
+RESULT: ./gpt/TIME/
+VIEW: ../TIME/gpt-4-1106-preview/prediction/reformatted.json
+
+######################## EMBEDDINGS PATH TIME TEST ########################
+OBJ_LIST: ./gpt/result/gpt-4-1106-preview/prediction/obj_list.json # object list
+SPLITS: ./gpt/result/gpt-4-1106-preview/prediction/split_cmds.json # split commands list
+
+generic_path: './gpt/data/new_generic.json' # test data
+result_predict_path: './gpt/TIME/embeddings/ada.json' # result path
+log_path: './gpt/TIME/embeddings/logs.log' # log path
+
+MAPPER_PATH: './gpt/data/mapper.json'
+STATIC_EMBED_PATH: './gpt/data/static_vdb.json'
+DYNAMIC_EMBED_PATH: './gpt/data/dynamic_vdb.json'
+
+######################## EMBEDDINGS PATH ########################
+# OBJ_LIST: ./gpt/result/gpt-4-1106-preview/prediction/obj_list.json # object list
+# SPLITS: ./gpt/result/gpt-4-1106-preview/prediction/split_cmds.json # split commands list
+
+# generic_path: './gpt/data/generic.json' # test data
+# # result_predict_path: './gpt/result/embeddings/ada.json' # result path
+# # log_path: './gpt/result/embeddings/logs.log' # log path
+# result_predict_path: './gpt/result/embeddings/V3Large.json' # result path
+# log_path: './gpt/result/embeddings/logs_V3Large.log' # log path
+
+# MAPPER_PATH: './gpt/data/mapper.json'
+# STATIC_EMBED_PATH: './gpt/data/static_vdb.json'
+# DYNAMIC_EMBED_PATH: './gpt/data/dynamic_vdb.json'
+##################################################################
+##################################################################
+
+######################### Voice Recorder #########################
+# format: !!python/name:pyaudio.paInt16 ''
+# channels: 1
+# rate: 44100
+# chunk: 1024
+# wave_output_filename: "./audio_files/output.wav"
+
+##################################################################
+VISUALISATION:  
+  RESULT: ../result/TEST-2/gpt-4/result.json
+
+# MODELS # 
+MODELS:
+  CHAT:
+    GPT3: gpt-3.5-turbo
+    GPT4: gpt-4
+  MAIN: gpt-4-1106-preview
+  EMBED: text-embedding-ada-002
+
+# MODEL CONFIGS #
+PARAMS:
+  MAX_TOKENS: 1024
+  TEMPERATURE: 0
+
+  

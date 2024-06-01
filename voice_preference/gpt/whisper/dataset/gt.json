@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "transcription_gt": "Get close to bottle but keep slightly right",
+    "objects_gt": ["bottle"],
+    "split_commands_gt": ["Get close to bottle", "keep slightly right"],
+    "classification_gt": ["bottle distance decrease", "X-cartesian increase"],
+    "intensity_list_gt": [
+      ["Get close to bottle", "NEUTRAL", "DISTANCE"],
+      ["keep slightly right", "LOW", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 2,
+    "transcription_gt": "Move a bit closer to bowl but stay away from bottle",
+    "objects_gt": ["bowl", "bottle"],
+    "split_commands_gt": ["Move a bit closer to bowl", "stay away from bottle"],
+    "classification_gt": ["bowl distance decrease", "bottle distance increase"],
+    "intensity_list_gt": [
+      ["Move a bit closer to bowl", "LOW", "DISTANCE"],
+      ["stay away from bottle", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 3,
+    "transcription_gt": "Stay close to mug and stay low",
+    "objects_gt": ["mug"],
+    "split_commands_gt": ["Stay close to mug", "stay low"],
+    "classification_gt": ["mug distance decrease", "Z-cartesian decrease"],
+    "intensity_list_gt": [
+      ["Stay close to mug", "NEUTRAL", "DISTANCE"],
+      ["stay low", "LOW", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 4,
+    "transcription_gt": "Avoid the banana, keep right",
+    "objects_gt": ["banana"],
+    "split_commands_gt": ["Avoid the banana", "keep right"],
+    "classification_gt": ["banana distance increase", "X-cartesian increase"],
+    "intensity_list_gt": [
+      ["Avoid the banana", "NEUTRAL", "DISTANCE"],
+      ["keep right", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 5,
+    "transcription_gt": "Move close to the flower and move slower when close to vase",
+    "objects_gt": ["flower", "vase"],
+    "split_commands_gt": [
+      "Move close to the flower",
+      "move slower when close to vase"
+    ],
+    "classification_gt": [
+      "flower distance decrease",
+      "vase distance decrease, speed decrease"
+    ],
+    "intensity_list_gt": [
+      ["Move close to the flower", "NEUTRAL", "DISTANCE"],
+      ["move slower when close to vase", "LOW", "SPEED"]
+    ]
+  },
+  {
+    "id": 6,
+    "transcription_gt": "Go closer to bottle and mug",
+    "objects_gt": ["bottle", "mug"],
+    "split_commands_gt": ["Go closer to bottle", "Go closer to mug"],
+    "classification_gt": ["bottle distance decrease", "mug distance decrease"],
+    "intensity_list_gt": [
+      ["Go closer to bottle", "NEUTRAL", "DISTANCE"],
+      ["Go closer to mug", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 7,
+    "transcription_gt": "Move front but keep a distance to the scissors",
+    "objects_gt": ["scissors"],
+    "split_commands_gt": ["Move front", "keep a distance to the scissors"],
+    "classification_gt": ["Y-cartesian increase", "scissors distance increase"],
+    "intensity_list_gt": [
+      ["Move front", "NEUTRAL", "DISTANCE"],
+      ["keep a distance to the scissors", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 8,
+    "transcription_gt": "Move fast when closer to the vase",
+    "objects_gt": ["vase"],
+    "split_commands_gt": ["Move fast when closer to the vase"],
+    "classification_gt": ["speed increase, vase distance decrease"],
+    "intensity_list_gt": [
+      ["Move fast when closer to the vase", "NEUTRAL", "SPEED"]
+    ]
+  },
+  {
+    "id": 9,
+    "transcription_gt": "Get extremely close to the bottle",
+    "objects_gt": ["bottle"],
+    "split_commands_gt": ["get extremely close to the bottle"],
+    "classification_gt": ["bottle distance decrease"],
+    "intensity_list_gt": [
+      ["get extremely close to the bottle", "HIGH", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 10,
+    "transcription_gt": "Move slowly when close to the bottle and stay away from orange and banana",
+    "objects_gt": ["bottle", "orange", "banana"],
+    "split_commands_gt": [
+      "Move slowly when close to the bottle",
+      "stay away from orange",
+      "stay away from banana"
+    ],
+    "classification_gt": [
+      "bottle distance decrease, speed decrease",
+      "orange distance increase",
+      "banana distance increase"
+    ],
+    "intensity_list_gt": [
+      ["Move slowly when close to the bottle", "LOW", "SPEED"],
+      ["stay away from orange", "NEUTRAL", "DISTANCE"],
+      ["stay away from banana", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 11,
+    "transcription_gt": "Get close to bottle but keep slightly right",
+    "objects_gt": ["bottle"],
+    "split_commands_gt": ["Get close to bottle", "keep slightly right"],
+    "classification_gt": ["bottle distance decrease", "X-cartesian increase"],
+    "intensity_list_gt": [
+      ["Get close to bottle", "NEUTRAL", "DISTANCE"],
+      ["keep slightly right", "LOW", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 12,
+    "transcription_gt": "Move a bit closer to bowl but stay away from bottle",
+    "objects_gt": ["bowl", "bottle"],
+    "split_commands_gt": ["Move a bit closer to bowl", "stay away from bottle"],
+    "classification_gt": ["bowl distance decrease", "bottle distance increase"],
+    "intensity_list_gt": [
+      ["Move a bit closer to bowl", "LOW", "DISTANCE"],
+      ["stay away from bottle", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 13,
+    "transcription_gt": "Stay close to mug and stay low",
+    "objects_gt": ["mug"],
+    "split_commands_gt": ["Stay close to mug", "stay low"],
+    "classification_gt": ["mug distance decrease", "Z-cartesian decrease"],
+    "intensity_list_gt": [
+      ["Stay close to mug", "NEUTRAL", "DISTANCE"],
+      ["stay low", "LOW", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 14,
+    "transcription_gt": "Avoid the banana, keep right",
+    "objects_gt": ["banana"],
+    "split_commands_gt": ["Avoid the banana", "keep right"],
+    "classification_gt": ["banana distance increase", "X-cartesian increase"],
+    "intensity_list_gt": [
+      ["Avoid the banana", "NEUTRAL", "DISTANCE"],
+      ["keep right", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 15,
+    "transcription_gt": "Move close to the flower and move slower when close to vase",
+    "objects_gt": ["flower", "vase"],
+    "split_commands_gt": [
+      "Move close to the flower",
+      "move slower when close to vase"
+    ],
+    "classification_gt": [
+      "flower distance decrease",
+      "vase distance decrease, speed decrease"
+    ],
+    "intensity_list_gt": [
+      ["Move close to the flower", "NEUTRAL", "DISTANCE"],
+      ["move slower when close to vase", "LOW", "SPEED"]
+    ]
+  },
+  {
+    "id": 16,
+    "transcription_gt": "Go closer to bottle and mug",
+    "objects_gt": ["bottle", "mug"],
+    "split_commands_gt": ["Go closer to bottle", "Go closer to mug"],
+    "classification_gt": ["mug distance decrease", "mug distance decrease"],
+    "intensity_list_gt": [
+      ["Go closer to bottle", "NEUTRAL", "DISTANCE"],
+      ["Go closer to mug", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 17,
+    "transcription_gt": "Move front but keep a distance to the scissors",
+    "objects_gt": ["scissors"],
+    "split_commands_gt": ["Move front", "keep a distance to the scissors"],
+    "classification_gt": ["Y-cartesian increase", "scissors distance increase"],
+    "intensity_list_gt": [
+      ["Move front", "NEUTRAL", "DISTANCE"],
+      ["keep a distance to the scissors", "NEUTRAL", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 18,
+    "transcription_gt": "Move fast when closer to the vase",
+    "objects_gt": ["vase"],
+    "split_commands_gt": ["Move fast when closer to the vase"],
+    "classification_gt": ["speed increase, vase distance decrease"],
+    "intensity_list_gt": [
+      ["Move fast when closer to the vase", "NEUTRAL", "SPEED"]
+    ]
+  },
+  {
+    "id": 19,
+    "transcription_gt": "Get extremely close to the bottle",
+    "objects_gt": ["bottle"],
+    "split_commands_gt": ["get extremely close to the bottle"],
+    "classification_gt": ["bottle distance decrease"],
+    "intensity_list_gt": [
+      ["get extremely close to the bottle", "HIGH", "DISTANCE"]
+    ]
+  },
+  {
+    "id": 20,
+    "transcription_gt": "Move slowly when close to the bottle and stay away from orange and banana",
+    "objects_gt": ["bottle", "orange", "banana"],
+    "split_commands_gt": [
+      "Move slowly when close to the bottle",
+      "stay away from orange",
+      "stay away from banana"
+    ],
+    "classification_gt": [
+      "bottle distance decrease, speed decrease",
+      "orange distance increase",
+      "banana distance increase"
+    ],
+    "intensity_list_gt": [
+      ["Move slowly when close to the bottle", "LOW", "SPEED"],
+      ["stay away from orange", "NEUTRAL", "DISTANCE"],
+      ["stay away from banana", "NEUTRAL", "DISTANCE"]
+    ]
+  }
+]

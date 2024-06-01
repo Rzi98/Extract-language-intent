@@ -1,0 +1,60 @@
+{
+    "0": {
+      "text": "stay closer to the Egyptian cat",
+      "obj_names": [
+        "acoustic guitar",
+        "RV",
+        "trolley",
+        "minibus",
+        "Egyptian cat",
+        "European fire salamander"
+      ],
+      "change_type": "dist",    
+      "locality_factor": 0.6624113313262489,
+      "token_text": [
+        101,
+        2994,
+        3553,
+        2000,
+        1996,
+        6811,
+        4937,
+        102
+      ],
+      "similarity": [
+        [
+          0.17227767407894135,
+          0.17446866631507874,
+          0.1748104691505432,
+          0.1452394276857376,
+          0.26796862483024597,
+          0.18175172805786133
+        ]
+      ],
+      "gt_target_object": [
+        "Egyptian cat"
+      ],
+      "gt_direction": [
+        "DECREASE"
+      ],
+      "gt_intensity": [
+        "NEUTRAL"
+      ],
+      "gt_cart_axes": [
+        "-"
+      ],
+      "gt_change_type": [
+        "distance"
+      ],
+      "gt_feature": [
+        "Egyptian cat_distance_decrease"
+      ],
+      "gt_dynamic_features": [
+        "Egyptian cat_distance_decrease",
+        "Egyptian cat_distance_increase"
+      ],
+      "gt_split": [
+        "stay closer to the Egyptian cat"
+      ]
+    }
+}

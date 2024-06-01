@@ -1,0 +1,396 @@
+{
+    "split_cmds": {
+        "1": [
+            "Get close to bottle",
+            "turn right",
+            "move closer to apple",
+            "stay away from book"
+        ],
+        "2": [
+            "Approach the vase",
+            "move left",
+            "get nearer to the orange",
+            "stay down"
+        ],
+        "3": [
+            "Reduce the distance to the box",
+            "turn left",
+            "get a bit closer to the banana",
+            "avoid the pen"
+        ],
+        "4": [
+            "Move closer to the cup",
+            "go right",
+            "keep close to the pear",
+            "step back from the notebook"
+        ],
+        "5": [
+            "Stay close to the jar",
+            "move leftward",
+            "decrease the distance to the watermelon",
+            "avoid the magazine"
+        ],
+        "6": [
+            "Get nearer to the bottle",
+            "approach the monitor",
+            "get a little bit lower",
+            "stay down"
+        ],
+        "7": [
+            "Retreat from the table",
+            "move rightwards",
+            "move down",
+            "keep your distance from the textbook"
+        ],
+        "8": [
+            "Get closer to the plate",
+            "go forward",
+            "move closer to the peach",
+            "steer clear of the journal"
+        ],
+        "9": [
+            "Retreat from the glass",
+            "stay left",
+            "increase the distance from the mango",
+            "move a bit further away from the diary"
+        ],
+        "10": [
+            "Keep a greater distance from the bowl",
+            "move right",
+            "move up",
+            "avoid the notebook"
+        ],
+        "11": [
+            "Traverse right",
+            "get closer to the desktop",
+            "stay elevated",
+            "go backwards"
+        ],
+        "12": [
+            "Move nearer to the book",
+            "go rightward",
+            "go down",
+            "stay close to the book"
+        ],
+        "13": [
+            "Get a bit closer to the can",
+            "move leftward",
+            "descend downward",
+            "avoid the magazine"
+        ],
+        "14": [
+            "Stay near the cup",
+            "move rightwards",
+            "move lower",
+            "increase the distance from the notebook"
+        ],
+        "15": [
+            "Get closer to the plate",
+            "approach the laptop",
+            "remain at a lower position",
+            "keep your distance from the journal"
+        ],
+        "16": [
+            "Move away from the glass",
+            "stay left",
+            "go up",
+            "move a bit further away from the diary"
+        ],
+        "17": [
+            "Keep a greater distance from the bowl",
+            "move rightwards",
+            "ascend upwards",
+            "avoid the notebook"
+        ],
+        "18": [
+            "Move nearer to the jar",
+            "go rightward",
+            "stay elevated",
+            "avoid the textbook"
+        ],
+        "19": [
+            "Move closer to the plate",
+            "get close to the desktop",
+            "move lower",
+            "steer clear of the magazine"
+        ],
+        "20": [
+            "Move forward",
+            "move rightwards",
+            "decrease the distance to the notebook",
+            "move a bit further away from the diary"
+        ],
+        "21": [
+            "move more left",
+            "stay closer to the bottle"
+        ],
+        "22": [
+            "stay closer to the laptop",
+            "stay closer to the cup",
+            "move up a little bit"
+        ],
+        "23": [
+            "move down",
+            "closer to the plate",
+            "microwave"
+        ],
+        "24": [
+            "avoid the cake",
+            "avoid the fridge"
+        ],
+        "25": [
+            "move away from bottle",
+            "move away from book",
+            "move closer to cup"
+        ],
+        "26": [
+            "move away from bottle",
+            "move closer to cup"
+        ],
+        "27": [
+            "move closer to egg",
+            "move closer to cake"
+        ],
+        "28": [
+            "move closer to the bottle",
+            "move further from the laptop"
+        ],
+        "29": [
+            "move up"
+        ],
+        "30": [
+            "move right"
+        ],
+        "31": [
+            "keep close to pineapple"
+        ],
+        "32": [
+            "move near the bottle"
+        ],
+        "33": [
+            "move near the pineapple"
+        ],
+        "34": [
+            "move further from the cake"
+        ],
+        "35": [
+            "move closer to the fridge"
+        ],
+        "36": [
+            "keep right",
+            "stay closer to the bottle"
+        ],
+        "37": [
+            "stay closer to the vase",
+            "stay closer to the cup",
+            "move up a little bit"
+        ],
+        "38": [
+            "move lower",
+            "move closer to the banana",
+            "move closer to the apple"
+        ],
+        "39": [
+            "stay extremely far away from the bottle",
+            "stay extremely far away from the cup"
+        ],
+        "40": [
+            "stay away from laptop"
+        ],
+        "41": [
+            "stay further away from the pineapple"
+        ],
+        "42": [
+            "stay closer to spoon"
+        ],
+        "43": [
+            "move upwards"
+        ],
+        "44": [
+            "move further from laptop"
+        ],
+        "45": [
+            "move closer to pineapple"
+        ],
+        "46": [
+            "move nearer to spoon"
+        ],
+        "47": [
+            "move lower"
+        ],
+        "48": [
+            "avoid cake"
+        ],
+        "49": [
+            "move away from bottle",
+            "closer to cup"
+        ],
+        "50": [
+            "move closer to spoon"
+        ],
+        "51": [
+            "move closer to microwave"
+        ],
+        "52": [
+            "retreat from the bottle"
+        ],
+        "53": [
+            "move towards bottle"
+        ],
+        "54": [
+            "move away from laptop"
+        ],
+        "55": [
+            "move away from pineapple"
+        ],
+        "56": [
+            "move towards spoon"
+        ],
+        "57": [
+            "move towards cake"
+        ],
+        "58": [
+            "move towards egg"
+        ],
+        "59": [
+            "go close to cup"
+        ],
+        "60": [
+            "move down"
+        ],
+        "61": [
+            "move to pineapple"
+        ],
+        "62": [
+            "move to pineapple",
+            "move down"
+        ],
+        "63": [
+            "avoid the fridge"
+        ],
+        "64": [
+            "closer to cake"
+        ],
+        "65": [
+            "move closer to bottle"
+        ],
+        "66": [
+            "avoid the cake"
+        ],
+        "67": [
+            "move closer to egg"
+        ],
+        "68": [
+            "move towards the bottle"
+        ],
+        "69": [
+            "move closer to the spoon"
+        ],
+        "70": [
+            "move away from the microwave"
+        ],
+        "71": [
+            "move towards the egg"
+        ],
+        "72": [
+            "left"
+        ],
+        "73": [
+            "up"
+        ],
+        "74": [
+            "move to the cake"
+        ],
+        "75": [
+            "avoid the egg"
+        ],
+        "76": [
+            "move closer to the cup"
+        ],
+        "77": [
+            "move closer to the pineapple"
+        ],
+        "78": [
+            "move closer to the egg"
+        ],
+        "79": [
+            "move higher"
+        ],
+        "80": [
+            "move closer to the bottle"
+        ],
+        "81": [
+            "move away from the pineapple"
+        ],
+        "82": [
+            "move away from the cake"
+        ],
+        "83": [
+            "closer to the bottle",
+            "further from the laptop"
+        ],
+        "84": [
+            "keep close to the table",
+            "stay clear from cup"
+        ],
+        "85": [
+            "closer to the cake"
+        ],
+        "86": [
+            "move away from the laptop",
+            "move closer to the cup"
+        ],
+        "87": [
+            "move to the right"
+        ],
+        "88": [
+            "move towards the spoon"
+        ],
+        "89": [
+            "Get closer to the can"
+        ],
+        "90": [
+            "Traverse right"
+        ],
+        "91": [
+            "Move forward",
+            "move right"
+        ],
+        "92": [
+            "Move backward",
+            "move up"
+        ],
+        "93": [
+            "Approach the cup",
+            "avoid the scissors",
+            "keep left"
+        ],
+        "94": [
+            "Go close to the banana",
+            "keep a distance from apple"
+        ],
+        "95": [
+            "Move towards the cup",
+            "keep left"
+        ],
+        "96": [
+            "Move a little bit forward"
+        ],
+        "97": [
+            "Stay nearer to cup",
+            "keep a distance from the scissors"
+        ],
+        "98": [
+            "Stay far from the book",
+            "keep right",
+            "moving forward"
+        ],
+        "99": [
+            "Move towards the book",
+            "keep back from the banana"
+        ],
+        "100": [
+            "Take a step forward"
+        ]
+    }
+}

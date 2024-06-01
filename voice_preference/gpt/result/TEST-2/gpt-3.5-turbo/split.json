@@ -1,0 +1,190 @@
+{
+    "split": {
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {},
+        "6": {},
+        "7": {},
+        "8": {},
+        "9": {},
+        "10": {},
+        "11": {},
+        "12": {},
+        "13": {
+            "predicted": [
+                "get a bit closer to the can",
+                "move leftward",
+                "descend downward",
+                "and avoid the magazine"
+            ],
+            "truth": [
+                "get a bit closer to can",
+                "move leftward",
+                "descend downward",
+                "avoid the magazine"
+            ]
+        },
+        "14": {},
+        "15": {},
+        "16": {},
+        "17": {},
+        "18": {},
+        "19": {},
+        "20": {},
+        "21": {},
+        "22": {},
+        "23": {},
+        "24": {},
+        "25": {},
+        "26": {},
+        "27": {
+            "predicted": [
+                "move closer to the egg",
+                "move closer to the cake"
+            ],
+            "truth": [
+                "move closer to egg",
+                "move closer to cake"
+            ]
+        },
+        "28": {},
+        "29": {},
+        "30": {},
+        "31": {},
+        "32": {},
+        "33": {},
+        "34": {},
+        "35": {},
+        "36": {},
+        "37": {},
+        "38": {},
+        "39": {},
+        "40": {},
+        "41": {},
+        "42": {},
+        "43": {},
+        "44": {},
+        "45": {},
+        "46": {},
+        "47": {},
+        "48": {
+            "predicted": [
+                "avoiding cake is a good idea"
+            ],
+            "truth": [
+                "avoid cake"
+            ]
+        },
+        "49": {
+            "predicted": [
+                "move away from bottle",
+                "then move closer to cup"
+            ],
+            "truth": [
+                "move away from bottle",
+                "move closer to cup"
+            ]
+        },
+        "50": {},
+        "51": {
+            "predicted": [
+                "move closer to the microwave"
+            ],
+            "truth": [
+                "move closer to microwave"
+            ]
+        },
+        "52": {},
+        "53": {},
+        "54": {},
+        "55": {},
+        "56": {},
+        "57": {},
+        "58": {},
+        "59": {
+            "predicted": [
+                "go close to the cup"
+            ],
+            "truth": [
+                "go close to cup"
+            ]
+        },
+        "60": {},
+        "61": {},
+        "62": {},
+        "63": {
+            "predicted": [
+                "avoiding the fridge is a good idea"
+            ],
+            "truth": [
+                "avoid the fridge"
+            ]
+        },
+        "64": {},
+        "65": {},
+        "66": {},
+        "67": {},
+        "68": {},
+        "69": {},
+        "70": {},
+        "71": {},
+        "72": {},
+        "73": {},
+        "74": {},
+        "75": {
+            "predicted": [
+                "avoiding the egg is important"
+            ],
+            "truth": [
+                "avoid the egg"
+            ]
+        },
+        "76": {},
+        "77": {},
+        "78": {},
+        "79": {},
+        "80": {},
+        "81": {},
+        "82": {},
+        "83": {},
+        "84": {},
+        "85": {},
+        "86": {},
+        "87": {},
+        "88": {},
+        "89": {},
+        "90": {},
+        "91": {},
+        "92": {},
+        "93": {},
+        "94": {
+            "predicted": [
+                "go close to the banana",
+                "but keep a distance from the apple"
+            ],
+            "truth": [
+                "go close to the banana",
+                "keep a distance from apple"
+            ]
+        },
+        "95": {},
+        "96": {},
+        "97": {},
+        "98": {
+            "predicted": [
+                "stay far from the book",
+                "keep right",
+                "move forward"
+            ],
+            "truth": [
+                "stay far from the book",
+                "keep right",
+                "moving forward"
+            ]
+        },
+        "99": {},
+        "100": {}
+    }
+}

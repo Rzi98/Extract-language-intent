@@ -1,0 +1,12 @@
+,predicted,truth
+13,"['get a bit closer to the can', 'move leftward', 'descend downward', 'and avoid the magazine']","['get a bit closer to can', 'move leftward', 'descend downward', 'avoid the magazine']"
+27,"['move closer to the egg', 'move closer to the cake']","['move closer to egg', 'move closer to cake']"
+44,['move further away from the laptop'],['move further from laptop']
+48,['avoiding cake is a good idea'],['avoid cake']
+49,"['move away from bottle', 'then move closer to cup']","['move away from bottle', 'move closer to cup']"
+51,['move closer to the microwave'],['move closer to microwave']
+59,['go close to the cup'],['go close to cup']
+63,['avoiding the fridge can be a good idea to prevent unnecessary snacking. it can help in maintaining a healthy diet and avoiding overeating'],['avoid the fridge']
+75,['avoiding the egg is important'],['avoid the egg']
+94,"['go close to the banana', 'but keep a distance from the apple']","['go close to the banana', 'keep a distance from apple']"
+98,"['stay far from the book', 'keep right', 'move forward']","['stay far from the book', 'keep right', 'moving forward']"

@@ -1,0 +1,608 @@
+{
+    "classification_w_scores": {
+        "1": [
+            [
+                "Z-cartesian increase",
+                0.9
+            ],
+            [
+                "plate distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "2": [
+            [
+                "cup distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "3": [
+            [
+                "Z-cartesian increase",
+                0.95
+            ],
+            [
+                "bowl distance increase",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ]
+        ],
+        "4": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "apple distance decrease",
+                0.9
+            ],
+            [
+                "Z-cartesian increase",
+                0.9
+            ]
+        ],
+        "5": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "notebook distance decrease",
+                0.95
+            ]
+        ],
+        "6": [
+            [
+                "orange distance decrease",
+                1.0
+            ],
+            [
+                "notebook distance decrease",
+                1.0
+            ]
+        ],
+        "7": [
+            [
+                "bottle distance increase",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.5
+            ]
+        ],
+        "8": [
+            [
+                "cup distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance decrease",
+                1.0
+            ]
+        ],
+        "9": [
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "apple distance decrease",
+                0.95
+            ]
+        ],
+        "10": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "peach distance decrease",
+                1.0
+            ],
+            [
+                "monitor distance increase",
+                0.5
+            ]
+        ],
+        "11": [
+            [
+                "X-cartesian decrease",
+                0.9
+            ],
+            [
+                "peach distance decrease",
+                0.95
+            ],
+            [
+                "monitor distance decrease",
+                0.95
+            ]
+        ],
+        "12": [
+            [
+                "bottle distance increase",
+                1.0
+            ],
+            [
+                "box distance increase",
+                1.0
+            ],
+            [
+                "fridge distance increase",
+                1.0
+            ]
+        ],
+        "13": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "banana distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "14": [
+            [
+                "spoon distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.9
+            ]
+        ],
+        "15": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "16": [
+            [
+                "jar distance decrease",
+                0.95
+            ],
+            [
+                "cake distance decrease",
+                0.95
+            ]
+        ],
+        "17": [
+            [
+                "jar distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "18": [
+            [
+                "jar distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.9
+            ]
+        ],
+        "19": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "20": [
+            [
+                "vase distance increase",
+                0.95
+            ],
+            [
+                "apple distance increase",
+                0.95
+            ]
+        ],
+        "21": [
+            [
+                "X-cartesian increase",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "apple distance decrease",
+                0.95
+            ]
+        ],
+        "22": [
+            [
+                "X-cartesian decrease",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "plate distance decrease",
+                0.95
+            ]
+        ],
+        "23": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "cup distance decrease",
+                1.0
+            ]
+        ],
+        "24": [
+            [
+                "spoon distance decrease",
+                0.95
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ]
+        ],
+        "25": [
+            [
+                "vase distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance decrease",
+                1.0
+            ]
+        ],
+        "26": [
+            [
+                "vase distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance decrease",
+                0.5
+            ]
+        ],
+        "27": [
+            [
+                "glass distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "28": [
+            [
+                "vase distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "29": [
+            [
+                "jar distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ]
+        ],
+        "30": [
+            [
+                "apple distance increase",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "31": [
+            [
+                "orange distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "32": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "orange distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "33": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "pineapple distance increase",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ]
+        ],
+        "34": [
+            [
+                "can distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ],
+            [
+                "plate distance increase",
+                1.0
+            ]
+        ],
+        "35": [
+            [
+                "can distance increase",
+                1.0
+            ],
+            [
+                "apple distance increase",
+                1.0
+            ],
+            [
+                "plate distance increase",
+                1.0
+            ]
+        ],
+        "36": [
+            [
+                "Z-cartesian increase",
+                0.95
+            ],
+            [
+                "vase distance increase",
+                0.95
+            ],
+            [
+                "glass distance increase",
+                0.95
+            ]
+        ],
+        "37": [
+            [
+                "bottle distance decrease",
+                0.9
+            ],
+            [
+                "microwave distance increase",
+                0.9
+            ]
+        ],
+        "38": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "39": [
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "microwave distance increase",
+                1.0
+            ],
+            [
+                "cup distance increase",
+                1.0
+            ]
+        ],
+        "40": [
+            [
+                "apple distance decrease",
+                1.0
+            ],
+            [
+                "bowl distance decrease",
+                1.0
+            ]
+        ],
+        "41": [
+            [
+                "pear distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ]
+        ],
+        "42": [
+            [
+                "orange distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "43": [
+            [
+                "book distance decrease",
+                0.95
+            ],
+            [
+                "bowl distance decrease",
+                0.95
+            ],
+            [
+                "bottle distance increase",
+                0.95
+            ],
+            [
+                "microwave distance increase",
+                0.95
+            ]
+        ],
+        "44": [
+            [
+                "Z-cartesian increase",
+                0.9
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "glass distance decrease",
+                0.95
+            ]
+        ],
+        "45": [
+            [
+                "Z-cartesian increase",
+                1.0
+            ],
+            [
+                "bottle distance decrease",
+                1.0
+            ],
+            [
+                "glass distance decrease",
+                1.0
+            ]
+        ],
+        "46": [
+            [
+                "Y-cartesian decrease",
+                0.95
+            ],
+            [
+                "vase distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "47": [
+            [
+                "Y-cartesian decrease",
+                0.9
+            ],
+            [
+                "cup distance decrease",
+                0.95
+            ],
+            [
+                "microwave distance decrease",
+                0.95
+            ]
+        ],
+        "48": [
+            [
+                "microwave distance increase",
+                0.9
+            ],
+            [
+                "bowl distance decrease",
+                0.5
+            ]
+        ],
+        "49": [
+            [
+                "microwave distance increase",
+                1.0
+            ],
+            [
+                "bowl distance increase",
+                1.0
+            ]
+        ],
+        "50": [
+            [
+                "bottle distance decrease",
+                0.95
+            ],
+            [
+                "pear distance decrease",
+                0.95
+            ]
+        ]
+    }
+}

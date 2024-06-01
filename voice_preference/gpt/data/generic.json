@@ -1,0 +1,1535 @@
+{
+    "Get close to bottle and turn right then move closer to apple and stay away from book": {
+        "id": 1,
+        "dynamic_features": [
+            "bottle distance increase",
+            "apple distance increase",
+            "book distance increase",
+            "bottle distance decrease",
+            "apple distance decrease",
+            "book distance decrease"
+        ],
+        "split": [
+            "Get close to bottle",
+            "Turn right",
+            "Move closer to apple",
+            "Stay away from book"
+        ],
+        "selected_features": [
+            "bottle distance decrease",
+            "X-cartesian increase",
+            "apple distance decrease",
+            "book distance increase"
+        ]
+    },
+    "Approach the vase and move left then get nearer to the orange and stay down": {
+        "id": 2,
+        "dynamic_features": [
+            "vase distance increase",
+            "orange distance increase",
+            "vase distance decrease",
+            "orange distance decrease"
+        ],
+        "split": [
+            "Approach the vase",
+            "Move left",
+            "Get nearer to the orange",
+            "Stay down"
+        ],
+        "selected_features": [
+            "vase distance decrease",
+            "X-cartesian decrease",
+            "orange distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "Reduce the distance to the box and turn left then get a bit closer to the banana but avoid the pen": {
+        "id": 3,
+        "dynamic_features": [
+            "box distance increase",
+            "banana distance increase",
+            "pen distance increase",
+            "box distance decrease",
+            "banana distance decrease",
+            "pen distance decrease"
+        ],
+        "split": [
+            "Reduce the distance to the box",
+            "Turn left",
+            "Get a bit closer to the banana",
+            "Avoid the pen"
+        ],
+        "selected_features": [
+            "box distance decrease",
+            "X-cartesian decrease",
+            "banana distance decrease",
+            "pen distance increase"
+        ]
+    },
+    "Move closer to the cup and go right then keep close to the pear but step back from the notebook": {
+        "id": 4,
+        "dynamic_features": [
+            "cup distance increase",
+            "pear distance increase",
+            "notebook distance increase",
+            "cup distance decrease",
+            "pear distance decrease",
+            "notebook distance decrease"
+        ],
+        "split": [
+            "Move closer to the cup",
+            "Go right",
+            "Keep close to the pear",
+            "Step back from the notebook"
+        ],
+        "selected_features": [
+            "cup distance decrease",
+            "X-cartesian increase",
+            "pear distance decrease",
+            "notebook distance increase"
+        ]
+    },
+    "Stay close to the jar and move leftward then decrease the distance to the watermelon but avoid the magazine": {
+        "id": 5,
+        "dynamic_features": [
+            "jar distance increase",
+            "watermelon distance increase",
+            "magazine distance increase",
+            "jar distance decrease",
+            "watermelon distance decrease",
+            "magazine distance decrease"
+        ],
+        "split": [
+            "Stay close to the jar",
+            "Move leftward",
+            "Decrease the distance to the watermelon",
+            "Avoid the magazine"
+        ],
+        "selected_features": [
+            "jar distance decrease",
+            "X-cartesian decrease",
+            "watermelon distance decrease",
+            "magazine distance increase"
+        ]
+    },
+    "Get nearer to the bottle and approach the monitor then get a little bit lower and stay down": {
+        "id": 6,
+        "dynamic_features": [
+            "bottle distance increase",
+            "monitor distance increase",
+            "bottle distance decrease",
+            "monitor distance decrease"
+        ],
+        "split": [
+            "Get nearer to the bottle",
+            "Approach the monitor",
+            "Get a little bit lower",
+            "Stay down"
+        ],
+        "selected_features": [
+            "bottle distance decrease",
+            "monitor distance decrease",
+            "Z-cartesian decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "Retreat from the table and move rightwards then move down and keep your distance from the textbook": {
+        "id": 7,
+        "dynamic_features": [
+            "table distance increase",
+            "textbook distance increase",
+            "table distance decrease",
+            "textbook distance decrease"
+        ],
+        "split": [
+            "Retreat from the table",
+            "Move rightwards",
+            "Move down",
+            "Keep your distance from the textbook"
+        ],
+        "selected_features": [
+            "table distance increase",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "textbook distance increase"
+        ]
+    },
+    "Get closer to the plate and go forward then move closer to the peach but steer clear of the journal": {
+        "id": 8,
+        "dynamic_features": [
+            "plate distance increase",
+            "peach distance increase",
+            "journal distance increase",
+            "plate distance decrease",
+            "peach distance decrease",
+            "journal distance decrease"
+        ],
+        "split": [
+            "Get closer to the plate",
+            "Go forward",
+            "Move closer to the peach",
+            "Steer clear of the journal"
+        ],
+        "selected_features": [
+            "plate distance decrease",
+            "Y-cartesian increase",
+            "peach distance decrease",
+            "journal distance increase"
+        ]
+    },
+    "Retreat from the glass and stay left then increase the distance from the mango and move a bit further away from the diary": {
+        "id": 9,
+        "dynamic_features": [
+            "glass distance increase",
+            "mango distance increase",
+            "diary distance increase",
+            "glass distance decrease",
+            "mango distance decrease",
+            "diary distance decrease"
+        ],
+        "split": [
+            "Retreat from the glass",
+            "Stay left",
+            "Increase the distance from the mango",
+            "Move a bit further away from the diary"
+        ],
+        "selected_features": [
+            "glass distance increase",
+            "X-cartesian decrease",
+            "mango distance increase",
+            "diary distance increase"
+        ]
+    },
+    "Keep a greater distance from the bowl and move right then move up and avoid the notebook": {
+        "id": 10,
+        "dynamic_features": [
+            "bowl distance increase",
+            "notebook distance increase",
+            "bowl distance decrease",
+            "notebook distance decrease"
+        ],
+        "split": [
+            "Keep a greater distance from the bowl",
+            "Move right",
+            "Move up",
+            "Avoid the notebook"
+        ],
+        "selected_features": [
+            "bowl distance increase",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "notebook distance increase"
+        ]
+    },
+    "Traverse right and get closer to the desktop then stay elevated and go backwards": {
+        "id": 11,
+        "dynamic_features": [
+            "desktop distance increase",
+            "desktop distance decrease"
+        ],
+        "split": [
+            "Traverse right",
+            "Get closer to the desktop",
+            "Stay elevated",
+            "Go backwards"
+        ],
+        "selected_features": [
+            "X-cartesian increase",
+            "desktop distance decrease",
+            "Z-cartesian increase",
+            "Y-cartesian decrease"
+        ]
+    },
+    "Move nearer to the book and go rightward then go down and stay close to the book": {
+        "id": 12,
+        "dynamic_features": [
+            "book distance increase",
+            "book distance decrease"
+        ],
+        "split": [
+            "Move nearer to the book",
+            "Go rightward",
+            "Go down",
+            "Stay close to the book"
+        ],
+        "selected_features": [
+            "book distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "book distance decrease"
+        ]
+    },
+    "Get a bit closer to the can and move leftward then descend downward and avoid the magazine": {
+        "id": 13,
+        "dynamic_features": [
+            "can distance increase",
+            "magazine distance increase",
+            "can distance decrease",
+            "magazine distance decrease"
+        ],
+        "split": [
+            "Get a bit closer to can",
+            "Move leftward",
+            "Descend downward",
+            "Avoid the magazine"
+        ],
+        "selected_features": [
+            "can distance decrease",
+            "X-cartesian decrease",
+            "Z-cartesian decrease",
+            "magazine distance increase"
+        ]
+    },
+    "Stay near the cup and move rightwards then move lower and increase the distance from the notebook": {
+        "id": 14,
+        "dynamic_features": [
+            "cup distance increase",
+            "notebook distance increase",
+            "cup distance decrease",
+            "notebook distance decrease"
+        ],
+        "split": [
+            "Stay near the cup",
+            "Move rightwards",
+            "Move lower",
+            "Increase the distance from the notebook"
+        ],
+        "selected_features": [
+            "cup distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian decrease",
+            "notebook distance increase"
+        ]
+    },
+    "Get closer to the plate and approach the laptop then remain at a lower position and keep your distance from the journal": {
+        "id": 15,
+        "dynamic_features": [
+            "plate distance increase",
+            "laptop distance increase",
+            "journal distance increase",
+            "plate distance decrease",
+            "laptop distance decrease",
+            "journal distance decrease"
+        ],
+        "split": [
+            "Get closer to the plate",
+            "Approach the laptop",
+            "Remain at a lower position",
+            "Keep your distance from the journal"
+        ],
+        "selected_features": [
+            "plate distance decrease",
+            "laptop distance decrease",
+            "Z-cartesian decrease",
+            "journal distance increase"
+        ]
+    },
+    "Move away from the glass and stay left then go up and move a bit further away from the diary": {
+        "id": 16,
+        "dynamic_features": [
+            "glass distance increase",
+            "diary distance increase",
+            "glass distance decrease",
+            "diary distance decrease"
+        ],
+        "split": [
+            "Move away from the glass",
+            "Stay left",
+            "Go up",
+            "Move a bit further away from the diary"
+        ],
+        "selected_features": [
+            "glass distance increase",
+            "X-cartesian decrease",
+            "Z-cartesian increase",
+            "diary distance increase"
+        ]
+    },
+    "Keep a greater distance from the bowl and move rightwards then ascend upwards and avoid the notebook": {
+        "id": 17,
+        "dynamic_features": [
+            "bowl distance increase",
+            "notebook distance increase",
+            "bowl distance decrease",
+            "notebook distance decrease"
+        ],
+        "split": [
+            "Keep a greater distance from the bowl",
+            "Move rightwards",
+            "Ascend upwards",
+            "Avoid the notebook"
+        ],
+        "selected_features": [
+            "bowl distance increase",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "notebook distance increase"
+        ]
+    },
+    "Move nearer to the jar and go rightward then stay elevated and avoid the textbook": {
+        "id": 18,
+        "dynamic_features": [
+            "jar distance increase",
+            "textbook distance increase",
+            "jar distance decrease",
+            "textbook distance decrease"
+        ],
+        "split": [
+            "Move nearer to the jar",
+            "Go rightward",
+            "Stay elevated",
+            "Avoid the textbook"
+        ],
+        "selected_features": [
+            "jar distance decrease",
+            "X-cartesian increase",
+            "Z-cartesian increase",
+            "textbook distance increase"
+        ]
+    },
+    "Move closer to the plate and get close to the desktop then move lower and steer clear of the magazine": {
+        "id": 19,
+        "dynamic_features": [
+            "plate distance increase",
+            "desktop distance increase",
+            "magazine distance increase",
+            "plate distance decrease",
+            "desktop distance decrease",
+            "magazine distance decrease"
+        ],
+        "split": [
+            "Move closer to the plate",
+            "Get close to the desktop",
+            "Move lower",
+            "Steer clear of the magazine"
+        ],
+        "selected_features": [
+            "plate distance decrease",
+            "desktop distance decrease",
+            "Z-cartesian decrease",
+            "magazine distance increase"
+        ]
+    },
+    "Move forward and move rightwards then decrease the distance to the notebook and move a bit further away from the diary": {
+        "id": 20,
+        "dynamic_features": [
+            "notebook distance increase",
+            "diary distance increase",
+            "notebook distance decrease",
+            "diary distance decrease"
+        ],
+        "split": [
+            "Move forward",
+            "Move rightwards",
+            "Decrease the distance to the notebook",
+            "Move a bit further away from the diary"
+        ],
+        "selected_features": [
+            "Y-cartesian increase",
+            "X-cartesian increase",
+            "notebook distance decrease",
+            "diary distance increase"
+        ]
+    },
+    "move more left and stay closer to the bottle": {
+        "id": 21,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "Move more left",
+            "Stay closer to the bottle"
+        ],
+        "selected_features": [
+            "X-cartesian decrease",
+            "bottle distance decrease"
+        ]
+    },
+    "stay closer to the laptop and cup, move up a little bit": {
+        "id": 22,
+        "dynamic_features": [
+            "laptop distance increase",
+            "cup distance increase",
+            "laptop distance decrease",
+            "cup distance decrease"
+        ],
+        "split": [
+            "Stay closer to the laptop",
+            "Stay closer to the cup",
+            "Move up a little bit"
+        ],
+        "selected_features": [
+            "laptop distance decrease",
+            "cup distance decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "move down and closer to the plate and microwave": {
+        "id": 23,
+        "dynamic_features": [
+            "plate distance increase",
+            "plate distance decrease",
+            "microwave distance increase",
+            "microwave distance decrease"
+        ],
+        "split": [
+            "move down",
+            "move closer to the plate",
+            "move closer to the microwave"
+        ],
+        "selected_features": [
+            "Z-cartesian decrease",
+            "Plate distance decrease",
+            "Microwave distance decrease"
+        ]
+    },
+    "avoid the cake and the fridge": {
+        "id": 24,
+        "dynamic_features": [
+            "cake distance increase",
+            "fridge distance increase",
+            "cake distance decrease",
+            "fridge distance decrease"
+        ],
+        "split": [
+            "Avoid the cake",
+            "Avoid the fridge"
+        ],
+        "selected_features": [
+            "cake distance increase",
+            "fridge distance increase"
+        ]
+    },
+    "move away from bottle and book then move closer to cup": {
+        "id": 25,
+        "dynamic_features": [
+            "bottle distance increase",
+            "book distance increase",
+            "cup distance increase",
+            "bottle distance decrease",
+            "book distance decrease",
+            "cup distance decrease"
+        ],
+        "split": [
+            "Move away from bottle",
+            "Move away from book",
+            "Move closer to cup"
+        ],
+        "selected_features": [
+            "bottle distance increase",
+            "book distance increase",
+            "cup distance decrease"
+        ]
+    },
+    "move away from bottle and then move closer to cup": {
+        "id": 26,
+        "dynamic_features": [
+            "bottle distance increase",
+            "cup distance increase",
+            "bottle distance decrease",
+            "cup distance decrease"
+        ],
+        "split": [
+            "Move away from bottle",
+            "Move closer to cup"
+        ],
+        "selected_features": [
+            "bottle distance increase",
+            "cup distance decrease"
+        ]
+    },
+    "move closer to egg and cake": {
+        "id": 27,
+        "dynamic_features": [
+            "egg distance increase",
+            "egg distance decrease",
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "move closer to egg",
+            "move closer to cake"
+        ],
+        "selected_features": [
+            "Egg distance decrease",
+            "Cake distance decrease"
+        ]
+    },
+    "move closer to the bottle and move further from the laptop": {
+        "id": 28,
+        "dynamic_features": [
+            "bottle distance increase",
+            "laptop distance increase",
+            "bottle distance decrease",
+            "laptop distance decrease"
+        ],
+        "split": [
+            "Move closer to the bottle",
+            "Move further from the laptop"
+        ],
+        "selected_features": [
+            "bottle distance decrease",
+            "laptop distance increase"
+        ]
+    },
+    "move up": {
+        "id": 29,
+        "dynamic_features": [],
+        "split": [
+            "move up"
+        ],
+        "selected_features": [
+            "Z-cartesian increase"
+        ]
+    },
+    "move right": {
+        "id": 30,
+        "dynamic_features": [],
+        "split": [
+            "move right"
+        ],
+        "selected_features": [
+            "X-cartesian increase"
+        ]
+    },
+    "keep close to pineapple": {
+        "id": 31,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "Keep close to pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "move near the bottle": {
+        "id": 32,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "move near the bottle"
+        ],
+        "selected_features": [
+            "Bottle distance decrease"
+        ]
+    },
+    "move near the pineapple": {
+        "id": 33,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move near the pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "move further from the cake": {
+        "id": 34,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "move further from the cake"
+        ],
+        "selected_features": [
+            "Cake distance increase"
+        ]
+    },
+    "move closer to the fridge": {
+        "id": 35,
+        "dynamic_features": [
+            "fridge distance increase",
+            "fridge distance decrease"
+        ],
+        "split": [
+            "move closer to the fridge"
+        ],
+        "selected_features": [
+            "Fridge distance decrease"
+        ]
+    },
+    "keep right and stay closer to the bottle": {
+        "id": 36,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "keep right",
+            "stay closer to the bottle"
+        ],
+        "selected_features": [
+            "X-cartesian increase",
+            "Bottle distance decrease"
+        ]
+    },
+    "stay closer to the vase and cup, move up a little bit": {
+        "id": 37,
+        "dynamic_features": [
+            "vase distance increase",
+            "vase distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "Stay closer to the vase",
+            "stay closer to the cup",
+            "move up a little bit"
+        ],
+        "selected_features": [
+            "Vase distance decrease",
+            "Cup distance decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "move lower and closer to the banana and apple": {
+        "id": 38,
+        "dynamic_features": [
+            "banana distance increase",
+            "banana distance decrease",
+            "apple distance increase",
+            "apple distance decrease"
+        ],
+        "split": [
+            "move lower",
+            "move closer to the banana",
+            "move closer to the apple"
+        ],
+        "selected_features": [
+            "Z-cartesian decrease",
+            "Banana distance decrease",
+            "Apple distance decrease"
+        ]
+    },
+    "stay extremely far away from the bottle and cup": {
+        "id": 39,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "stay extremely far away from the bottle",
+            "stay extremely far away from the cup"
+        ],
+        "selected_features": [
+            "Bottle distance increase",
+            "Cup distance increase"
+        ]
+    },
+    "stay away from laptop": {
+        "id": 40,
+        "dynamic_features": [
+            "laptop distance increase",
+            "laptop distance decrease"
+        ],
+        "split": [
+            "Stay away from laptop"
+        ],
+        "selected_features": [
+            "Laptop distance increase"
+        ]
+    },
+    "stay further away from the pineapple": {
+        "id": 41,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "Stay further away from the pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance increase"
+        ]
+    },
+    "stay closer to spoon": {
+        "id": 42,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "Stay closer to spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "move upwards": {
+        "id": 43,
+        "dynamic_features": [],
+        "split": [
+            "move upwards"
+        ],
+        "selected_features": [
+            "Z-cartesian increase"
+        ]
+    },
+    "move further from laptop": {
+        "id": 44,
+        "dynamic_features": [
+            "laptop distance increase",
+            "laptop distance decrease"
+        ],
+        "split": [
+            "Move further from laptop"
+        ],
+        "selected_features": [
+            "Laptop distance increase"
+        ]
+    },
+    "move closer to pineapple": {
+        "id": 45,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move closer to pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "move nearer to spoon": {
+        "id": 46,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "move nearer to spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "move lower": {
+        "id": 47,
+        "dynamic_features": [],
+        "split": [
+            "move lower"
+        ],
+        "selected_features": [
+            "Z-cartesian decrease"
+        ]
+    },
+    "avoid cake": {
+        "id": 48,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "avoid cake"
+        ],
+        "selected_features": [
+            "Cake distance increase"
+        ]
+    },
+    "move away from bottle and then closer to cup": {
+        "id": 49,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "move away from bottle",
+            "move closer to cup"
+        ],
+        "selected_features": [
+            "Bottle distance increase",
+            "Cup distance decrease"
+        ]
+    },
+    "move closer to spoon": {
+        "id": 50,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "move closer to spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "move closer to microwave": {
+        "id": 51,
+        "dynamic_features": [
+            "microwave distance increase",
+            "microwave distance decrease"
+        ],
+        "split": [
+            "move closer to microwave"
+        ],
+        "selected_features": [
+            "Microwave distance decrease"
+        ]
+    },
+    "retreat from the bottle": {
+        "id": 52,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "retreat from the bottle"
+        ],
+        "selected_features": [
+            "Bottle distance increase"
+        ]
+    },
+    "move towards bottle": {
+        "id": 53,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "move towards bottle"
+        ],
+        "selected_features": [
+            "Bottle distance decrease"
+        ]
+    },
+    "move away from laptop": {
+        "id": 54,
+        "dynamic_features": [
+            "laptop distance increase",
+            "laptop distance decrease"
+        ],
+        "split": [
+            "Move away from laptop"
+        ],
+        "selected_features": [
+            "Laptop distance increase"
+        ]
+    },
+    "move away from pineapple": {
+        "id": 55,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move away from pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance increase"
+        ]
+    },
+    "move towards spoon": {
+        "id": 56,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "move towards spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "move towards cake": {
+        "id": 57,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "move towards cake"
+        ],
+        "selected_features": [
+            "Cake distance decrease"
+        ]
+    },
+    "move towards egg": {
+        "id": 58,
+        "dynamic_features": [
+            "egg distance increase",
+            "egg distance decrease"
+        ],
+        "split": [
+            "move towards egg"
+        ],
+        "selected_features": [
+            "Egg distance decrease"
+        ]
+    },
+    "go close to cup": {
+        "id": 59,
+        "dynamic_features": [
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "Go close to cup"
+        ],
+        "selected_features": [
+            "Cup distance decrease"
+        ]
+    },
+    "move down": {
+        "id": 60,
+        "dynamic_features": [],
+        "split": [
+            "move down"
+        ],
+        "selected_features": [
+            "Z-cartesian decrease"
+        ]
+    },
+    "move to pineapple": {
+        "id": 61,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move to pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "move to pineapple, move down": {
+        "id": 62,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move to pineapple",
+            "move down"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease",
+            "Z-cartesian decrease"
+        ]
+    },
+    "avoid the fridge": {
+        "id": 63,
+        "dynamic_features": [
+            "fridge distance increase",
+            "fridge distance decrease"
+        ],
+        "split": [
+            "avoid the fridge"
+        ],
+        "selected_features": [
+            "Fridge distance increase"
+        ]
+    },
+    "closer to cake": {
+        "id": 64,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "closer to cake"
+        ],
+        "selected_features": [
+            "Cake distance decrease"
+        ]
+    },
+    "move closer to bottle": {
+        "id": 65,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "move closer to bottle"
+        ],
+        "selected_features": [
+            "Bottle distance decrease"
+        ]
+    },
+    "avoid the cake": {
+        "id": 66,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "Avoid the cake"
+        ],
+        "selected_features": [
+            "Cake distance increase"
+        ]
+    },
+    "move closer to egg": {
+        "id": 67,
+        "dynamic_features": [
+            "egg distance increase",
+            "egg distance decrease"
+        ],
+        "split": [
+            "move closer to egg"
+        ],
+        "selected_features": [
+            "Egg distance decrease"
+        ]
+    },
+    "move towards the bottle": {
+        "id": 68,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "move towards the bottle"
+        ],
+        "selected_features": [
+            "Bottle distance decrease"
+        ]
+    },
+    "move closer to the spoon": {
+        "id": 69,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "move closer to the spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "move away from the microwave": {
+        "id": 70,
+        "dynamic_features": [
+            "microwave distance increase",
+            "microwave distance decrease"
+        ],
+        "split": [
+            "move away from the microwave"
+        ],
+        "selected_features": [
+            "Microwave distance increase"
+        ]
+    },
+    "move towards the egg": {
+        "id": 71,
+        "dynamic_features": [
+            "egg distance increase",
+            "egg distance decrease"
+        ],
+        "split": [
+            "move towards the egg"
+        ],
+        "selected_features": [
+            "Egg distance decrease"
+        ]
+    },
+    "left": {
+        "id": 72,
+        "dynamic_features": [],
+        "split": [
+            "left"
+        ],
+        "selected_features": [
+            "X-cartesian decrease"
+        ]
+    },
+    "up": {
+        "id": 73,
+        "dynamic_features": [],
+        "split": [
+            "up"
+        ],
+        "selected_features": [
+            "Z-cartesian increase"
+        ]
+    },
+    "move to the cake": {
+        "id": 74,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "move to the cake"
+        ],
+        "selected_features": [
+            "Cake distance decrease"
+        ]
+    },
+    "avoid the egg": {
+        "id": 75,
+        "dynamic_features": [
+            "egg distance decrease",
+            "egg distance increase"
+        ],
+        "split": [
+            "Avoid the egg"
+        ],
+        "selected_features": [
+            "Egg distance increase"
+        ]
+    },
+    "move closer to the cup": {
+        "id": 76,
+        "dynamic_features": [
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "move closer to the cup"
+        ],
+        "selected_features": [
+            "Cup distance decrease"
+        ]
+    },
+    "move closer to the pineapple": {
+        "id": 77,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move closer to the pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance decrease"
+        ]
+    },
+    "move closer to the egg": {
+        "id": 78,
+        "dynamic_features": [
+            "egg distance increase",
+            "egg distance decrease"
+        ],
+        "split": [
+            "move closer to the egg"
+        ],
+        "selected_features": [
+            "Egg distance decrease"
+        ]
+    },
+    "move higher": {
+        "id": 79,
+        "dynamic_features": [],
+        "split": [
+            "Move higher"
+        ],
+        "selected_features": [
+            "Z-cartesian increase"
+        ]
+    },
+    "move closer to the bottle": {
+        "id": 80,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease"
+        ],
+        "split": [
+            "move closer to the bottle"
+        ],
+        "selected_features": [
+            "Bottle distance decrease"
+        ]
+    },
+    "move away from the pineapple": {
+        "id": 81,
+        "dynamic_features": [
+            "pineapple distance increase",
+            "pineapple distance decrease"
+        ],
+        "split": [
+            "move away from the pineapple"
+        ],
+        "selected_features": [
+            "Pineapple distance increase"
+        ]
+    },
+    "move away from the cake": {
+        "id": 82,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "move away from the cake"
+        ],
+        "selected_features": [
+            "Cake distance increase"
+        ]
+    },
+    "closer to the bottle and further from the laptop": {
+        "id": 83,
+        "dynamic_features": [
+            "bottle distance increase",
+            "bottle distance decrease",
+            "laptop distance increase",
+            "laptop distance decrease"
+        ],
+        "split": [
+            "closer to the bottle",
+            "further from the laptop"
+        ],
+        "selected_features": [
+            "Bottle distance decrease",
+            "Laptop distance increase"
+        ]
+    },
+    "keep close to the table but stay clear from cup": {
+        "id": 84,
+        "dynamic_features": [
+            "table distance increase",
+            "table distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "keep close to the table",
+            "stay clear from the cup"
+        ],
+        "selected_features": [
+            "Table distance decrease",
+            "Cup distance increase"
+        ]
+    },
+    "closer to the cake": {
+        "id": 85,
+        "dynamic_features": [
+            "cake distance increase",
+            "cake distance decrease"
+        ],
+        "split": [
+            "closer to the cake"
+        ],
+        "selected_features": [
+            "Cake distance decrease"
+        ]
+    },
+    "move away from the laptop but closer to the cup": {
+        "id": 86,
+        "dynamic_features": [
+            "laptop distance increase",
+            "laptop distance decrease",
+            "cup distance increase",
+            "cup distance decrease"
+        ],
+        "split": [
+            "move away from the laptop",
+            "move closer to the cup"
+        ],
+        "selected_features": [
+            "Laptop distance increase",
+            "Cup distance decrease"
+        ]
+    },
+    "move to the right": {
+        "id": 87,
+        "dynamic_features": [],
+        "split": [
+            "move to the right"
+        ],
+        "selected_features": [
+            "X-cartesian increase"
+        ]
+    },
+    "move towards the spoon": {
+        "id": 88,
+        "dynamic_features": [
+            "spoon distance increase",
+            "spoon distance decrease"
+        ],
+        "split": [
+            "move towards the spoon"
+        ],
+        "selected_features": [
+            "Spoon distance decrease"
+        ]
+    },
+    "Get closer to the can": {
+        "id": 89,
+        "dynamic_features": [
+            "can distance increase",
+            "can distance decrease"
+        ],
+        "split": [
+            "Get closer to the can"
+        ],
+        "selected_features": [
+            "Can distance decrease"
+        ]
+    },
+    "Traverse right": {
+        "id": 90,
+        "dynamic_features": [],
+        "split": [
+            "Traverse right"
+        ],
+        "selected_features": [
+            "X-cartesian increase"
+        ]
+    },
+    " Move forward and then move right": {
+        "id": 91,
+        "dynamic_features": [],
+        "split": [
+            "Move forward",
+            "Move right"
+        ],
+        "selected_features": [
+            "Y-cartesian increase",
+            "X-cartesian increase"
+        ]
+    },
+    "Move backward and then move up": {
+        "id": 92,
+        "dynamic_features": [],
+        "split": [
+            "Move backward",
+            "Move up"
+        ],
+        "selected_features": [
+            "Y-cartesian decrease",
+            "Z-cartesian increase"
+        ]
+    },
+    "Approach the cup but avoid the scissors and keep left": {
+        "id": 93,
+        "dynamic_features": [
+            "cup distance increase",
+            "cup distance decrease",
+            "scissors distance increase",
+            "scissors distance decrease"
+        ],
+        "split": [
+            "Approach the cup",
+            "Avoid the scissors",
+            "Keep left"
+        ],
+        "selected_features": [
+            "Cup distance decrease",
+            "Scissors distance increase",
+            "X-cartesian decrease"
+        ]
+    },
+    "Go close to the banana but keep a distance from apple":
+    {
+        "id": 94,
+        "dynamic_features": [
+            "banana distance increase",
+            "banana distance decrease",
+            "apple distance increase",
+            "apple distance decrease"
+        ],
+        "split": [
+            "Go close to the banana",
+            "Keep a distance from apple"
+        ],
+        "selected_features": [
+            "Banana distance decrease",
+            "Apple distance increase"
+        ]
+    },
+    "Move towards the cup and keep left": {
+        "id": 95,
+        "dynamic_features": [
+            "cup distance decrease", 
+            "cup distance increase"
+        ],
+        "split": [
+            "Move towards the cup",
+            "Keep left"
+        ],
+        "selected_features": [
+            "Cup distance decrease",
+            "X-cartesian decrease"
+        ]
+    },
+    "Move a little bit forward": {
+        "id": 96,
+        "dynamic_features": [],
+        "split": [
+            "Move a little bit forward"
+        ],
+        "selected_features": [
+            "Y-cartesian increase"
+        ]
+    },
+    "Stay nearer to cup but keep a distance from the scissors": {
+        "id": 97,
+        "dynamic_features": [
+            "cup distance increase",
+            "cup distance decrease",
+            "scissors distance increase",
+            "scissors distance decrease"
+        ],
+        "split": [
+            "Stay nearer to cup",
+            "Keep a distance from the scissors"
+        ],
+        "selected_features": [
+            "Cup distance decrease",
+            "Scissors distance increase"
+        ]
+    },
+    "Stay far from the book and keep right while moving forward": {
+        "id": 98,
+        "dynamic_features": [
+            "book distance increase",
+            "book distance decrease"
+        ],
+        "split": [
+            "Stay far from the book",
+            "Keep right",
+            "Moving forward"
+        ],
+        "selected_features": [
+            "Book distance increase",
+            "X-cartesian increase",
+            "Y-cartesian increase"
+        ]
+    },
+    "Move towards the book and keep back from the banana": {
+        "id": 99,
+        "dynamic_features": [
+        "banana distance decrease",
+        "banana distance increase",
+        "book distance decrease",
+        "book distance increase"
+    ],
+        "split": [
+            "Move towards the book",
+            "Keep back from the banana"
+        ],
+        "selected_features": [
+            "book distance decrease",
+            "banana distance increase"
+        ]
+    },
+    "Take a step forward": {
+        "id": 100,
+        "dynamic_features": [],
+        "split": [
+            "Take a step forward"
+        ],
+        "selected_features": [
+            "Y-cartesian increase"
+        ]
+    }
+}

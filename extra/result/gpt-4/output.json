@@ -1,0 +1,443 @@
+{
+    "1": {
+        "corrections": "stay closer to the Egyptian cat",
+        "obj_names": [
+            "acoustic guitar",
+            "RV",
+            "trolley",
+            "minibus",
+            "Egyptian cat",
+            "European fire salamander"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "acoustic guitar": 0.12,
+            "RV": 0.08,
+            "trolley": 0.1,
+            "minibus": 0.09,
+            "Egyptian cat": 0.87,
+            "European fire salamander": 0.15
+        },
+        "target_obj": "Egyptian cat",
+        "direction": "decrease",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "Egyptian cat distance decrease"
+    },
+    "2": {
+        "corrections": "drive a bit closer to the St Bernard",
+        "obj_names": [
+            "sarong",
+            "numbfish",
+            "St Bernard",
+            "ostrich"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "sarong": 0.0,
+            "numbfish": 0.0,
+            "St Bernard": 1.0,
+            "ostrich": 0.0
+        },
+        "target_obj": "St Bernard",
+        "direction": "decrease",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "St Bernard distance decrease"
+    },
+    "3": {
+        "corrections": "stay a little closer to the maillot",
+        "obj_names": [
+            "maillot",
+            "rosehip",
+            "rapeseed"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "maillot": 1.0,
+            "rosehip": 0.0,
+            "rapeseed": 0.0
+        },
+        "target_obj": "maillot",
+        "direction": "decrease",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "maillot distance decrease"
+    },
+    "4": {
+        "corrections": "pass very closer to the terrapin",
+        "obj_names": [
+            "ladybird beetle",
+            "terrapin",
+            "crate",
+            "Ursus Maritimus"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "ladybird beetle": 0.12,
+            "terrapin": 0.89,
+            "crate": 0.15,
+            "Ursus Maritimus": 0.18
+        },
+        "target_obj": "terrapin",
+        "direction": "decrease",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "terrapin distance decrease"
+    },
+    "5": {
+        "corrections": "walk a little further away from the Samoyed",
+        "obj_names": [
+            "Blenheim spaniel",
+            "barbershop",
+            "bison",
+            "Samoyed",
+            "measuring cup",
+            "Cancer magister"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "Blenheim spaniel": 0.12,
+            "barbershop": 0.07,
+            "bison": 0.08,
+            "Samoyed": 0.91,
+            "measuring cup": 0.06,
+            "Cancer magister": 0.05
+        },
+        "target_obj": "Samoyed",
+        "direction": "increase",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "Samoyed distance increase"
+    },
+    "6": {
+        "corrections": "walk much closer to the Rottweiler",
+        "obj_names": [
+            "paperknife",
+            "Italian greyhound",
+            "Rottweiler"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "paperknife": 0.0,
+            "Italian greyhound": 0.0,
+            "Rottweiler": 1.0
+        },
+        "target_obj": "Rottweiler",
+        "direction": "decrease",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "Rottweiler distance decrease"
+    },
+    "7": {
+        "corrections": "stay much closer to the bulbul",
+        "obj_names": [
+            "snail",
+            "husky",
+            "vizsla",
+            "bulbul",
+            "sarong",
+            "Aptenodytes patagonica"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "snail": 0.0,
+            "husky": 0.0,
+            "vizsla": 0.0,
+            "bulbul": 0.5,
+            "sarong": 0.0,
+            "Aptenodytes patagonica": 0.0
+        },
+        "target_obj": "bulbul",
+        "direction": "decrease",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "bulbul distance decrease"
+    },
+    "8": {
+        "corrections": "drive very faster when passing nearby the pickup",
+        "obj_names": [
+            "leopard",
+            "West Highland white terrier",
+            "mitten",
+            "pickup"
+        ],
+        "change_type": "SPEED",
+        "similarity": {
+            "leopard": 0.12,
+            "West Highland white terrier": 0.08,
+            "mitten": 0.07,
+            "pickup": 0.89
+        },
+        "target_obj": "pickup",
+        "direction": "increase",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "speed increase"
+    },
+    "9": {
+        "corrections": "go very faster in the surrounding of the quail",
+        "obj_names": [
+            "racket",
+            "quail",
+            "velocipede"
+        ],
+        "change_type": "SPEED",
+        "similarity": {
+            "racket": 0.12,
+            "quail": 0.78,
+            "velocipede": 0.23
+        },
+        "target_obj": "quail",
+        "direction": "increase",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "speed increase"
+    },
+    "10": {
+        "corrections": "go to the bottom",
+        "obj_names": [
+            "alp",
+            "Crotalus adamanteus",
+            "jeep",
+            "entertainment center",
+            "birdhouse"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "alp": 0.0,
+            "Crotalus adamanteus": 0.0,
+            "jeep": 0.0,
+            "entertainment center": 0.0,
+            "birdhouse": 0.0
+        },
+        "target_obj": "None",
+        "direction": "none",
+        "intensity": "neutral",
+        "cart_axes": [
+            "Z-cartesian increase",
+            "Z-cartesian decrease",
+            "Y-cartesian increase",
+            "Y-cartesian decrease",
+            "X-cartesian increase",
+            "X-cartesian decrease"
+        ],
+        "predicted_feature": "Z-cartesian decrease"
+    },
+    "11": {
+        "corrections": "bottom part",
+        "obj_names": [
+            "trimaran",
+            "megalithic structure",
+            "Panthera tigris"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "trimaran": 0.1,
+            "megalithic structure": 0.1,
+            "Panthera tigris": 0.1
+        },
+        "target_obj": "None",
+        "direction": "none",
+        "intensity": "neutral",
+        "cart_axes": [
+            "Z-cartesian increase",
+            "Z-cartesian decrease",
+            "Y-cartesian increase",
+            "Y-cartesian decrease",
+            "X-cartesian increase",
+            "X-cartesian decrease"
+        ],
+        "predicted_feature": "Z-cartesian decrease"
+    },
+    "12": {
+        "corrections": "go down",
+        "obj_names": [
+            "planetarium",
+            "stopwatch",
+            "amphibious vehicle"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "planetarium": 0.12,
+            "stopwatch": 0.15,
+            "amphibious vehicle": 0.08
+        },
+        "target_obj": "stopwatch",
+        "direction": "decrease",
+        "intensity": "neutral",
+        "cart_axes": null,
+        "predicted_feature": "stopwatch distance decrease"
+    },
+    "13": {
+        "corrections": "left",
+        "obj_names": [
+            "trilobite",
+            "rugby ball",
+            "chickadee",
+            "dough",
+            "jellyfish"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "trilobite": 0.0,
+            "rugby ball": 0.0,
+            "chickadee": 0.0,
+            "dough": 0.0,
+            "jellyfish": 0.0
+        },
+        "target_obj": "None",
+        "direction": "none",
+        "intensity": "neutral",
+        "cart_axes": [
+            "Z-cartesian increase",
+            "Z-cartesian decrease",
+            "Y-cartesian increase",
+            "Y-cartesian decrease",
+            "X-cartesian increase",
+            "X-cartesian decrease"
+        ],
+        "predicted_feature": "X-cartesian decrease"
+    },
+    "14": {
+        "corrections": "stay on the front",
+        "obj_names": [
+            "kelpie",
+            "suspension bridge",
+            "thrasher"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "kelpie": 0.12,
+            "suspension bridge": 0.15,
+            "thrasher": 0.08
+        },
+        "target_obj": "suspension bridge",
+        "direction": "None",
+        "intensity": "neutral",
+        "cart_axes": null,
+        "predicted_feature": "None"
+    },
+    "15": {
+        "corrections": "reduce the speed when passing next to the stethoscope",
+        "obj_names": [
+            "stethoscope",
+            "cannon",
+            "birdhouse"
+        ],
+        "change_type": "SPEED",
+        "similarity": {
+            "stethoscope": 1.0,
+            "cannon": 0.0,
+            "birdhouse": 0.0
+        },
+        "target_obj": "stethoscope",
+        "direction": "decrease",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "speed decrease"
+    },
+    "16": {
+        "corrections": "stay very further away from the Panthera leo",
+        "obj_names": [
+            "Cebus capucinus",
+            "spider web",
+            "Panthera leo",
+            "knot"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "Cebus capucinus": 0.0,
+            "spider web": 0.0,
+            "Panthera leo": 0.5,
+            "knot": 0.0
+        },
+        "target_obj": "Panthera leo",
+        "direction": "increase",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "Panthera leo distance increase"
+    },
+    "17": {
+        "corrections": "walk a lot closer to the Hippopotamus amphibius",
+        "obj_names": [
+            "Nasalis larvatus",
+            "monastery",
+            "Vulpes macrotis",
+            "fire truck",
+            "Hippopotamus amphibius"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "Nasalis larvatus": 0.12,
+            "monastery": 0.08,
+            "Vulpes macrotis": 0.15,
+            "fire truck": 0.1,
+            "Hippopotamus amphibius": 0.9
+        },
+        "target_obj": "Hippopotamus amphibius",
+        "direction": "decrease",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "Hippopotamus amphibius distance decrease"
+    },
+    "18": {
+        "corrections": "stay much closer to the electric fan",
+        "obj_names": [
+            "electric fan",
+            "forklift",
+            "miniature schnauzer",
+            "maze"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "electric fan": 0.75,
+            "forklift": 0.08,
+            "miniature schnauzer": 0.12,
+            "maze": 0.15
+        },
+        "target_obj": "electric fan",
+        "direction": "decrease",
+        "intensity": "high",
+        "cart_axes": null,
+        "predicted_feature": "electric fan distance decrease"
+    },
+    "19": {
+        "corrections": "reduce the speed when passing in the proximity of the bubble",
+        "obj_names": [
+            "Bouvier des Flandres",
+            "syringe",
+            "bubble",
+            "overskirt"
+        ],
+        "change_type": "SPEED",
+        "similarity": {
+            "Bouvier des Flandres": 0.12,
+            "syringe": 0.15,
+            "bubble": 0.85,
+            "overskirt": 0.18
+        },
+        "target_obj": "bubble",
+        "direction": "decrease",
+        "intensity": "low",
+        "cart_axes": null,
+        "predicted_feature": "speed decrease"
+    },
+    "20": {
+        "corrections": "stay down",
+        "obj_names": [
+            "plinth",
+            "snail"
+        ],
+        "change_type": "DISTANCE",
+        "similarity": {
+            "plinth": 0.1,
+            "snail": 0.2
+        },
+        "target_obj": "snail",
+        "direction": "decrease",
+        "intensity": "neutral",
+        "cart_axes": null,
+        "predicted_feature": "snail distance decrease"
+    }
+}

@@ -1,0 +1,31 @@
+batch_r1: &batch_r1
+  - 1
+  - 20
+
+batch_r2: &batch_r2
+  - 21
+  - 40
+
+batch_r3: &batch_r3
+  - 41
+  - 60
+
+batch_r4: &batch_r4
+  - 61
+  - 80
+
+batch_r5: &batch_r5
+  - 81
+  - 100
+
+batch_debug: &batch_debug
+  - 51
+  - 52
+
+batches:
+  1: *batch_r1
+  2: *batch_r2
+  3: *batch_r3
+  4: *batch_r4
+  5: *batch_r5
+  9: *batch_debug

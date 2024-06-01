@@ -1,0 +1,558 @@
+[
+    {
+        "id": "XinZhi",
+        "success_idx": [
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            1,
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            1,
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "transcript_accuracy": "55.0%",
+        "feature_accuracy": "55.0%"
+    },
+    {
+        "id": "Meiwen",
+        "success_idx": [
+            1,
+            4,
+            5,
+            9,
+            10,
+            15,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18
+        ],
+        "transcript_accuracy": "40.0%",
+        "feature_accuracy": "40.0%"
+    },
+    {
+        "id": "Malthus",
+        "success_idx": [
+            1,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            17,
+            18
+        ],
+        "transcript_accuracy": "65.0%",
+        "feature_accuracy": "70.0%"
+    },
+    {
+        "id": "RuiQian",
+        "success_idx": [
+            3,
+            5,
+            7,
+            14,
+            15,
+            17,
+            20
+        ],
+        "failure_obj_idx": [
+            1,
+            2,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            18,
+            19
+        ],
+        "failure_transc_idx": [
+            1,
+            2,
+            4,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            18,
+            19
+        ],
+        "transcript_accuracy": "35.0%",
+        "feature_accuracy": "35.0%"
+    },
+    {
+        "id": "JN",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            17,
+            18
+        ],
+        "transcript_accuracy": "55.0%",
+        "feature_accuracy": "60.0%"
+    },
+    {
+        "id": "MinThet",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            5,
+            6,
+            8,
+            11,
+            12,
+            14,
+            16,
+            18
+        ],
+        "transcript_accuracy": "50.0%",
+        "feature_accuracy": "65.0%"
+    },
+    {
+        "id": "JunWei",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            15,
+            16,
+            18
+        ],
+        "transcript_accuracy": "55.0%",
+        "feature_accuracy": "60.0%"
+    },
+    {
+        "id": "RuiBin",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "transcript_accuracy": "60.0%",
+        "feature_accuracy": "60.0%"
+    },
+    {
+        "id": "MinnSet",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            8,
+            11,
+            12,
+            13,
+            16,
+            17,
+            18
+        ],
+        "transcript_accuracy": "50.0%",
+        "feature_accuracy": "60.0%"
+    },
+    {
+        "id": "ChorTeng",
+        "success_idx": [
+            1,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            14,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            15,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            3,
+            6,
+            8,
+            12,
+            13,
+            15,
+            16,
+            18
+        ],
+        "transcript_accuracy": "55.0%",
+        "feature_accuracy": "55.0%"
+    },
+    {
+        "id": "Brian",
+        "success_idx": [
+            1,
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            6,
+            7,
+            8,
+            12,
+            15,
+            16,
+            18
+        ],
+        "transcript_accuracy": "60.0%",
+        "feature_accuracy": "65.0%"
+    },
+    {
+        "id": "Joan",
+        "success_idx": [
+            1,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15,
+            17,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            18,
+            20
+        ],
+        "transcript_accuracy": "65.0%",
+        "feature_accuracy": "70.0%"
+    },
+    {
+        "id": "Arun",
+        "success_idx": [
+            1,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            17,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            6,
+            8,
+            12,
+            16,
+            17,
+            18
+        ],
+        "transcript_accuracy": "65.0%",
+        "feature_accuracy": "65.0%"
+    },
+    {
+        "id": "Heather",
+        "success_idx": [
+            1,
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            14,
+            15,
+            19,
+            20
+        ],
+        "failure_obj_idx": [
+            2,
+            6,
+            7,
+            8,
+            12,
+            13,
+            16,
+            17,
+            18
+        ],
+        "failure_transc_idx": [
+            2,
+            6,
+            8,
+            12,
+            13,
+            16,
+            18
+        ],
+        "transcript_accuracy": "65.0%",
+        "feature_accuracy": "55.0%"
+    }
+]
